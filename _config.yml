@@ -83,8 +83,8 @@ author:
   name             : "Gavin Brown"
   avatar           : "profile.jpeg"
   bio              : "Professor of Machine Leaning"
-  location         : "Manchester, UK"
-  employer         : "University of Manchester"
+  location         :
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IGApvF0AAAAJ&hl=en"
   email            :
