@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "My Group"
 permalink: /group/
 author_profile: true
