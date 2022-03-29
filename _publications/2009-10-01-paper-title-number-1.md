@@ -1,6 +1,6 @@
 ---
 title: "Bias-Variance Decompositions for Margin Losses"
-collection: publications
+collection: Publications 2022
 date: 2022-03-01
 venue: 'AISTATS 2022'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
