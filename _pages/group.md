@@ -1,7 +1,6 @@
 ---
-layout: default
-title: "My Group"
 permalink: /group/
+title: "My Group"
 author_profile: true
 ---
 
