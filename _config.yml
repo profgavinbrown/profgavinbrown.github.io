@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+provider           :  "google-universal" # false (default), "google", "google-universal", "custom"
+google:
+tracking_id        :
 
 
 # Site Author
@@ -83,12 +83,12 @@ author:
   name             : "Gavin Brown"
   avatar           : "profile.jpeg"
   bio              : "Professor of Machine Leaning"
-  location         : "University of Manchester"
-  employer         :
-  pubmed           : ""
+  location         : "Manchester, UK"
+  employer         : "University of Manchester"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=IGApvF0AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: ""
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "profgavinbrown"
