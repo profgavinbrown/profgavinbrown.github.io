@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Gavin Brown / University of Manchester"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Gavin Brown"
 description              : &description "personal description"
