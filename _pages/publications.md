@@ -1,8 +1,8 @@
 ---
-layout: splash
+layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---
 
 {% if author.googlescholar %}
