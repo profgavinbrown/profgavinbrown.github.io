@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: false
+author_profile: true
 ---
 
 
