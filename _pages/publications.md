@@ -4,9 +4,9 @@ title: "Publications"
 author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can find most if not all of these on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+You can also find these on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+
 
 {% include base_path %}
 
