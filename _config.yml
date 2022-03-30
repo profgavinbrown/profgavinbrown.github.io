@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Prof Gavin Brown"
+title                    : "Professor Gavin Brown"
 title_separator          : "-"
 name                     : &name "Gavin Brown"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ tracking_id        :
 author:
   name             : "Gavin Brown"
   avatar           : "profile.jpeg"
-  bio              : "Professor of Machine Leaning"
+  bio              : "Professor of Machine Learning"
   location         :
   employer         :
   pubmed           :
