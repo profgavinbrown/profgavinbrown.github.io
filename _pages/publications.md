@@ -1,11 +1,11 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
+author_profile: false
 ---
 
 
-You can also find these on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find these on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
 
 
 {% include base_path %}
