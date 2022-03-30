@@ -8,6 +8,7 @@ author_profile: true
 
 {{ title }}
 {{ twitter.username }} is the author here.
+
 You can also find these on <u><a href="{{ author.googlescholar }}">my Google Scholar profile</a>.</u>
 
 {% for post in site.publications reversed %}
