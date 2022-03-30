@@ -30,7 +30,8 @@
       {% if post.link %}
         {{ title }}
       {% else %}
-        <a href=" {{ post.paperurl }} "><u>{{ title }}</u></a>
+        <!-- <a href=" {{ post.paperurl }} ">{{ title }}</a> -->
+        {{ title }}
       {% endif %}
     </h3>
     
@@ -57,7 +58,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <!-- <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p> -->
+      <a href=" {{ post.paperurl }} "><u>PDF</u></a> -->
     {% endif %}
 
   </article>
