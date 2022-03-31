@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-Who am I? What do I do?
-======
-
 I am Professor of Machine Learning in the Department of Computer Science, at The University of Manchester.
 
 I am part of the Machine Learning and Optimization Group and my research interests vary between many topics.
