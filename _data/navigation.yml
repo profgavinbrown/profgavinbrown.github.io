@@ -10,9 +10,6 @@ main:
     
   - title: "Publications"
     url: /publications/ 
-
-- title: "News"
-    url: /news/
     
   - title: "Teaching"
     url: /teaching/   
