@@ -7,11 +7,17 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
+
+    {% if page.title == "Publications" %}
+       <img src="{{ base_path }}/images/bio-photo.png" class="author__avatar" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+       {% if author.avatar contains "://" %}
+    	   <img src="{{ author.avatar }}" alt="{{ author.name }}">
+       {% else %}
+      	   <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+       {% endif %}
     {% endif %}
+
   </div>
 
   <div class="author__content">
