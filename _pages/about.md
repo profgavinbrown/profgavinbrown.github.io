@@ -22,5 +22,5 @@ However I have applied work in  e.g. analytics on data from clinical trials, and
 
 News
 ======
-See my archived <b>news page</b> for older work, but recent activities are....
+See my archived <b>news page</b> for older work, but my recent activities have been....
 
