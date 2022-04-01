@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor of Machine Learning in the Department of Computer Science, at The University of Manchester.
+I am Professor of Machine Learning, in the Department of Computer Science, at The University of Manchester.
 
 
 What do I do?
