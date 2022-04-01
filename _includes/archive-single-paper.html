@@ -16,6 +16,10 @@
             &nbsp;[<a href=" {{ post.paperurl }} ">PDF</a>]
         {% endif %}
     
+        {% if post.googlescholar %}
+            &nbsp;[<a href=" {{ post.googleschoalr }} ">Google Scholar</a>]
+        {% endif %}
+    
         {% if post.authors %}
            <br>
            {{ post.authors }}
