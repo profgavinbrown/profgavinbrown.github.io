@@ -13,10 +13,7 @@ I am Professor of Machine Learning, in the Department of Computer Science, at Th
 
 What do I do?
 ======
-My research interests have varied over the years.  I have contributed mainly to the understanding of
-feature selection/extraction with information theoretic methods, and to the theory and practice of ensemble learning methods.
-Primarily I work on the theory behind these algorithms, and methodological improvements.
-However I have applied work in  e.g. analytics on data from clinical trials, and from predictive policing.
+I work on theoretical and methodological aspects of statistical Machine Learning.  I have contributed to the understanding of feature selection, with particular focus on information theoretic methods, and to ensemble learning methods, in particular the study of diversity. I have also applied work, e.g. bioinformatics, clinical trial data, and data from predictive policing.
 
 
 News
