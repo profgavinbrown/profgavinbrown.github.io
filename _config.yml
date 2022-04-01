@@ -80,9 +80,9 @@ tracking_id        :
 
 # Site Author
 author:
-  name             : "Professor Gavin Brown"
+  name             : "Gavin Brown"
   avatar           : "profile.jpeg"
-  bio              : ""
+  bio              : "Professor of Machine Learning"
   location         :
   employer         :
   pubmed           :
