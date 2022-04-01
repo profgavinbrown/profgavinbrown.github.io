@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Professor Gavin Brown"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Gavin Brown"
+name                     : &name "Professor Gavin Brown"
 description              : &description "personal description"
 url                      : https://profgavinbrown.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
