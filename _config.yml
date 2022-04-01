@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Prof Gavin Brown
+title                    : "Prof Gavin Brown"
 title_separator          : "-"
 name                     : &name "Professor Gavin Brown"
 description              : &description "personal description"
