@@ -26,19 +26,22 @@
       </div>
     {% endif %}
 
-    <h3 class="archive__item-title" itemprop="headline">
+     <!-- <h3 class="archive__item-title" itemprop="headline"> -->
+    
       {% if post.link %}
-        {{ title }}
+        <b>{{ title }}</b>
       {% else %}
         <!-- <a href=" {{ post.paperurl }} ">{{ title }}</a> -->
-        {{ title }}
+
+        <b>{{ title }}</b>
+        
         {% if post.paperurl %}
-             [<a href=" {{ post.paperurl }} ">PDF</a>]
+             &nbsp;&nbsp;[<a href=" {{ post.paperurl }} ">PDF</a>]
         {% endif %}
 
       {% endif %}
 
-    </h3>
+     <!-- </h3> -->
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
