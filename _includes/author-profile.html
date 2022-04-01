@@ -10,6 +10,9 @@
 
     {% if page.title == "Publications." %}
        <img src="{{ base_path }}/images/publications.jpeg" class="author__avatar" alt="{{ author.name }}">
+    {% elseif page.title == "My Group." %}
+       <img src="{{ base_path }}/images/group.jpeg" class="author__avatar" alt="{{ author.name }}">
+
     {% else %}
        {% if author.avatar contains "://" %}
     	   <img src="{{ author.avatar }}" alt="{{ author.name }}">
