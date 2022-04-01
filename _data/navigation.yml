@@ -4,14 +4,16 @@ main:
 
   - title: "Home"
     url: /
+    
+  - title: "News"
+    url: /news/
 
   - title: "Publications"
-    url: /publications/
+    url: /publications/ 
 
-  - title: "Teaching"
-    url: /teaching/    
-
-  - title: "Group"
+  - title: "My Group"
     url: /group/
     
+  - title: "Teaching"
+    url: /teaching/   
     
