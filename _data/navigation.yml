@@ -5,14 +5,14 @@ main:
   - title: "Home"
     url: /
     
-  - title: "News"
-    url: /news/
-
+  - title: "My Group"
+    url: /group/
+    
   - title: "Publications"
     url: /publications/ 
 
-  - title: "My Group"
-    url: /group/
+- title: "News"
+    url: /news/
     
   - title: "Teaching"
     url: /teaching/   
