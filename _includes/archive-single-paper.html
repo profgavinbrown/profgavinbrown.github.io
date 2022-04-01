@@ -30,11 +30,13 @@
     
       {% if post.link %}
         <b>{{ title }}</b>
+        {{ post.authors }}
       {% else %}
         <!-- <a href=" {{ post.paperurl }} ">{{ title }}</a> -->
 
         <b>{{ title }}</b>
-        
+        Authors: {{ post.authors }}
+
         {% if post.paperurl %}
              &nbsp;&nbsp;[<a href=" {{ post.paperurl }} ">PDF</a>]
         {% endif %}
