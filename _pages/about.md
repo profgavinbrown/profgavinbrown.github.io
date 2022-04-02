@@ -17,7 +17,7 @@ I work on theoretical and methodological aspects of Machine Learning.
 I have contributed to the understanding of "feature selection" algorithms, with particularly nice results on information theoretic methods, and on the stability of algorithms.
 I have also contributed to the area of "ensemble" learning methods, in particular the study of diversity, and cost-sensitivity.
 I have applied these ideas in, e.g. bioinformatics, clinical trial data, and data from predictive policing.
-
+For a less technical explanation, <a href="">click here</a>.
 
 News
 ======
