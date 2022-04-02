@@ -23,5 +23,5 @@ News
 ======
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
-<a href="">How to Get Your PhD: A Handbook for the Journey</a>
+<b>March 2021:</b I wrote a book... <a href="">How to Get Your PhD: A Handbook for the Journey</a>
 <b>WEBPAGE STILL UNDER DEVELOPMENT...</b>
