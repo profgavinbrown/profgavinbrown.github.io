@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "What do I do?"
+title: ""
 excerpt: "I do things. What things?"
 author_profile: true
 redirect_from: 
