@@ -27,11 +27,11 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 
 <b>WEBPAGE STILL UNDER DEVELOPMENT...</b>
 
-<div style="padding:20px;display:inline-block;vertical-align:top;align:middle;">
+<div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
    <img src="https://loremflickr.com/180/180" alt="img"/>
 </div>
 
-<div style="padding:20px;display:inline-block;">
+<div style="width:100%;padding:10px;display:inline-block;">
 <p>
    Here goes the text content.
    Here goes the text content.
