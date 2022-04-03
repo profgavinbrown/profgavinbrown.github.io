@@ -15,7 +15,7 @@ Feature Selection. What's that?
 Imagine you're trying to guess the price of a car.
 You are provided with various pieces of information, like the make and model, year of manufacture, etc.
 In solving any given problem like this, some pieces of information are relevant, some are irrelevant, and some are redundant in the context of others.
-Figuring out which is which, <b>automatically<\b> is the task of
+Figuring out which is which, <i>automatically</i> is the task of
 <b>feature selection<\b> algorithms, also known as "variable selection", among other names.
 In the car example, the number of miles on the clock clearly matters, while the colour of the wheel trim probably does not.
 The age of the car is probably redundant if you know the mileage.
