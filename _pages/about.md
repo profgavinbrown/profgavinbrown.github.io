@@ -30,6 +30,8 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempor varius mauris, ac fringilla diam pulvinar et. Cras tincidunt eros mauris, molestie molestie quam efficitur facilisis. Etiam pulvinar diam et tortor iaculis malesuada. Suspendisse potenti. Suspendisse in blandit nunc. Morbi et tempus ipsum. Integer in orci vel libero egestas cursus. Vivamus non nunc sit amet erat malesuada eleifend et sit amet ante. Integer luctus nec metus suscipit molestie. Mauris tincidunt dolor vitae viverra pharetra. Nullam in sem in ipsum iaculis lacinia vel tincidunt tellus. Curabitur non consequat turpis.
 {: .notice}
 
-> this is a test <img src="{{ base_path }}/images/image-alignment-150x150.jpg"> This is a test.
+Hello
+<img style="float: right; margin: 0px 0px 15px 15px;" src="{{ base_path }}/images/image-alignment-150x150.jpg" width="100" />
+Hello
 
-> hello
+
