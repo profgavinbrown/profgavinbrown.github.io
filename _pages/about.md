@@ -30,8 +30,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 <div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
    <img src="https://loremflickr.com/180/180" alt="img"/>
 </div>
-
-<div style="border:1px;padding:10px;display:inline-block;">
+<div style="border:1px solid black;padding:10px;display:inline-block;">
 <p>
    Here really goes the text content.
    Here goes the text content.
