@@ -26,3 +26,5 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 <b>March 2021:</b> I wrote a book... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>
 
 <b>WEBPAGE STILL UNDER DEVELOPMENT...</b>
+<img src="image-alignment-150x150.jpg">
+{.notice}
