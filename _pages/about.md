@@ -31,11 +31,22 @@ See my archived <b>news page</b> for older work, but my recent activities have b
    I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
 </div>
 
+<br>
 
-<div id="qr" style="width:49%;display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
+<div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
   <img src="http://loremflickr.com/180/180" style="height:3.8cm;">
 </div>
-<div style="border:1px solid blue;width:50%;display:inline-block;vertical-align: middle;">
+<div style="border:1px solid blue;width:100%;display:inline-block;vertical-align: middle;">
   <b>March 2021:</b>
    I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
+</div>
+
+<br>
+
+<div style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
+  <img src="http://loremflickr.com/180/180" style="height:3.8cm;">
+</div>
+<div style="border:1px solid blue;width:100%;display:inline-block;vertical-align: middle;">
+  <b>March 2023: </b>
+   I wrote a book again, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
 </div>
