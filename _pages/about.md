@@ -23,6 +23,12 @@ News
 ======
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
+<div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
+  <img src="http://i.stack.imgur.com/25Rl3.jpg" style="height:3.8cm;">
+</div>
+<div style="display:inline-block;vertical-align: middle;">
+  This is some sample text.
+</div>
 
 <div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
    <img src="https://loremflickr.com/180/180/university" alt="img"/>
