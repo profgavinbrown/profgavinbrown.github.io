@@ -27,7 +27,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 
 <b>WEBPAGE STILL UNDER DEVELOPMENT...</b>
 
-<div style="display:inline-block;margin=3em;">
+<div style="padding:20px;display:inline-block;margin=3em;">
 <p>
 Here goes the text content.
 </p>
