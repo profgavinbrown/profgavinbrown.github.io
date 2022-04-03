@@ -32,7 +32,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 </div>
 <div style="border:1px solid black;padding:10px;display:inline-block;">
 <p>
-   Here really goes the text content.
+   Here goes the text content.
    Here goes the text content.
    Here goes the text content.
 </p>
