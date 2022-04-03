@@ -33,7 +33,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 
 <div style="border:1px;padding:10px;display:inline-block;">
 <p>
-   Here goes the text content.
+   Here really goes the text content.
    Here goes the text content.
    Here goes the text content.
 </p>
