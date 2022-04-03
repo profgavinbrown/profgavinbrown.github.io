@@ -33,5 +33,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempor varius mau
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempor varius mauris, ac fringilla diam pulvinar et. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tempor varius mauris, ac fringilla diam pulvinar et.
 <img style="float: right; margin: 0px 0px 15px 15px;" src="{{ base_path }}/images/image-alignment-150x150.jpg" width="100" />
 
-
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://loremflickr.com/320/240" alt="img"/>
+</div>
+<div style="display:inline-block;">
+<p>
+Here goes the text content.
+</p>
+</div>
 
