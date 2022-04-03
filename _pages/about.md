@@ -37,3 +37,14 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 </p>
 </div>
 
+<div style="display:inline-block;vertical-align:top;align:middle;">
+   <img src="https://loremflickr.com/180/180/university" alt="img"/>
+</div>
+<div style="padding:10px;display:inline-block;">
+<p>
+   <b>April 2022:</b>
+   Here goes the text content.
+   Here goes the text content.
+   Here goes the text content.
+</p>
+</div>
