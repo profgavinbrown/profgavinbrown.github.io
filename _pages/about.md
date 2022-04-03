@@ -27,7 +27,17 @@ See my archived <b>news page</b> for older work, but my recent activities have b
   <img src="http://i.stack.imgur.com/25Rl3.jpg" style="">
 </div>
 <div style="padding-left: 10px;width:70%;display:inline-block;vertical-align: top;">
-  <b>January 2021:</b>
+  <b>January 2021</b><br>
+   I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
+</div>
+
+<br>
+
+<div style="width:30%;display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
+  <img src="http://i.stack.imgur.com/25Rl3.jpg" style="">
+</div>
+<div style="padding-left: 10px;width:70%;display:inline-block;vertical-align: top;">
+  <b>January 2021</b><br>
    I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
 </div>
 
@@ -37,7 +47,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
   <img src="http://i.stack.imgur.com/25Rl3.jpg" style="height:3.8cm;">
 </div>
 <div style="padding:10px;width:70%;display:inline-block;vertical-align: middle;">
-  <b>January 2022:</b>
+  <b>January 2022:</b><br>
    I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
 </div>
 
@@ -47,6 +57,6 @@ See my archived <b>news page</b> for older work, but my recent activities have b
   <img src="http://i.stack.imgur.com/25Rl3.jpg" style="height:3.8cm;">
 </div>
 <div style="padding:10px;width:70%;display:inline-block;vertical-align: middle;">
-  <b>January 2023:</b>
+  <b>January 2023:</b><br>
    I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
 </div>
