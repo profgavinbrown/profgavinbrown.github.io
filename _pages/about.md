@@ -24,7 +24,7 @@ News
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
-  <img src="http://i.stack.imgur.com/25Rl3.jpg" style="">
+  <img src="https://loremflickr.com/320/240/fish" style="">
 </div>
 <div style="padding-left: 10px;width:70%;display:inline-block;vertical-align: top;">
   <b>January 2021</b><br>
@@ -34,7 +34,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 <br>
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
-  <img src="http://i.stack.imgur.com/25Rl3.jpg" style="">
+  <img src="https://loremflickr.com/320/240/hat" style="">
 </div>
 <div style="padding-left: 10px;width:70%;display:inline-block;vertical-align: top;">
   <b>January 2021</b><br>
@@ -44,7 +44,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 <br>
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
-  <img src="http://i.stack.imgur.com/25Rl3.jpg" style="height:3.8cm;">
+  <img src="https://loremflickr.com/320/240/small" style="height:3.8cm;">
 </div>
 <div style="padding:10px;width:70%;display:inline-block;vertical-align: middle;">
   <b>January 2022:</b><br>
@@ -54,7 +54,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 <br>
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
-  <img src="http://i.stack.imgur.com/25Rl3.jpg" style="height:3.8cm;">
+  <img src="https://loremflickr.com/320/240/ear" style="height:3.8cm;">
 </div>
 <div style="padding:10px;width:70%;display:inline-block;vertical-align: middle;">
   <b>January 2023:</b><br>
