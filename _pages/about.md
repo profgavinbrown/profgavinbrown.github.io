@@ -28,7 +28,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 </div>
 <div style="width:50%;display:inline-block;vertical-align: middle;">
   <b>March 2021:</b>
-   I wrote a book... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
+   I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
 </div>
 
 <div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
