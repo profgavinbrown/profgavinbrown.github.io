@@ -27,12 +27,12 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 
 <b>WEBPAGE STILL UNDER DEVELOPMENT...</b>
 
-<div style="display:inline-block;vertical-align:top;align:middle;">
-<img src="https://loremflickr.com/320/240" alt="img"/>
-</div>
 <div style="display:inline-block;margin=3em;">
 <p>
 Here goes the text content.
 </p>
+</div>
+<div style="display:inline-block;vertical-align:top;align:middle;">
+<img src="https://loremflickr.com/180/180" alt="img"/>
 </div>
 
