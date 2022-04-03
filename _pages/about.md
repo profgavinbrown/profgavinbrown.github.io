@@ -23,10 +23,19 @@ News
 ======
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
-<b>March 2021:</b> I wrote a book... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>
 
-<div style="display:inline-block;vertical-align:top;align:middle;">
+<div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
    <img src="https://loremflickr.com/180/180/university" alt="img"/>
+</div>
+<div style="padding:10px;display:inline-block;">
+<p>
+   <b>March 2021:</b>
+   I wrote a book... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>.
+</p>
+</div>
+
+<div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
+   <img src="https://loremflickr.com/180/180/book" alt="img"/>
 </div>
 <div style="padding:10px;display:inline-block;">
 <p>
@@ -37,8 +46,8 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 </p>
 </div>
 
-<div style="display:inline-block;vertical-align:top;align:middle;">
-   <img src="https://loremflickr.com/180/180/university" alt="img"/>
+<div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
+   <img src="https://loremflickr.com/180/180/cat" alt="img"/>
 </div>
 <div style="padding:10px;display:inline-block;">
 <p>
