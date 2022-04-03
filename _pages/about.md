@@ -27,4 +27,8 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 
 <b>WEBPAGE STILL UNDER DEVELOPMENT...</b>
 <img src="image-alignment-150x150.jpg">
-{.notice}
+{: .notice}
+
+> <img src="image-alignment-150x150.jpg"> This is a test.
+
+> hello
