@@ -28,7 +28,7 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 <b>WEBPAGE STILL UNDER DEVELOPMENT...</b>
 
 <div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
-   <img src="https://loremflickr.com/180/180" alt="img"/>
+   <img src="https://loremflickr.com/180/180/university" alt="img"/>
 </div>
 <div style="border:1px solid black;padding:10px;display:inline-block;">
 <p>
