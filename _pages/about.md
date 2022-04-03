@@ -25,13 +25,12 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 
 <b>March 2021:</b> I wrote a book... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>
 
-<b>WEBPAGE STILL UNDER DEVELOPMENT...</b>
-
-<div style="padding:10px;display:inline-block;vertical-align:top;align:middle;">
+<div style="display:inline-block;vertical-align:top;align:middle;">
    <img src="https://loremflickr.com/180/180/university" alt="img"/>
 </div>
-<div style="border:1px solid black;padding:10px;display:inline-block;">
+<div style="padding:10px;display:inline-block;">
 <p>
+   <b>March 2022:</b>
    Here goes the text content.
    Here goes the text content.
    Here goes the text content.
