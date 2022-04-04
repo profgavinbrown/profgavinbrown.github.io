@@ -23,7 +23,7 @@ News
 ======
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
-<img src="https://loremflickr.com/320/240/fish" align="left"> I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>. Shall I put some more text here? Test test test yes test test test.
+<img height="3cm" src="https://loremflickr.com/320/240/fish" align="left"> I wrote a book, I did... <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>. Shall I put some more text here? Test test test yes test test test.
 
 
 
