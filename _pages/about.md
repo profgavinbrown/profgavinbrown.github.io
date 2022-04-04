@@ -23,6 +23,8 @@ News
 ======
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
+<img src="https://loremflickr.com/320/240/fish" style="align:left; width:30%">jdkfjf
+
 <div style="width:30%;display:inline-block; min-width:2.2cm; height:3.8cm; align: center;vertical-align: middle;" >
   <img src="https://loremflickr.com/320/240/fish" style="">
 </div>
