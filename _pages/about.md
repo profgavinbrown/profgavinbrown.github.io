@@ -25,10 +25,6 @@ News
 ======
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
-{% for post in site.news %}
-  {% include archive-single-newsitem.html %}
-{% endfor %}
-
 
 
 <div style="width:100%;display:inline-block;vertical-align: top;">
