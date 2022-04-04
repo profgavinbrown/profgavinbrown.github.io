@@ -23,6 +23,13 @@ News
 ======
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
+<div style="padding-left: 10px;width:100%;display:inline-block;vertical-align: top;">
+  <b>January 2020</b><br>
+   Test <a href="https://www.amazon.co.uk/dp/0198866925/ref=cm_sw_r_cp_api_i_3PEZ36H3E56RKD8TET5D">How to Get Your PhD: A Handbook for the Journey</a>. Shall I put some more text here? Test test test yes test test test.
+</div>
+
+<br>
+
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
   <img src="https://loremflickr.com/320/240/fish" style="">
 </div>
