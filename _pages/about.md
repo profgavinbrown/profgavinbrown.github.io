@@ -27,7 +27,6 @@ See my archived <b>news page</b> for older work, but my recent activities have b
 
 {% for post in site.news %}
   {% include archive-single-newsitem.html %}
-  <hr>
 {% endfor %}
 
 
