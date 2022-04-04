@@ -13,11 +13,13 @@ I am Professor of Machine Learning, in the Department of Computer Science.
 
 What do I do?
 ======
+<div style="text-align: justify;">
 I work on theoretical and methodological aspects of Machine Learning.
 I have contributed to the understanding of "feature selection" algorithms, with particularly nice results on information theoretic methods, and on the stability of algorithms.
 I have also contributed to the area of "ensemble" learning methods, in particular the study of diversity, and cost-sensitivity.
 I have applied these ideas in, e.g. bioinformatics, clinical trial data, and data from predictive policing.
 Or, you may prefer <a href="{{ base_path }}/non-menu-page">an explanation without all the technical jargon</a>.
+</div>
 
 News
 ======
