@@ -19,7 +19,7 @@ I have contributed to the understanding of "feature selection" algorithms, with 
 I have also contributed to the area of "ensemble" learning methods, in particular the study of diversity, and cost-sensitivity.
 I have applied these ideas in, e.g. bioinformatics, clinical trial data, and data from predictive policing.
 Or, you may prefer <a href="{{ base_path }}/non-menu-page">an explanation without all the technical jargon</a>.
-</div>
+</div><br>
 
 News
 ======
