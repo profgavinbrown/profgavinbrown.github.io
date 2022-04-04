@@ -1,0 +1,42 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+        <b>{{ title }}</b>
+    
+        {% if post.paperurl %}
+            <br>[<a href="{{ post.paperurl }} ">PDF</a>]
+        {% endif %}
+    
+        {% if post.googlescholar %}
+            &nbsp;[<a href="{{ post.googlescholar }} ">Google Scholar</a>]
+        {% endif %}
+    
+        {% if post.authors %}
+           <br>
+           {{ post.authors }}
+        {% endif %}
+    
+        {% if post.venue %}
+           <br>
+           <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+        {% endif %}
+
+    
+        {% if post.excerpt and site.read_more != 'enabled' %}
+             <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+        {% elsif post.excerpt and site.read_more == 'enabled' %}
+             <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+        {% endif %}
+    
+  </article>
+
+</div>
