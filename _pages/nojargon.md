@@ -3,9 +3,6 @@ permalink: /nojargon/
 title: ""
 excerpt: "An explanation without all the technical jargon."
 author_profile: true
-redirect_from: 
-  - "/nojargon/"
-  - "/nojargon.html"
 ---
 
 

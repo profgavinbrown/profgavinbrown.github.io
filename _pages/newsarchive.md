@@ -3,9 +3,6 @@ permalink: /newsarchive/
 title: "News (archived)"
 excerpt: "My old news."
 author_profile: true
-redirect_from: 
-  - "/newsarchive/"
-  - "/newsarchive.html"
 ---
 
 
