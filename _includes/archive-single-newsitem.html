@@ -2,6 +2,6 @@
 
     
 <div style="width:100%;display:inline-block;vertical-align: top;">
-         <b>{{ post.date | default: "1900-01-01" | date: "%month %Y" }}</b><br>
+         <b>{{ post.date | default: "1900-01-01" | date: "%-d %B %Y" }}</b><br>
          {{ post.text }}
 </div>
