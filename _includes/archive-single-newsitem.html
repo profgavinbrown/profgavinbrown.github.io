@@ -1,6 +1,10 @@
 {% include base_path %}
 
-<div style="width:100%;display:inline-block;vertical-align: top;">
-  <b>{{ post.date | default: "1900-01-01" | date: "%M %Y" }}</b><br>
-   {{ post.text }}
+<div class="{{ include.type | default: "list" }}__item">
+
+  <div style="width:100%;display:inline-block;vertical-align: top;">
+   <b>{{ post.date | default: "1900-01-01" | date: "%M %Y" }}</b><br>
+    {{ post.text }}
+  </div>
+  
 </div>
