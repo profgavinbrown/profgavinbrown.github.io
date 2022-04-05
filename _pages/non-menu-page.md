@@ -44,10 +44,10 @@ Scientific Philosophy
 -----
 
 I like the perspective on science put forward in chapter 3 of <b>Infinite in All Directions<\b>, by Freeman Dyson.
-<b>Unifiers<\b> are people whose driving passion is to find general principles which will explain everything.
+<b>Unifiers</b> are people whose driving passion is to find general principles which will explain everything.
 They are happy if they can leave the universe looking a little simpler than they found it.
-<b>Diversifiers<\b> are people whose passion is to explore details.
-They are in love with the heterogeneity of nature and they agree with the saying, <i>"Le bon Dieu aime les details."<\i>
+<b>Diversifiers</b> are people whose passion is to explore details.
+They are in love with the heterogeneity of nature and they agree with the saying, <i>"Le bon Dieu aime les details."</i>
 They are happy if they leave the universe a little more complicated than they found it.
 
 I've mostly been a unifier.
