@@ -1,4 +1,5 @@
 ---
-date: 2007-03-3
-text: 'lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem'
+title: "hello goodbye"
+date: 2007-04-1
+excerpt: "lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem lorem ipsem"
 ---
