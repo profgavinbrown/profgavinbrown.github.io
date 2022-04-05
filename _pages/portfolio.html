@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.news %}
+  {% include archive-single-newsitem.html %}
+{% endfor %}
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
