@@ -1,17 +1,5 @@
 {% include base_path %}
 
-{% if post.image %}
-
-    <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-        <img src="https://loremflickr.com/320/240/fish" style="">
-    </div>
-    <div style="padding-left: 10px;width:70%;display:inline-block;vertical-align: top;">
-            <b>{{ post.date | default: "1900-01-01" | date: "%-d %B %Y" }}</b><br>
-            {{ post.text }}
-            <hr>
-    </div> 
-
-{% else %}
 
     <div style="width:100%;display:inline-block;vertical-align: top;">
             <b>{{ post.date | default: "1900-01-01" | date: "%-d %B %Y" }}</b><br>
@@ -19,5 +7,3 @@
             <hr>
     </div>
 
-{% endif %}
-    
