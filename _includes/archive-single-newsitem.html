@@ -2,12 +2,12 @@
 
 {% if post.image %}
 
-<div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-                  <img src="{{ post.image }}" style="">
-</div>
 <div style="padding-left:10px;width:70%;display:inline-block;vertical-align: top;">
               <b>{{ post.date | default: "1900-01-01" | date: "%-d %B %Y" }}</b><br>
               {{ post.text }}
+</div>
+<div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
+                  <img src="{{ post.image }}" style="">
 </div>
 
 <hr>
