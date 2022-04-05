@@ -39,3 +39,17 @@ Next, we thought about the following question --- what if you changed the data t
 Would it still identify the same set of features as "important"?  The simple answer is (for most methods), no.
 The harder question is how to measure this "stability" of algorithms. We....
 
+
+Scientific Philosophy
+-----
+
+I like the perspective on science put forward in chapter 3 of <b>Infinite in All Directions<\b>, by Freeman Dyson.
+<b>Unifiers<\b> are people whose driving passion is to find general principles which will explain everything.
+They are happy if they can leave the universe looking a little simpler than they found it.
+<b>Diversifiers<\b> are people whose passion is to explore details.
+They are in love with the heterogeneity of nature and they agree with the saying, <i>"Le bon Dieu aime les details."<\i>
+They are happy if they leave the universe a little more complicated than they found it.
+
+I've mostly been a unifier.
+Though I believe unifications can only come from looking at the details.
+So maybe I'm a bit of both.
