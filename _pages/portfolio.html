@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+BEGIN
 {% for post in site.news %}
   {% include archive-single.html %}
 {% endfor %}
-
+END
