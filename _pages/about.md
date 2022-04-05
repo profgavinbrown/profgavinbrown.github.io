@@ -26,8 +26,8 @@ News
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% for post in site.news %}
+  {% include archive-single-newsitem.html %}
 {% endfor %}
 
 <hr>
