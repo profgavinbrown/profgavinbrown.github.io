@@ -1,11 +1,11 @@
 ---
-permalink: /non-menu-page/
+permalink: /nojargon/
 title: ""
 excerpt: "An explanation without all the technical jargon."
 author_profile: true
 redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
+  - "/nojargon/"
+  - "/nojargon.html"
 ---
 
 
@@ -43,7 +43,7 @@ The harder question is how to measure this "stability" of algorithms. We....
 Scientific Philosophy
 -----
 
-I like the perspective on science put forward in chapter 3 of <b>Infinite in All Directions</b>, by Freeman Dyson.
+I like the perspective on science put forward in chapter 3 of <b>Infinite in All Directions</b>, by Freeman Dyson.  He says there are two types of scientist...
 
 > <b>Unifiers</b> are people whose driving passion is to find general principles which will explain everything. They are happy if they can leave the universe looking a little simpler than they found it.
 

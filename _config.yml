@@ -190,7 +190,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
-
+  newsarchive:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -251,6 +253,15 @@ defaults:
   - scope:
       path: ""
       type: news
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _newsarchive
+  - scope:
+      path: ""
+      type: newsarchive
     values:
       layout: single
       author_profile: true
