@@ -26,6 +26,11 @@ News
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
 
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<hr>
 
 <div style="width:100%;display:inline-block;vertical-align: top;">
   <b>January 2020</b><br>
