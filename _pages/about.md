@@ -25,7 +25,7 @@ News
 ======
 See my archived <b>news page</b> for older work, but my recent activities have been....
 
-{% for post in site.news %}
+{% for post in site.news reversed %}
   {% include archive-single-newsitem.html %}
 {% endfor %}
 
