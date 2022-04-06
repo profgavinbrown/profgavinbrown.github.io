@@ -6,5 +6,4 @@ venue: 'PhD thesis, University of Birmingham'
 authors: "Gavin Brown"
 paperurl: 'http://profgavinbrown.github.io/files/brown2004phd.pdf'
 ---
-
 <b>Winner, BCS Distinguished Dissertation Award 2004</b>
