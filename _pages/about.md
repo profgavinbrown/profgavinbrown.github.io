@@ -23,7 +23,7 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
 
 News
 ======
-See my <a href="{{ base_path }}/newsarchive">archived news page</a> for older work, but my recent activities have been....
+See my <a href="{{ base_path }}/newsarchive">archived news page</a> for older work, but my recent activities have been...
 
 {% for post in site.news reversed %}
   {% include archive-single-newsitem.html %}
