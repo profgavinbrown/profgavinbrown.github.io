@@ -10,14 +10,15 @@
 
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
-        <b>{{ title }}</b>
-    
+         
         {% if post.paperurl %}
-            <br>[<a href="{{ post.paperurl }} ">PDF</a>]
+            <a href="{{ post.paperurl }} ">{{ title }}</a>
+        {% else %}
+            <b>{{ title }}</b>
         {% endif %}
     
         {% if post.googlescholar %}
-            &nbsp;[<a href="{{ post.googlescholar }} ">Google Scholar</a>]
+           <!-- &nbsp;[<a href="{{ post.googlescholar }} ">Google Scholar</a>] -->
         {% endif %}
     
         {% if post.authors %}
