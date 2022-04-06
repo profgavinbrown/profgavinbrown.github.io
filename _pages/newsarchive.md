@@ -13,4 +13,4 @@ author_profile: true
 {% endfor %}
 
 		
-<a href="#" class="raptorizeMe">Please don't click here.</a>	
+<a href="#" class="myButton">Please don't click here.</a>	
