@@ -10,10 +10,11 @@
 
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
-        <b>{{ title }}</b>
-    
+         
         {% if post.paperurl %}
-            <br>[<a href="{{ post.paperurl }} ">PDF</a>]
+            <br><a href="{{ post.paperurl }} ">{{ title }}</a>
+        {% else %}
+            <b>{{ title }}</b>
         {% endif %}
     
         {% if post.googlescholar %}
