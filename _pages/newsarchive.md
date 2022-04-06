@@ -12,5 +12,3 @@ author_profile: true
   {% include archive-single-newsitem.html %}
 {% endfor %}
 
-		
-<a href="#" class="myButton">Please don't click here.</a>	
