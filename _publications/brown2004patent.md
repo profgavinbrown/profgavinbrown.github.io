@@ -1,5 +1,5 @@
 ---
-title: "EU Patent; Method for Exploiting Ensemble Diversity for Automatic Feature Extraction"
+title: "Method for Exploiting Ensemble Diversity for Automatic Feature Extraction"
 collection: publications
 date: 2004-08-1
 venue: 'European Patent no EP1378855. Sponsored by Honda Research Europe'
