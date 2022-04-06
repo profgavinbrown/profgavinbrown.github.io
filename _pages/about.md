@@ -29,8 +29,6 @@ See my <a href="{{ base_path }}/newsarchive">archived news page</a> for older wo
   {% include archive-single-newsitem.html %}
 {% endfor %}
 
-<p><a href="#" class="button">Click me</a>.</p>
-
 
 
 
