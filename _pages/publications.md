@@ -13,6 +13,8 @@ THIS IS DEFINITELY HERE.
 
 {% for whichyear in (2006..2010) %}
 
+  {{ whichyear }}
+  
   {% assign subfolder = site.publications | where_exp: "item" , "item.path contains '{{ whichyear }}'" %}
 
   {% for post in subfolder reversed %}
