@@ -10,13 +10,13 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 <hr>
 
-IS THIS OK OK OK HERE ????
+IS THIS NOT ????
 
 {% for whichyear in (2006..2010) reversed %}
 
   <h2>{{ whichyear }}</h2>
   
-  {% assign myCondition = "item.path contains '" | append: "2007" | append: "'" %}
+  {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}
 
   {{ myCondition }}
   
