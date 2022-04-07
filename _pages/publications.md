@@ -16,7 +16,7 @@ IS THIS OK OK OK HERE ????
 
   <h2>{{ whichyear }}</h2>
   
-  {% assign myCondition = "item.path contains '" | append: "2008" | append: "'" %}
+  {% assign myCondition = "item.path contains '" | append: "2007" | append: "'" %}
 
   {{ myCondition }}
   
