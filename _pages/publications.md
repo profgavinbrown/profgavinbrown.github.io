@@ -17,7 +17,7 @@ THIS IS HERE ????
   
   {% assign myCondition = "item.path contains '" | append: {{ whichyear }} | append: "'" %}
 
-  {% assign subfolder = site.publications | where_exp: "item" , myCondition %}
+  {% assign subfolder = site.publications | where_exp: "item" , {{myCondition}} %}
   
   {% for post in subfolder reversed %}
     {% include archive-single-paper.html %}
