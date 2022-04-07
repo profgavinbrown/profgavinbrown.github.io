@@ -18,6 +18,8 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   
    {% capture howMany %}{{ thisYearsPapers | size | plus:0 }}{% endcapture %}
 
+   THIS MANY IS HOW MANY {{ howMany }}
+   
    {% if howMany > 0 %}
    
       <h2>{{ whichyear }}</h2>
