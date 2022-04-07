@@ -15,7 +15,7 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}  
   {% assign subfolder = site.publications | where_exp: "item" , myCondition %}
   
-  {% if subfolder != ""  %}
+  {% if subfolder %}
   
      <h2>{{ whichyear }}</h2>
 
