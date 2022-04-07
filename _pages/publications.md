@@ -10,8 +10,6 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 <hr>
 
-SURE MUCH?
-
 {% for whichyear in (2001..2022) reversed %}
   
   {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}  
@@ -19,8 +17,6 @@ SURE MUCH?
   {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
   {% if thisYearsPapers.size > 0 %}
-  
-     <h2>{{ whichyear }}</h2>
      
      {% for post in thisYearsPapers reversed %}
          {% include archive-single-paper.html %}
