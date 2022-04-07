@@ -18,7 +18,7 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   
    {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
    
-   {% assign howMany = howMany | times: 1 %}
+   {% assign howMany = howMany | to_integer %}
    
    {% if howMany > 0 %}
    
