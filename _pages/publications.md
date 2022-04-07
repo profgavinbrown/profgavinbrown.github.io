@@ -11,6 +11,8 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 <hr>
 
 {% for year in site.publications reversed %}
+  <h2>{{ year }}</h2>
+  
   {% for post in site.publications.{{ year }} reversed %}
      {% include archive-single-paper.html %}
   {% endfor %}
