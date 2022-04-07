@@ -22,9 +22,9 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
    
    {{ myCondition }}
  
-   {% if howMany contains '0' %}
+   {% if howMany contains "0" %}
 
-        2010
+        Yes 2010 yes
 
    {% endif %}
 
