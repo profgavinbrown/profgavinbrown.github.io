@@ -23,9 +23,7 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
    {{ myCondition }}
  
    {% if howMany contains "0" %}
-
-        Yes 2010 yes
-
+   Yes 2010 yes
    {% endif %}
 
    No no no
