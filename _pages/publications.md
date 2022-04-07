@@ -16,7 +16,7 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   
    {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
-   {% capture howMany %}{{ thisYearsPapers | size | plus:0 }}{% endcapture %}
+   {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
 
    THIS MANY IS HOW MANY {{ howMany }}
    
