@@ -18,7 +18,7 @@ SURE MUCH?
   
   {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
-  {% if thisYearsPapers.length > 0 %}
+  {% if thisYearsPapers.size > 0 %}
   
      <h2>{{ whichyear }}</h2>
      
