@@ -16,9 +16,9 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   
    {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
-   {% capture howMany %}{{ thisYearsPapers | size | to_integer }}{% endcapture %}
+   {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
    
-   {% if howMany > 0 %}
+   {% if {{ howMany | to_integer }} > 0 %}
    
       <h2>{{ whichyear }}</h2>
      
