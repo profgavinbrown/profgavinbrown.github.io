@@ -19,7 +19,7 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
    {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
 
    {% if howMany != "0" %}
-      <h2>2010</h2>
+      2010
    {% endif %}
 
    {% for post in thisYearsPapers reversed %}
