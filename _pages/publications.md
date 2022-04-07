@@ -17,6 +17,8 @@ THIS IS SO HERE.
   
   {% assign subfolder = site.publications | where_exp: "item" , "item.path contains '{{ whichyear }}'" %}
 
+  {{ site.publications }}
+  
   {% for post in subfolder reversed %}
     {% include archive-single-paper.html %}
   {% endfor %}
