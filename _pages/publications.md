@@ -16,19 +16,14 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   
    {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
-   Yes 
-
    {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
    
-   {{ myCondition }}
- 
    {% if howMany contains "0" %}
 
-   Yes 2010 yes
+   <h2>{{ whichyear }}</h2>
  
-  {% endif %}
+   {% endif %}
 
-   No no no
 
    {% for post in thisYearsPapers reversed %}
         {% include archive-single-paper.html %}
