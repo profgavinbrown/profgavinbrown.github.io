@@ -13,7 +13,7 @@ THIS IS DEFINITELY HERE.
 
 {% for whichyear in (2006..2010) %}
 
-  {% assign subfolder = site.publications | where_exp: "item" , "item.path contains '{{ whichyear }}'"%}
+  {% assign subfolder = site.publications | where_exp: "item" , "item.path contains '{{ whichyear }}'" %}
 
   {% for post in subfolder reversed %}
     {% include archive-single-paper.html %}
