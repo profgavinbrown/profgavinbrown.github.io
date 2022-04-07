@@ -25,7 +25,7 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
       
    {% else %}
    
-      <h2>{{ whichyear }}</h2>
+      <h2>2009</h2>
      
       {% for post in thisYearsPapers reversed %}
           {% include archive-single-paper.html %}
