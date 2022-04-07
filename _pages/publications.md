@@ -10,20 +10,15 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 <hr>
 
-IS THIS NOT ????
-
 {% for whichyear in (2001..2022) reversed %}
-
-  <h2>{{ whichyear }}</h2>
   
-  {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}
-
-  {{ myCondition }}
-  
+  {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}  
   {% assign subfolder = site.publications | where_exp: "item" , myCondition %}
   
+  <h2>{{ whichyear }}</h2>
+
   {% for post in subfolder reversed %}
-    {% include archive-single-paper.html %}
+      {% include archive-single-paper.html %}
   {% endfor %}
 
 {% endfor %}
