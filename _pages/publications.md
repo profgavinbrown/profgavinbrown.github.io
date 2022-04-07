@@ -10,16 +10,19 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 <hr>
 
+READY?
+
 {% for whichyear in (2001..2022) reversed %}
   
   {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}  
-  {% assign subfolder = site.publications | where_exp: "item" , myCondition %}
   
-  {% if subfolder %}
+  {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
+  
+  {% if thisYearsPapers and thisYearsPapers.size != 0 %}
   
      <h2>{{ whichyear }}</h2>
 
-     {% for post in subfolder reversed %}
+     {% for post in thisYearsPapers reversed %}
          {% include archive-single-paper.html %}
      {% endfor %}
      
