@@ -9,13 +9,15 @@ author_profile: true
 You can also find these on <a href="https://scholar.google.com/citations?user=IGApvF0AAAAJ&hl=en">my Google Scholar profile</a>.
 
 <hr>
-THIS IS TOTALLY HERE.
+THIS IS HERE ????
 
 {% for whichyear in (2006..2010) %}
 
   <h2>{{ whichyear }}</h2>
   
-  {% assign subfolder = site.publications | where_exp: "item" , "item.path contains '{{ whichyear }}'" %}
+  {% assign myCondition = "item.path contains '" | append: {{ whichyear }} | append: "'" %}
+
+  {% assign subfolder = site.publications | where_exp: "item" , myCondition %}
   
   {% for post in subfolder reversed %}
     {% include archive-single-paper.html %}
