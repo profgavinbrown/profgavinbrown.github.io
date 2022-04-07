@@ -10,16 +10,18 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 <hr>
 
-{% for whichyear in (2001..2022) reversed %}
+{% for whichyear in (2022..2001) %}
   
    {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}  
   
    {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
    {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
-
+   
+   Test
+ 
    {% if howMany != "0" %}
-      2010
+        2010
    {% endif %}
 
    {% for post in thisYearsPapers reversed %}
