@@ -23,14 +23,5 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 {% endfor %}
 
-  
 
-
-<h1> old one </h1>
-
-{% for post in site.publications.{{ whichyear }} reversed %}
-  
-     {% include archive-single-paper.html %}
-  
-{% endfor %}
 
