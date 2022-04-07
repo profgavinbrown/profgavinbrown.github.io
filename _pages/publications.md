@@ -18,9 +18,9 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   
    {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
    
-   THIS {{ howMany }}
+   THIS IS {{ howMany }}
    
-   {% if howMany != "0" %}
+   {% if howMany contains "0" %}
    
       <h2>{{ whichyear }}</h2>
      
