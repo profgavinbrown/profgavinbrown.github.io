@@ -16,9 +16,11 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   
    {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
-   {% if thisYearsPapers.size > 0 %}
+   {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
+
+   {% if howMany > 0 %}
    
-      {{ whichyear }}
+      <h2>{{ whichyear }}</h2>
      
       {% for post in thisYearsPapers reversed %}
           {% include archive-single-paper.html %}
