@@ -10,7 +10,7 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 <hr>
 
-READY?
+SURE?
 
 {% for whichyear in (2001..2022) reversed %}
   
@@ -18,10 +18,10 @@ READY?
   
   {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
-  {% if thisYearsPapers and thisYearsPapers.size != 0 %}
+  {% if thisYearsPapers.size != 0 %}
   
-     <h2>{{ whichyear }}</h2>
-
+     THE YEAR IS {{ whichyear }}
+     
      {% for post in thisYearsPapers reversed %}
          {% include archive-single-paper.html %}
      {% endfor %}
