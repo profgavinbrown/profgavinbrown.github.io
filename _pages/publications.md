@@ -12,17 +12,17 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 {% for whichyear in (2001..2022) reversed %}
   
-  {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}  
+   {% assign myCondition = "item.path contains '" | append: whichyear | append: "'" %}  
   
-  {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
+   {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
-  {% if thisYearsPapers.size > 0 %}
+   {% if thisYearsPapers.size > 0 %}
      
-     {% for post in thisYearsPapers reversed %}
-         {% include archive-single-paper.html %}
-     {% endfor %}
+      {% for post in thisYearsPapers reversed %}
+          {% include archive-single-paper.html %}
+      {% endfor %}
      
-  {% endif %}
+   {% endif %}
    
 {% endfor %}
 
