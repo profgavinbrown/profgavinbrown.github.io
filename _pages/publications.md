@@ -18,16 +18,15 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
   
    {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
    
-   {% if howMany contains "0" %}
+   {% if howMany != "0" %}
 
    <h2>{{ whichyear }}</h2>
-
-   {% endif %}
-
 
    {% for post in thisYearsPapers reversed %}
         {% include archive-single-paper.html %}
    {% endfor %}
+
+   {% endif %}
 
   
    
