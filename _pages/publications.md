@@ -17,12 +17,10 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
    {% assign thisYearsPapers = site.publications | where_exp: "item" , myCondition %}
   
    {% capture howMany %}{{ thisYearsPapers | size }}{% endcapture %}
-   
-   {{howMany}}
+
    
    {% if howMany == "0" %}
 
-      Nothing this year.
       
    {% else %}
    
