@@ -12,7 +12,7 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
 
 IS THIS OK OK OK HERE ????
 
-{% for whichyear in (2006..2010) %}
+{% for whichyear in (2006..2010) reversed %}
 
   <h2>{{ whichyear }}</h2>
   
