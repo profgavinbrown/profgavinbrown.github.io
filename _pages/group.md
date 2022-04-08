@@ -14,10 +14,10 @@ We worked on aspects of ensemble learning, feature selection/extraction, and inf
 
 ### Current members
 
-<img src="{{ base_path }}/images/bio-photo.jpg">
+<img width=160px src="{{ base_path }}/images/bio-photo.jpg">
 Danny Wood
 
-<img src="{{ base_path }}/images/bio-photo.jpg">
+<img width=160px src="{{ base_path }}/images/bio-photo.jpg">
 Sara Summerton
 
 
