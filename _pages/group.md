@@ -12,7 +12,7 @@ My group has worked on aspects of ensemble learning, feature selection/extractio
 
 ### Completed PhDs
 
-| Who?            | Year | PhD             | Where are they now?                 |
+| Who?              | Year | PhD             | Where are they now?                 |
 |:----              |:-----|:----------------|:------------------------------------|
 | Tudor Morar       | 2021 | cell6           | Data Scientist, Dublin.             |
 | Kostas Papangelou | 2020 | cell6           | Data Scientist, Greece              |
