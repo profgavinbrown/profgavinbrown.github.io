@@ -31,17 +31,17 @@ My group has worked on aspects of ensemble learning, feature selection/extractio
 
 ### Former Research Staff
 
-| Who?               | Year      | Role  |Where are they now?                      |
-|:-------------------|:----------|:------|:----------------------------------------|
-| Kostas Sechidis    | 2015-2018 | blah. | Principal Data Scientist, Novartis      |
-| Andrew Webb        | 2017-2019 | blah. | ML Engineer, vTime Ltd                  |
-| Tameem Adel Hesham | 2016-2017 | blah. | Assistant Professor, Netherlands        |
-| Ming-Jie Zhao      | 2008-2013 | blah. | Microsoft Research Asia                 |
-| Nara Edakunni      | 2010-2011 | blah. | Director, American Express              |
-| Peter Sutton       | 2010-2011 | blah. | Director, Foxdog Studios Software.      |
-| Lloyd Henning      | 2010-2011 | blah. | Director, Foxdog Studios Software.      |
-| Arjun Chandra      | 2008-2009 | blah. | Research Scientist, GraphCore AI        |
-| Jeremy Singer      | 2008-2011 | blah. | Senior Lecturer, University of Glasgow  |
+| Who?             | Year      | Role  |Where are they now?                      |
+|:-----------------|:----------|:------|:----------------------------------------|
+| Kostas Sechidis  | 2015-2018 | blah. | Principal Data Scientist, Novartis      |
+| Andrew Webb      | 2017-2019 | blah. | ML Engineer, vTime Ltd                  |
+| Tameem Adel      | 2016-2017 | blah. | Assistant Professor, Netherlands        |
+| Ming-Jie Zhao    | 2008-2013 | blah. | Microsoft Research Asia                 |
+| Nara Edakunni    | 2010-2011 | blah. | Director, American Express              |
+| Peter Sutton     | 2010-2011 | blah. | Director, Foxdog Studios Software.      |
+| Lloyd Henning    | 2010-2011 | blah. | Director, Foxdog Studios Software.      |
+| Arjun Chandra    | 2008-2009 | blah. | Research Scientist, GraphCore AI        |
+| Jeremy Singer    | 2008-2011 | blah. | Senior Lecturer, University of Glasgow  |
 |==================================================================================|
 
 
