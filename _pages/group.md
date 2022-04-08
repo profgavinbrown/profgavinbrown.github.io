@@ -12,6 +12,7 @@ We used to be all in the same place (Manchester) but we are now spread over the 
 We have worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.   We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
 
 
+
 ### Current members
 
 <img width=120px src="{{ base_path }}/images/bio-photo.jpg">
@@ -20,6 +21,23 @@ Danny Wood
 <img width=120px src="{{ base_path }}/images/bio-photo.jpg">
 Sara Summerton
 
+
+
+### Awards/prizes for the group
+
+Henry Reeve - UoM Computer Science Best Thesis Award 2018
+Sarah Nogueira - UoM Computer Science Best Thesis Award 2017
+Nikos Nikolaou - UoM Computer Science Best Thesis Award 2016
+Kostas Sechidis - UoM Computer Science Best Thesis Award 2015
+Adam Pocock - UoM Computer Science Best Thesis Award 2013
+
+Nikos Nikolaou - ACM "Best of Computing, Notable Article of 2016"
+
+Henry Reeve - ESANN Best Student Paper Award 2017
+Kostas Sechidis - ECML Best Student Paper award 2014
+Nikos Nikolaou - AERFAI Summer School 2015 Best Poster Award
+Adam Pocock - BCS Distinguished Dissertation Award 2013
+Gavin Brown - BCS Distinguished Dissertation Award 2004
 
 
 ### Completed PhDs
@@ -59,21 +77,5 @@ Sara Summerton
 |======================================================================================================|
 
 
-
-### Prizes for members of my group
-
-Henry Reeve - UoM Computer Science Best Thesis Award 2018
-Sarah Nogueira - UoM Computer Science Best Thesis Award 2017
-Nikos Nikolaou - UoM Computer Science Best Thesis Award 2016
-Kostas Sechidis - UoM Computer Science Best Thesis Award 2015
-Adam Pocock - UoM Computer Science Best Thesis Award 2013
-
-Nikos Nikolaou - ACM "Best of Computing, Notable Article of 2016"
-
-Henry Reeve - ESANN Best Student Paper Award 2017
-Kostas Sechidis - ECML Best Student Paper award 2014
-Nikos Nikolaou - AERFAI Summer School 2015 Best Poster Award
-Adam Pocock - BCS Distinguished Dissertation Award 2013
-Gavin Brown - BCS Distinguished Dissertation Award 2004
 
 
