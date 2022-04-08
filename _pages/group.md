@@ -6,8 +6,18 @@ author_profile: true
 
 {% include base_path %}
 
-My group has worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.   We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
+My group is an amazing family of friendly, generous, smart people, now spread over the world.
 
+We worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.   We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
+
+
+### Current members
+
+<img src="{{ base_path }}/images/bio-photo.jpg">
+Danny Wood
+
+<img src="{{ base_path }}/images/bio-photo.jpg">
+Sara Summerton
 
 
 
