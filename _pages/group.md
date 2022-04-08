@@ -31,18 +31,19 @@ My group has worked on aspects of ensemble learning, feature selection/extractio
 
 ### Former Research Staff
 
-| Who?             | Year      | Role                      |Where are they now?                      |
-|:-----------------|:----------|:--------------------------|:----------------------------------------|
-| Kostas Sechidis  | 2015-2018 | AstraZeneca Fellow.       | Principal Data Scientist, Novartis      |
-| Nikos Nikolaou   | 2016-2018 | EPSRC Doctoral Fellowship | Lecturer, University College London     |
-| Andrew Webb      | 2017-2019 | blah. | ML Engineer, vTime Ltd                  |
-| Tameem Adel      | 2016-2017 | blah. | Assistant Professor, Netherlands        |
-| Ming-Jie Zhao    | 2008-2013 | blah. | Microsoft Research Asia                 |
-| Nara Edakunni    | 2010-2011 | blah. | Director, American Express              |
-| Peter Sutton     | 2010-2011 | blah. | Director, Foxdog Studios Software.      |
-| Lloyd Henning    | 2010-2011 | blah. | Director, Foxdog Studios Software.      |
-| Arjun Chandra    | 2008-2009 | blah. | Research Scientist, GraphCore AI        |
-| Jeremy Singer    | 2008-2011 | blah. | Senior Lecturer, University of Glasgow  |
+| Who?             | Year      | Role                        |Where are they now?                      |
+|:-----------------|:----------|:----------------------------|:----------------------------------------|
+| Kostas Sechidis  | 2015-2018 | AstraZeneca Fellowship      | Principal Data Scientist, Novartis      |
+| Nikos Nikolaou   | 2016-2018 | EPSRC Doctoral Fellowship   | Lecturer, University College London     |
+| Andrew Webb      | 2017-2019 | EPSRC LAMBDA project        | ML Engineer, vTime Ltd                  |
+| Emily Turner     | 2017-2019 | ESRC Domestic Abuse project | Data Scientist, Manchester |
+| Tameem Adel      | 2016-2017 | EPSRC LAMBDA project        | Assistant Professor, Netherlands        |
+| Ming-Jie Zhao    | 2008-2013 | EPSRC ADEPT project         | Microsoft Research Asia                 |
+| Nara Edakunni    | 2010-2011 | EPSRC ADEPT project         | Director, American Express              |
+| Peter Sutton     | 2010-2011 | EPSRC REUNITE KTP           | Director, Foxdog Studios Software.      |
+| Lloyd Henning    | 2010-2011 | EPSRC REUNITE KTP           | Director, Foxdog Studios Software.      |
+| Arjun Chandra    | 2008-2009 | EPSRC ADEPT project         | Research Scientist, GraphCore AI        |
+| Jeremy Singer    | 2008-2011 | EPSRC iTLS project          | Senior Lecturer, University of Glasgow  |
 |==================================================================================|
 
 
