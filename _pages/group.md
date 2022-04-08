@@ -10,6 +10,7 @@ My group has worked on aspects of ensemble learning, feature selection/extractio
 
 
 
+
 ### Completed PhDs
 
 | Who?              | Year | PhD             | Where are they now?                 |
@@ -31,10 +32,10 @@ My group has worked on aspects of ensemble learning, feature selection/extractio
 
 ### Former Research Staff
 
-| Who?             | Year      | Role                        | Where are they now?                     |
+| Who?             | When?     | Role                        | Where are they now?                     |
 |:-----------------|:----------|:----------------------------|:----------------------------------------|
 | Kostas Sechidis  | 2015-2018 | AstraZeneca Fellowship      | Principal Data Scientist, Novartis      |
-| Nikos Nikolaou   | 2016-2018 | EPSRC Doctoral Fellowship   | Lecturer, University College London     |
+| Nikos Nikolaou   | 2016-2018 | EPSRC Doctoral Prize Fellow | Lecturer, University College London     |
 | Andrew Webb      | 2017-2019 | EPSRC LAMBDA project        | ML Engineer, vTime Ltd                  |
 | Emily Turner     | 2017-2019 | ESRC Domestic Abuse project | Data Scientist, Manchester              |
 | Tameem Adel      | 2016-2017 | EPSRC LAMBDA project        | Assistant Professor, Netherlands        |
