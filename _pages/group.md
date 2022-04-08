@@ -6,8 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-My group is an amazing little family of friendly, generous, smart people.<br>
-We used to be all in the same place (Manchester) but we are now spread over the world.
+My group is an amazing little family of friendly, generous, smart people. We used to be all in the same place (Manchester) but we are now spread over the world.
 
 We have worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.   We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
 
