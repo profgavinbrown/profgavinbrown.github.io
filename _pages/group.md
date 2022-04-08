@@ -47,7 +47,7 @@ Sara Summerton
 | Kostas Sechidis  | 2015-2018 | AstraZeneca Fellowship      | Principal Data Scientist, Novartis      |
 | Nikos Nikolaou   | 2016-2018 | EPSRC Doctoral Prize Fellow | Lecturer, University College London     |
 | Andrew Webb      | 2017-2019 | EPSRC LAMBDA project        | ML Engineer, vTime Ltd                  |
-| Emily Turner     | 2017-2019 | ESRC Domestic Abuse project | Data Scientist, Manchester              |
+| Emily Turner     | 2017-2019 | ESRC <a href="https://gtr.ukri.org/projects?ref=ES/M01178X/1">Domestic Abuse</a> project | Data Scientist, Manchester              |
 | Tameem Adel      | 2016-2017 | EPSRC LAMBDA project        | Assistant Professor, Netherlands        |
 | Ming-Jie Zhao    | 2008-2013 | EPSRC ADEPT project         | Microsoft Research Asia                 |
 | Nara Edakunni    | 2010-2011 | EPSRC ADEPT project         | Director, American Express              |
