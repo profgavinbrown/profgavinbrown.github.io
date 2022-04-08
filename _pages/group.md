@@ -30,19 +30,18 @@ My group has worked on aspects of ensemble learning, feature selection/extractio
 
 ### Former Research Staff
 
-| Who?                  | Year      | Where are they now?               |
-|:----------------------|:----------|:----------------------------------|
-| Tameem Adel Hesham    | 2016-17   | Assistant Professor, Netherlands  |
-| Ming-Jie Zhao         | 2008-2013 | Microsoft Research Asia           |
-| Nara Edakunni         | 2010-2011 | Director, American Express        |
-| Peter Sutton          | 2010-2011 | Director, Foxdog Studios Software |
-|=======================================================================|
+| Who?                  | Year      | Where are they now?                     |
+|:----------------------|:----------|:----------------------------------------|
+| Andrew Webb           | 2017-2019 | ML Engineer, vTime Ltd                  |
+| Tameem Adel Hesham    | 2016-2017 | Assistant Professor, Netherlands        |
+| Ming-Jie Zhao         | 2008-2013 | Microsoft Research Asia                 |
+| Nara Edakunni         | 2010-2011 | Director, American Express              |
+| Peter Sutton          | 2010-2011 | Director, Foxdog Studios Software.      |
+| Lloyd Henning         | 2010-2011 | Director, Foxdog Studios Software.      |
+| Arjun Chandra         | 2008-2009 | Research Scientist, GraphCore AI        |
+| Jeremy Singer         | 2008-2011 | Senior Lecturer, University of Glasgow  |
+|=============================================================================|
 
-
-Peter Sutton	RA 2010-2011, REUNITE project. Now... Director, Foxdog Studios Software.
-Lloyd Henning	RA 2010-2011, REUNITE project. Now... Director, Foxdog Studios Software.
-Arjun Chandra	RA 2008-2009, ADEPT project. Now... postdoc, Norwegian University of Science and Technology
-Jeremy Singer	RA 2008-2011, iTLS project. Now... Lecturer, University of Glasgow
 
 
 ### Prizes for members of my group
