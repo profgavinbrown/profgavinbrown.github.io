@@ -15,11 +15,12 @@ My group has worked on aspects of ensemble learning, feature selection/extractio
 | Who?                  | Year | PhD             | Where are they now?                 |
 |:----------------------|:-----|:----------------|:------------------------------------|
 | Tudor Morar    	    | 2021 | cell6           | Data Scientist, Dublin.             |
+| Kostas Papangelou     | 2020 | cell6           | Data Scientist, Greece              |
 | Georgiana Neculae     | 2020 | cell6           | Research Scientist, BenevolentAI    |
 | Henry Reeve    	    | 2019 | cell6           | Lecturer, University of Bristol     |
 | Sarah Nogueira  	    | 2018 | cell6           | Staff ML Engineer Lead, Criteo      |
 | Nikos Nikolaou        | 2017 | cell6           | Lecturer, University College London |
-| Konstantinos Sechidis | 2019 | cell6           | Principal Data Scientist, Novartis  |
+| Kostas Sechidis.      | 2019 | cell6           | Principal Data Scientist, Novartis  |
 | Richard Stapenhurst   | 2012 | cell6           | Senior Software Engineer, Google    |
 | Adam Pocock           | 2012 | cell6           | Principal Researcher, Oracle Labs   |
 | Manuela Zanda         | 2010 | cell6           | Lecturer, King Abdulaziz Uni, Saudi Arabia  |
