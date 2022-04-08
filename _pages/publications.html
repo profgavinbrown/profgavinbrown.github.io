@@ -20,11 +20,11 @@ You can also find these on <a href="https://scholar.google.com/citations?user=IG
    
    {% if howMany != "0" %}
 
-   <h2>{{ whichyear }}</h2>
+      <h2>{{ whichyear }}</h2>
 
-   {% for post in thisYearsPapers reversed %}
-       {% include archive-single-paper.html %}
-   {% endfor %}
+      {% for post in thisYearsPapers reversed %}
+         {% include archive-single-paper.html %}
+      {% endfor %}
 
    {% endif %}
 
