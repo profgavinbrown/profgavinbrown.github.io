@@ -8,12 +8,10 @@ author_profile: true
 
 ### Completed PhDs
 
-| Name | Topic | Where are they now? |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| Who?            | Year | PhD             | Where are they now?                 |
+|:----------------|:-----|:----------------|:------------------------------------|
+| Henry Reeve     | 2019 | cell6           | Lecturer, University of Bristol     |
+| Sarah Nogueira  | 2018 | cell6           | Lecturer, University of Bristol     |
+| Nikos Nikolaou  | 2017 | cell6           | Lecturer, University College London |
+| Kostas Sechidis | 2019 | cell6           | Principal Data Scientist, Novartis  |
+|================================================================================|
