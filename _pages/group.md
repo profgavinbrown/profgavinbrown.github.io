@@ -8,13 +8,20 @@ author_profile: true
 
 ### Completed PhDs
 
-| Who?            | Year | PhD             | Where are they now?                 |
-|:----------------|:-----|:----------------|:------------------------------------|
-| Henry Reeve     | 2019 | cell6           | Lecturer, University of Bristol     |
-| Sarah Nogueira  | 2018 | cell6           | Research Scientist, Paris           |
-| Nikos Nikolaou  | 2017 | cell6           | Lecturer, University College London |
-| Kostas Sechidis | 2019 | cell6           | Principal Data Scientist, Novartis  |
-|================================================================================|
+| Who?                  | Year | PhD             | Where are they now?                 |
+|:----------------------|:-----|:----------------|:------------------------------------|
+| Tudor Morar    	    | 2021 | cell6           | Data Scientist, Dublin.             |
+| Georgiana Neculae     | 2020 | cell6           | Research Engineer, Benevolent AI    |
+| Henry Reeve    	    | 2019 | cell6           | Lecturer, University of Bristol     |
+| Sarah Nogueira  	    | 2018 | cell6           | Research Scientist, Criteo          |
+| Nikos Nikolaou        | 2017 | cell6           | Lecturer, University College London |
+| Konstantinos Sechidis | 2019 | cell6           | Principal Data Scientist, Novartis  |
+| Richard Stapenhurst   | 2012 | cell6           | Senior Software Engineer, Google    |
+| Adam Pocock           | 2012 | cell6           | Principal Researcher, Oracle Labs   |
+| Manuela Zanda         | 2010 | cell6           | Lecturer, King Abdulaziz Uni, Saudi Arabia  |
+| Amir Ahmad            | 2009 | cell6           | Data Scientist, Arm Ltd.            |
+| Hossain Sharif        | 2008 | cell6           | Senior Lecturer, Northumbria University |
+|======================================================================================|
 
 
 Completed PhDs
