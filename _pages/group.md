@@ -31,9 +31,10 @@ My group has worked on aspects of ensemble learning, feature selection/extractio
 
 ### Former Research Staff
 
-| Who?             | Year      | Role  |Where are they now?                      |
-|:-----------------|:----------|:------|:----------------------------------------|
-| Kostas Sechidis  | 2015-2018 | blah. | Principal Data Scientist, Novartis      |
+| Who?             | Year      | Role                      |Where are they now?                      |
+|:-----------------|:----------|:--------------------------|:----------------------------------------|
+| Kostas Sechidis  | 2015-2018 | AstraZeneca Fellow.       | Principal Data Scientist, Novartis      |
+| Nikos Nikolaou   | 2016-2018 | EPSRC Doctoral Fellowship | Lecturer, University College London     |
 | Andrew Webb      | 2017-2019 | blah. | ML Engineer, vTime Ltd                  |
 | Tameem Adel      | 2016-2017 | blah. | Assistant Professor, Netherlands        |
 | Ming-Jie Zhao    | 2008-2013 | blah. | Microsoft Research Asia                 |
