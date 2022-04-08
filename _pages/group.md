@@ -6,6 +6,10 @@ author_profile: true
 
 {% include base_path %}
 
+My group has worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.   We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
+
+
+
 ### Completed PhDs
 
 | Who?                  | Year | PhD             | Where are they now?                 |
@@ -24,15 +28,37 @@ author_profile: true
 |======================================================================================|
 
 
+### Former Research Staff
+
+| Who?                  | Year      | Where are they now?               |
+|:----------------------|:----------|:----------------------------------|
+| Tameem Adel Hesham    | 2016-17   | Assistant Professor, Netherlands  |
+| Ming-Jie Zhao         | 2008-2013 | Microsoft Research Asia           |
+| Nara Edakunni         | 2010-2011 | Director, American Express        |
+| Peter Sutton          | 2010-2011 | Director, Foxdog Studios Software |
+|=======================================================================|
+
+
+Peter Sutton	RA 2010-2011, REUNITE project. Now... Director, Foxdog Studios Software.
+Lloyd Henning	RA 2010-2011, REUNITE project. Now... Director, Foxdog Studios Software.
+Arjun Chandra	RA 2008-2009, ADEPT project. Now... postdoc, Norwegian University of Science and Technology
+Jeremy Singer	RA 2008-2011, iTLS project. Now... Lecturer, University of Glasgow
+
 
 ### Prizes for members of my group
 
-Henry Reeve
-Sarah Nogueira
-Nikos Nikolaou
-Kostas Sechidis
-Adam Pocock
-Gavin Brown
+Henry Reeve - UoM Computer Science Best Thesis Award 2018
+Sarah Nogueira - UoM Computer Science Best Thesis Award 2017
+Nikos Nikolaou - UoM Computer Science Best Thesis Award 2016
+Kostas Sechidis - UoM Computer Science Best Thesis Award 2015
+Adam Pocock - UoM Computer Science Best Thesis Award 2013
 
+Nikos Nikolaou - ACM "Best of Computing, Notable Article of 2016"
+
+Henry Reeve - ESANN Best Student Paper Award 2017
+Kostas Sechidis - ECML Best Student Paper award 2014
+Nikos Nikolaou - AERFAI Summer School 2015 Best Poster Award
+Adam Pocock - BCS Distinguished Dissertation Award 2013
+Gavin Brown - BCS Distinguished Dissertation Award 2004
 
 
