@@ -47,7 +47,7 @@ Gavin Brown - BCS Distinguished Dissertation Award 2004
 | Kostas Papangelou | 2020 | cell6           | Data Scientist, Greece              |
 | Georgiana Neculae | 2020 | cell6           | Research Scientist, BenevolentAI    |
 | Henry Reeve       | 2018 | cell6           | Lecturer, University of Bristol     |
-| Sarah Nogueira    | 2017 | cell6           | Staff ML Engineer Lead, Criteo      |
+| Sarah Nogueira    | 2017 | <a href="https://profgavinbrown.github.io/files/thesis_nogueira_2018.pdf">Quantifying the Stability of Feature Selection</a>          | Staff ML Engineer Lead, Criteo      |
 | Nikos Nikolaou    | 2016 | cell6           | Lecturer, University College London |
 | Kostas Sechidis   | 2015 | cell6           | Principal Data Scientist, Novartis  |
 | Richard Stapenhurst | 2012 | cell6           | Senior Software Engineer, Google    |
