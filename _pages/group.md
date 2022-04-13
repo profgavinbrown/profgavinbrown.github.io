@@ -23,10 +23,10 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 
 <br>
 
-<div style="width:20%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
+<div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
    <img width=120px src="https://avatars.githubusercontent.com/u/29922728">
 </div>
-<div style="padding-left:30px;width:80%;display:inline-block;vertical-align: top;text-align: justify;">
+<div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    Sara Summerton<br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>
 </div>
 
