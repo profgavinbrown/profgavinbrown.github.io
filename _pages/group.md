@@ -17,8 +17,8 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 <img width=120px src="{{ base_path }}/images/bio-photo.jpg">
 Danny Wood
 
-<img width=120px src="{{ base_path }}/images/bio-photo.jpg">
-Sara Summerton
+<img width=120px src="https://avatars.githubusercontent.com/u/29922728">
+Sara Summerton (co-supervised with <a href="S">Dr Dave Wong</a>)
 
 
 
