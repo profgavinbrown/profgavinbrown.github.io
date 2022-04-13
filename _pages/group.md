@@ -53,7 +53,7 @@ Gavin Brown - BCS Distinguished Dissertation Award 2004
 | Richard Stapenhurst | 2012 | <a href="https://www.research.manchester.ac.uk/portal/files/54527643/FULL_TEXT.PDF">Diversity, Margins, and Non-Stationary Learning</a>        | Senior Software Engineer, Google    |
 | Adam Pocock       | 2012 | <a href="https://www.research.manchester.ac.uk/portal/files/54522670/FULL_TEXT.PDF">Feature Selection via Joint Likelihood</a>           | Principal Researcher, Oracle Labs   |
 | Manuela Zanda     | 2010 | <a href="https://www.research.manchester.ac.uk/portal/files/54595867/FULL_TEXT.PDF">A Probabilistic Perspective on Ensemble Diversity</a>           | Data Scientist, Arm Ltd.            |
-| Amir Ahmad        | 2009 | cell6           | Lecturer, King Abdulaziz Uni, Saudi Arabia  |
+| Amir Ahmad        | 2009 | <a href="https://profgavinbrown.github.io/files/ahmadPhDthesis.pdf">Data Transformation for Decision Tree Ensembles</a>           | Lecturer, King Abdulaziz Uni, Saudi Arabia  |
 | Hossain Sharif    | 2008 | cell6           | Senior Lecturer, Northumbria University |
 |======================================================================================|
 
