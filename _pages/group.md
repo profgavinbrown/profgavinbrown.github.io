@@ -24,12 +24,12 @@ Sara Summerton
 
 ### Awards/prizes for the group
 
-Henry Reeve - <i>ESANN Best Student Paper Award 2017</i>
-Nikos Nikolaou - <i> ACM Best of Computing, Notable Article of 2016 </i>
-Nikos Nikolaou - <i> AERFAI Summer School 2015 Best Poster Award </i>
-Kostas Sechidis - <i> ECML Best Student Paper award 2014 </i>
-Adam Pocock - <i> BCS Distinguished Dissertation Award 2013 </i>
-Gavin Brown - <i> BCS Distinguished Dissertation Award 2004 </i>
+Henry Reeve - <i>ESANN Best Student Paper Award 2017</i><br>
+Nikos Nikolaou - <i> ACM Best of Computing, Notable Article of 2016 </i> <br>
+Nikos Nikolaou - <i> AERFAI Summer School 2015 Best Poster Award </i> <br>
+Kostas Sechidis - <i> ECML Best Student Paper award 2014 </i> <br>
+Adam Pocock - <i> BCS Distinguished Dissertation Award 2013 </i> <br>
+Gavin Brown - <i> BCS Distinguished Dissertation Award 2004 </i> <br>
 
 
 ### Completed PhDs
