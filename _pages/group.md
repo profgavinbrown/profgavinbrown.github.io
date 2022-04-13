@@ -49,7 +49,7 @@ Gavin Brown - BCS Distinguished Dissertation Award 2004
 | Henry Reeve       | 2018 | cell6           | Lecturer, University of Bristol     |
 | Sarah Nogueira    | 2017 | <a href="https://www.research.manchester.ac.uk/portal/files/66045529/FULL_TEXT.PDF">Quantifying the Stability of Feature Selection</a>          | Staff ML Engineer Lead, Criteo      |
 | Nikos Nikolaou    | 2016 | cell6           | Lecturer, University College London |
-| Kostas Sechidis   | 2015 | cell6           | Principal Data Scientist, Novartis  |
+| Kostas Sechidis   | 2015 | <a href="https://www.research.manchester.ac.uk/portal/files/54574858/FULL_TEXT.PDF">Hypothesis Testing and Feature Selection in Semi-Supervised Data</a>         | Principal Data Scientist, Novartis  |
 | Richard Stapenhurst | 2012 | cell6           | Senior Software Engineer, Google    |
 | Adam Pocock       | 2012 | <a href="https://www.research.manchester.ac.uk/portal/files/54522670/FULL_TEXT.PDF">Feature Selection via Joint Likelihood</a>           | Principal Researcher, Oracle Labs   |
 | Manuela Zanda     | 2010 | <a href="https://www.research.manchester.ac.uk/portal/files/54595867/FULL_TEXT.PDF">A Probabilistic Perspective on Ensemble Diversity</a>           | Data Scientist, Arm Ltd.            |
