@@ -46,7 +46,7 @@ Gavin Brown - BCS Distinguished Dissertation Award 2004
 | Tudor Morar       | 2021 | cell6           | Data Scientist, Dublin.             |
 | Kostas Papangelou | 2020 | cell6           | Data Scientist, Greece              |
 | Georgiana Neculae | 2020 | cell6           | Research Scientist, BenevolentAI    |
-| Henry Reeve       | 2018 | cell6           | Lecturer, University of Bristol     |
+| Henry Reeve       | 2018 | <a href="https://www.research.manchester.ac.uk/portal/files/85713292/FULL_TEXT.PDF">Learning in High Dimensions with Asymmetric Costs</a>           | Lecturer, University of Bristol     |
 | Sarah Nogueira    | 2017 | <a href="https://www.research.manchester.ac.uk/portal/files/66045529/FULL_TEXT.PDF">Quantifying the Stability of Feature Selection</a>          | Staff ML Engineer Lead, Criteo      |
 | Nikos Nikolaou    | 2016 | <a href="https://nnikolaou.github.io/files/ThesisNikolaou.pdf">Cost-sensitive Boosting: A Unified Approach</a>           | Lecturer, University College London |
 | Kostas Sechidis   | 2015 | <a href="https://www.research.manchester.ac.uk/portal/files/54574858/FULL_TEXT.PDF">Hypothesis Testing and Feature Selection in Semi-Supervised Data</a>         | Principal Data Scientist, Novartis  |
