@@ -15,7 +15,7 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 ### Current members
 
 <img width=120px src="{{ base_path }}/images/bio-photo.jpg">
-Danny Wood
+Dr Danny Wood (postdoc, working on ensemble learning)
 
 <img width=120px src="https://avatars.githubusercontent.com/u/29922728">
 Sara Summerton (co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>)
