@@ -18,14 +18,16 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
    <img width=120px src="{{ base_path }}/images/bio-photo.jpg">
 </div>
 <div style="padding-left:20px;width:80%;display:inline-block;vertical-align: top;text-align: justify;">
-   Dr Danny Wood<br>Postdoc, working on ensemble learning)
+   Dr Danny Wood<br>Postdoc, working on ensemble learning theory.
 </div>
+
+<br>
 
 <div style="width:20%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
    <img width=120px src="https://avatars.githubusercontent.com/u/29922728">
 </div>
 <div style="padding-left:20px;width:80%;display:inline-block;vertical-align: top;text-align: justify;">
-   Sara Summerton<br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>)
+   Sara Summerton<br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>
 </div>
 
 
