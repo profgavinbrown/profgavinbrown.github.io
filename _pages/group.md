@@ -34,6 +34,8 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 
 ## Alumni 
 
+If you'd like to contact anyone below, just let me know and I'll do my best to put you in touch.
+
 ### Awards/prizes for the group
 
 | Who?              | Prize |
