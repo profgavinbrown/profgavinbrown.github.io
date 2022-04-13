@@ -14,19 +14,20 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 
 ### Current members
 
-<div style="padding-left:20px;width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
+<div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
    <img width=120px src="{{ base_path }}/images/bio-photo.jpg">
 </div>
-<div style="width:70%;display:inline-block;vertical-align: top;text-align: justify;">
+<div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    Dr Danny Wood (postdoc, working on ensemble learning)
 </div>
 
+<div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
+   <img width=120px src="https://avatars.githubusercontent.com/u/29922728">
+</div>
+<div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
+   Sara Summerton (PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>)
+</div>
 
-<img width=120px src="{{ base_path }}/images/bio-photo.jpg">
-&nbsp;&nbsp;&nbsp;Dr Danny Wood (postdoc, working on ensemble learning)
-
-<img width=120px src="https://avatars.githubusercontent.com/u/29922728">
-&nbsp;&nbsp;&nbsp;Sara Summerton (PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>)
 
 
 
