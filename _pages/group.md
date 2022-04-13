@@ -12,7 +12,7 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 
 
 
-### Current members
+## Current members
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
    <img width=120px src="{{ base_path }}/images/bio-photo.jpg">
@@ -32,6 +32,7 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 
 
 
+## Alumni 
 
 ### Awards/prizes for the group
 
