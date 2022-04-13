@@ -54,7 +54,9 @@ Gavin Brown - BCS Distinguished Dissertation Award 2004
 | Adam Pocock       | 2012 | <a href="https://www.research.manchester.ac.uk/portal/files/54522670/FULL_TEXT.PDF">Feature Selection via Joint Likelihood</a>           | Principal Researcher, Oracle Labs   |
 | Manuela Zanda     | 2010 | <a href="https://www.research.manchester.ac.uk/portal/files/54595867/FULL_TEXT.PDF">A Probabilistic Perspective on Ensemble Diversity</a>           | Data Scientist, Arm Ltd.            |
 | Amir Ahmad        | 2009 | <a href="https://profgavinbrown.github.io/files/ahmadPhDthesis.pdf">Data Transformation for Decision Tree Ensembles</a>           | Lecturer, King Abdulaziz Uni, Saudi Arabia  |
+{::comment}
 | Hossain Sharif    | 2008 | cell6           | Senior Lecturer, Northumbria University |
+{:/comment}  
 |======================================================================================|
 
 
