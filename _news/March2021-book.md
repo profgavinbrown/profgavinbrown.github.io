@@ -2,6 +2,6 @@
 title: "PhD book"
 date: 2021-03-1
 image: https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg
-text: I wrote a book. Announcing [link] (http://bit.ly/3dQFCPs), with Oxford University Press, a step-by-step guide to the intellectual & emotional rollercoaster of Your PhD. <b>How to get your PhD</b> is now available from [link](https://www.amazon.co.uk/dp/0198866925) among other places.
+text: This is an example of a [link](http://github.com "Github"). I wrote a book. Announcing [link] (http://bit.ly/3dQFCPs), with Oxford University Press, a step-by-step guide to the intellectual & emotional rollercoaster of Your PhD. <b>How to get your PhD</b> is now available from [link](https://www.amazon.co.uk/dp/0198866925) among other places.
 ---
 
