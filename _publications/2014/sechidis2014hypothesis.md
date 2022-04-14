@@ -6,6 +6,6 @@ authors: 'Konstantinos Sechidis, Borja Calvo and Gavin Brown'
 paperurl: '../files/sechidis2014hypothesis.pdf'
 ---
 
-<p style="color:blue">
+<p style="color:blue;font-weight:bold;">
 More info (slides, supplementary material, etc), <a href="http://www.cs.man.ac.uk/~gbrown/posunlabelled/">available here</a>
 </p>
