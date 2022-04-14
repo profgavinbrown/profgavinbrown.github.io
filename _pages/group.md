@@ -15,7 +15,7 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 ## Current members
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-   <img width=120px src="{{ base_path }}/images/DannyWood.jpg">
+   <img width=120px src="{{ base_path }}/images/DannyWood.JPG">
 </div>
 <div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    Dr Danny Wood<br>Postdoc, working on ensemble learning theory.
