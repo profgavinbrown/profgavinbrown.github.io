@@ -62,7 +62,7 @@ If you'd like to contact anyone below, just let me know and I'll do my best to p
 | Richard Stapenhurst | 2012 | <a href="https://www.research.manchester.ac.uk/portal/files/54527643/FULL_TEXT.PDF">Diversity, Margins, and Non-Stationary Learning</a>        | Senior Software Engineer, Google, London    |
 | Adam Pocock       | 2012 | <a href="https://www.research.manchester.ac.uk/portal/files/54522670/FULL_TEXT.PDF">Feature Selection via Joint Likelihood</a> <br><b>Winner, UoM CS Best Thesis award.</b><br><b>Winner, <a href="https://www.bcs.org/events/awards-and-competitions/distinguished-dissertations/">British Computer Society Distinguished Dissertation Award.</a></b><br><br>Read the <a href="https://www.manchester.ac.uk/discover/news/computer-science-graduate-wins-national-award-for-dissertation/">press release here</a>.           | Principal Researcher, Oracle Labs, Boston   |
 | Manuela Zanda     | 2010 | <a href="https://www.research.manchester.ac.uk/portal/files/54595867/FULL_TEXT.PDF">A Probabilistic Perspective on Ensemble Diversity</a>           | Data Scientist, Arm Ltd.            |
-| Amir Ahmad        | 2009 | <a href="https://profgavinbrown.github.io/files/ahmadPhDthesis.pdf">Data Transformation for Decision Tree Ensembles</a>           | Lecturer, King Abdulaziz Uni, Saudi Arabia  |
+| Amir Ahmad        | 2009 | <a href="https://profgavinbrown.github.io/files/ahmadPhDthesis.pdf">Data Transformation for Decision Tree Ensembles</a>           | Associate Professor, United Arab Emirates University  |
 |======================================================================================|
 
 
