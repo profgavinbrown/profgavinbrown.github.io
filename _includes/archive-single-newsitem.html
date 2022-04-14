@@ -3,7 +3,7 @@
 {% if post.image %}
 
 <div style="width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-              <b>{{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b>:&nbsp;
+              <b>{{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b>&nbsp;
               {{ post.text }}
 
       {% if post.link %}
