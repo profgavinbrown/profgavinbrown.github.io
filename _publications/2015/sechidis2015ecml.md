@@ -6,5 +6,7 @@ date: 2015-9-22
 paperurl: http://www.cs.man.ac.uk/~gbrown/publications/sechidis2015ecml.pdf
 ---
 
+<p style="color:blue;font-weight:bold;">
 Acceptance rate 89/383 (23.2%)<br>
 <b>More info (slides, supplementary material, etc), <a href="http://www.cs.man.ac.uk/~gbrown/partiallylabelled/">available here</a></b>.
+</p>
