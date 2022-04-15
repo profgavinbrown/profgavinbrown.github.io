@@ -1,6 +1,6 @@
 ---
 title: Diversity and degrees of freedom in regression ensembles
-authors: HWJ Reeve, G Brown
+authors: Henry Reeve, Gavin Brown
 venue: Neurocomputing vol 298, p55-68
 category: journal
 date: 2018-4-1
