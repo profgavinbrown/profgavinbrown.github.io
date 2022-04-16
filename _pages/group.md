@@ -30,7 +30,7 @@ We have applied these to domains as diverse as bio-health informatics, adaptive 
    <img width=120px src="https://avatars.githubusercontent.com/u/29922728">
 </div>
 <div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b>Sara Summerton</b><br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>
+   <b>Sara Summerton</b><br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>.
 </div>
 
 ## Alumni 
