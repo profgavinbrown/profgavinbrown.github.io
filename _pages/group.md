@@ -10,6 +10,7 @@ My group is an amazing little family of friendly, generous, smart people. We use
 
 We have worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.
 We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
+We've been sponsored in all this work by generous public sector organisations - including EPSRC, ESRC, and the EU, as well as private organisations including Arm Ltd and AstraZeneca.
 
 <b>I welcome applications for new PhDs</b> - I strongly encourage you to read (fully) at least one of my publications before you even think of applying.
 <b>I also welcome Manchester UG/MSc project students</b> into our group, should your project be aligned with our research interests - let's chat.
