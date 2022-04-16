@@ -10,6 +10,7 @@ redirect_from:
 
 I am Professor of Machine Learning, in the Department of Computer Science.
 
+Contact: <b>firstname.secondname AT manchester.ac.uk</b>
 
 What do I do?
 ======
