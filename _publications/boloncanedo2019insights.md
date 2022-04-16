@@ -1,6 +1,6 @@
 ---
 title: Insights into distributed feature ranking
-authors:Veronica Bolon-Canedo, Konstantinos Sechidis, Noelia Sanchez-Marono, Amparo Alonso-Betanzos, Gavin Brown
+authors: Veronica Bolon-Canedo, Konstantinos Sechidis, Noelia Sanchez-Marono, Amparo Alonso-Betanzos, Gavin Brown
 date: 2019-9-1
 category: journal 
 venue: Information Sciences
