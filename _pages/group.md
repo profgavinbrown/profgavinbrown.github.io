@@ -10,6 +10,9 @@ My group is an amazing little family of friendly, generous, smart people. We use
 
 We have worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.   We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
 
+<br>
+<b>I welcome applications for new PhDs</b> - I strongly encourage you to read (fully) at least one of my publications before you even think of applying.
+<b>I also welcome Manchester UG/MSc project students</b> into our group, should your project be aligned with our research interests - let's chat.
 
 
 ## Current members
@@ -29,10 +32,6 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
 <div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Sara Summerton</b><br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>
 </div>
-
-<br>
-<b>I welcome applications for PhDs</b> - I strongly encourage you to read (fully) at least one of my publications before you even think of applying.
-<b>I also welcome Manchester UG/MSc project students</b> into our group, should your project be aligned with our research interests - let's chat.
 
 ## Alumni 
 
