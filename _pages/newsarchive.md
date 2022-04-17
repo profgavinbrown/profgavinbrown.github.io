@@ -12,6 +12,39 @@ author_profile: true
   {% include archive-single-newsitem.html %}
 {% endfor %}
 
+
+<style>
+#entry {
+	display: flex;
+	width: 100%;
+	padding: 0px;
+	-webkit-box-shadow: 0px 1px 0px 0px rgba(0,0,0,0.75); padding:10px; margin:10px
+}
+#wide {
+	flex: 0 0 90%;
+	padding: 0px;
+}
+#left {
+	flex: 0 0 55%;
+	padding: 00px;
+}
+#right {
+	flex: 1;
+	text-align:center;
+	padding: 0px;
+}
+
+
+#wrapright {
+	float: right;
+	padding-left: 1px;
+	padding-bottom: 10px;
+}
+#padded {
+	padding-left: 0px;
+	padding-bottom: 20px;
+}
+
 <div id="entry">
 	<div id="wide">
 	<b>NEWS</b> (June 2020) 
