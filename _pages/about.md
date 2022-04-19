@@ -27,7 +27,7 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
      <img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg" style="" />
   </a>
 </div>
-<hr />
+
 
 
 News
