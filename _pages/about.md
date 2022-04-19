@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor of Machine Learning, in the Department of Computer Science.
+I am Professor of Machine Learning, in the Department of Computer Science.<br>
 Contact: <b>firstname.secondname AT manchester.ac.uk</b>
 
 What do I do?
