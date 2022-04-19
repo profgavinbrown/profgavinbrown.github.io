@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am Professor of Machine Learning, in the Department of Computer Science.<br>
-Contact: <b>firstname.secondname AT manchester.ac.uk</b>
 
 What do I do?
 ======
@@ -29,6 +28,8 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
 </div>
 
 <br>
+
+Contact: <b>firstname.secondname AT manchester.ac.uk</b>
 
 News
 ======
