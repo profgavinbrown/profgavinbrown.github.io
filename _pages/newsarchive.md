@@ -11,4 +11,3 @@ author_profile: true
 {% for post in site.newsarchive reversed %}
   {% include archive-single-newsitem.html %}
 {% endfor %}
-

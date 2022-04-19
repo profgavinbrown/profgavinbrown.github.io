@@ -3,8 +3,15 @@
 {% if post.image %}
 
 <div style="width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-              <b>{{ post.date | default: "1900-01-01" | date: "%-d %B %Y" }}</b><br>
+              <b>{{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b>&nbsp;
               {{ post.text }}
+
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+
 </div>
 <div style="padding-left:20px;width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
                   <img src="{{ post.image }}" style="">
@@ -15,7 +22,7 @@
 {% else %}
 
 <div style="width:100%;display:inline-block;vertical-align: top;text-align: justify;">
-              <b>{{ post.date | default: "1900-01-01" | date: "%-d %B %Y" }}</b><br>
+              <b>{{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b>&nbsp;
               {{ post.text }}
 </div>
 

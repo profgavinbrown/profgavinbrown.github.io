@@ -8,8 +8,13 @@ author_profile: true
 
 My group is an amazing little family of friendly, generous, smart people. We used to be all in the same place (Manchester) but we are now spread over the world.
 
-We have worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.   We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
+We have worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.
+We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
+We've been sponsored in all this work by generous public sector organisations - including EPSRC, ESRC, and the EU, as well as private organisations including Arm Ltd and AstraZeneca.
 
+<b>I welcome applications for new PhDs</b> - I strongly encourage you to read (fully) at least one of my publications before you even think of applying. I'm unlikely to return your email unless you demonstrate curiosity like this.<br>
+
+<b>I also welcome Manchester UG/MSc project students</b> into our group, should your project be aligned with our research interests - let's chat.
 
 
 ## Current members
@@ -18,7 +23,7 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
    <img width=120px src="{{ base_path }}/images/DannyWood.JPG">
 </div>
 <div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   Dr Danny Wood<br>Postdoc, working on ensemble learning theory.
+   <b>Dr Danny Wood</b><br>Postdoc, working on ensemble learning theory.
 </div>
 
 <br>
@@ -27,10 +32,8 @@ We have worked on aspects of ensemble learning, feature selection/extraction, an
    <img width=120px src="https://avatars.githubusercontent.com/u/29922728">
 </div>
 <div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   Sara Summerton<br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>
+   <b>Sara Summerton</b><br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>.
 </div>
-
-
 
 ## Alumni 
 
