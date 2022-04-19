@@ -15,7 +15,7 @@ What do I do?
 ======
 <div style="text-align: justify;">
 I enjoy working on foundational and methodological aspects of Machine Learning.
-I have contributed to the understanding of "feature selection" algorithms, with nice results on information theoretic methods, hypothesis testing, and the stability (i.e. reproducibility) of algorithms.
+I have contributed to the understanding of "feature selection" algorithms, with nice results on information theoretic methods, hypothesis testing, and the stability of algorithms.
 I have also contributed to the area of "ensemble" learning, in particular the study of diversity, and cost-sensitivity.
 I have applied all this in, e.g. bioinformatics, clinical trials, and predictive policing.
 Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all the technical jargon</a>.<br><br>
