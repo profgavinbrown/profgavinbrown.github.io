@@ -28,7 +28,7 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
   </a>
 </div>
 
-
+<br>
 
 News
 ======
