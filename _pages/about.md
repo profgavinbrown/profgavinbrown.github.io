@@ -29,7 +29,7 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
 
 <br>
 
-Contact: <b>firstname.secondname AT manchester.ac.uk</b>
+Contact me : <b>firstname.secondname AT manchester.ac.uk</b>
 
 News
 ======
