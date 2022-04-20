@@ -21,11 +21,14 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
 </div>
 
 <div style="width:75%;display:inline-block;vertical-align: top;text-align: justify;">I also enjoy thinking about pedagogy, especially the nature of PhD training.  I wrote a book - <b>a step-by-step guide to the intellectual and emotional rollercoaster of Your PhD</b>. Written in collaboration with twelve leading academics and industrialists, giving their unique perspectives on the PhD process, <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with <a href="http://bit.ly/2ZXNc2y">a 30 page preview on Google books</a>.
+  
+<br><br><br>
 
-<br>Contact me : <b>firstname.secondname AT manchester.ac.uk</b>
+<br>Contact me : <b>firstname.secondname AT manchester.ac.uk</b><br>
 
-News
-======
+  
+<h2>News</h2>
+
 See my <a href="{{ base_path }}/newsarchive">archived news page</a> for older work, but some recent activities have been...
 
 </div>
