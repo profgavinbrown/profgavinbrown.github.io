@@ -46,7 +46,7 @@ We've been sponsored in all this work by generous public sector organisations - 
    Associate Director of Data Science at Novartis.
    Kostas is an experienced researcher: developing, enhancing, and delivering
    novel statistical and machine learning methods tailored to healthcare analytics.
-   We communicate on a regular basis, building strong links with the <b>Advanced Methodology and Data Science Group, at Novartis.</b>
+   We communicate on a regular basis, building strong links with the <b>Advanced Methodology & Data Science Group, at Novartis.</b>
   
 </div>
 
