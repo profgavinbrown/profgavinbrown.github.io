@@ -42,8 +42,9 @@ We've been sponsored in all this work by generous public sector organisations - 
    <img width=120px src="{{ base_path }}/images/KostasSechidis.jpg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <a href="https://sechidis.netlify.app/">Dr Kostas Sechidis</a>, Associate Director of Data Science Novartis.<br>
-   Kostas is an experienced researcher: developing, enhancing and delivering
+   <b>Dr Kostas Sechidis</b><br>
+   Associate Director of Data Science at Novartis.
+   Kostas is an experienced researcher: developing, enhancing, and delivering
    novel statistical and machine learning methods tailored to healthcare analytics.
    We collaborate on a regular basis, building strong links with the <b>Advanced Methodology and Data Science Group, at Novartis.</b>
    This provides opportunities for Manchester students, in terms of internships and future employment in the healthcare sector.
