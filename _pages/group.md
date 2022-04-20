@@ -20,7 +20,7 @@ We've been sponsored in all this work by generous public sector organisations - 
 ## Current & affiliated members
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-   <img width=120px src="{{ base_path }}/images/DannyWood.JPG">
+   <img width=120px src="{{ base_path }}/images/DannyWood.jpg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Dr Danny Wood</b><br>Postdoc, working on ensemble learning theory. Danny holds degrees in mathematics and computer science, and a PhD specialising in echo state networks. His current work is directed toward finding a statistical foundation for the concept of 'diversity' in ensemble learning.
