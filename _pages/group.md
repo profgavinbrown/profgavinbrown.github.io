@@ -42,7 +42,7 @@ We've been sponsored in all this work by generous public sector organisations - 
    <img width=120px src="{{ base_path }}/images/KostasSechidis.jpg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b>Dr Kostas Sechidis</b><br>
+   <b>Dr Kostas Sechidis</b> (affiliated)<br>
    Associate Director of Data Science at Novartis.
    Kostas is an experienced researcher: developing, enhancing, and delivering
    novel statistical and machine learning methods tailored to healthcare analytics.
