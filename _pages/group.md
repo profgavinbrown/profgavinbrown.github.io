@@ -43,9 +43,8 @@ We've been sponsored in all this work by generous public sector organisations - 
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Dr Kostas Sechidis</b> (affiliated)<br>
-   Kostas is an Honorary Research Fellow in the group, and Associate Director of Data Science at Novartis.
-   An experienced researcher: developing, enhancing, and delivering
-   novel statistical machine learning methods tailored to healthcare analytics in the <b>Novartis Advanced Methodology & Data Science Group.</b>
+   Kostas is an Honorary Research Fellow in the group, and <a href="https://sechidis.netlify.app/">Associate Director of Data Science at Novartis</a>.
+   An experienced researcher in statistical machine learning methods tailored to healthcare analytics, based in the <b>Novartis Advanced Methodology & Data Science Group.</b>
   
 </div>
 
