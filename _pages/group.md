@@ -17,7 +17,7 @@ We've been sponsored in all this work by generous public sector organisations - 
 <b>I also welcome Manchester UG/MSc project students</b> into our group, should your project be aligned with our research interests - let's chat.
 
 
-## Current members
+## Current & affiliated members
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
    <img width=120px src="{{ base_path }}/images/DannyWood.JPG">
@@ -33,6 +33,19 @@ We've been sponsored in all this work by generous public sector organisations - 
 </div>
 <div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Sara Summerton</b><br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>.
+</div>
+
+<br>
+
+<div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
+   <img width=120px src="{{ base_path }}/images/KostasSechidis.jpg">
+</div>
+<div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
+   <b><a href="https://sechidis.netlify.app/">Dr Kostas Sechidis</a></b><br>Associate Director of Data Science Novartis.<br>
+   Kostas is an experienced researcher: developing, enhancing and delivering
+   novel statistical and machine learning methods tailored to healthcare analytics.
+   We collaborate on a regular basis, building strong links with the <b>Advanced Methodology and Data Science Group, at Novartis.</b>
+   This provides opportunities for Manchester students, in terms of internships and future employment in the healthcare sector.
 </div>
 
 ## Alumni 
