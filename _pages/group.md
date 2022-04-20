@@ -22,8 +22,8 @@ We've been sponsored in all this work by generous public sector organisations - 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
    <img width=120px src="{{ base_path }}/images/DannyWood.JPG">
 </div>
-<div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b>Dr Danny Wood</b><br>Postdoc, working on ensemble learning theory.
+<div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
+   <b>Dr Danny Wood</b><br>Postdoc, working on ensemble learning theory. Danny holds degrees in mathematics and computer science, and a PhD specialising in echo state networks. His current work is directed toward finding a statistical foundation for the concept of 'diversity' in ensemble learning.
 </div>
 
 <br>
@@ -31,8 +31,9 @@ We've been sponsored in all this work by generous public sector organisations - 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
    <img width=120px src="https://avatars.githubusercontent.com/u/29922728">
 </div>
-<div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
+<div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Sara Summerton</b><br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>.
+   Sara holds degrees in physics & mathematics, and is currently working statistical modeling for healthcare applications.
 </div>
 
 <br>
@@ -40,8 +41,8 @@ We've been sponsored in all this work by generous public sector organisations - 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
    <img width=120px src="{{ base_path }}/images/KostasSechidis.jpg">
 </div>
-<div style="padding-left:30px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b><a href="https://sechidis.netlify.app/">Dr Kostas Sechidis</a></b><br>Associate Director of Data Science Novartis.<br>
+<div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
+   <a href="https://sechidis.netlify.app/">Dr Kostas Sechidis</a>, Associate Director of Data Science Novartis.<br>
    Kostas is an experienced researcher: developing, enhancing and delivering
    novel statistical and machine learning methods tailored to healthcare analytics.
    We collaborate on a regular basis, building strong links with the <b>Advanced Methodology and Data Science Group, at Novartis.</b>
