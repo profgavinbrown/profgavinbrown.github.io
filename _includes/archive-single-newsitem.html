@@ -17,15 +17,11 @@
                   <img src="{{ post.image }}" style="">
 </div>
 
-<hr>
-
 {% else %}
 
 <div style="width:100%;display:inline-block;vertical-align: top;text-align: justify;">
               <b>{{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b>&nbsp;
               {{ post.text }}
 </div>
-
-<hr>
 
 {% endif %}
