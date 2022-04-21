@@ -20,8 +20,10 @@ I have applied all this, in e.g. bioinformatics, clinical trials, and predictive
 Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all the technical jargon</a>.<br><br>
 </div>
 
-<img width=100px src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg" style="float: right;	padding-left: 10px; padding-bottom: 10px;" />
-<p style="text-align: justify;">?
+<img width=20% src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg"
+     style="min-width:2cm; align: center; vertical-align: middle; min-width:2cm; float: right;padding-left: 10px; padding-bottom: 10px;" />
+
+<p style="vertical-align: top; text-align: justify;">
 I also enjoy thinking about pedagogy, especially the nature of PhD training.
 I wrote a book - <b>a step-by-step guide to the intellectual and emotional rollercoaster of Your PhD</b>.
 Written in collaboration with twelve leading academics and industrialists, giving their unique perspectives on the PhD process, <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with <a href="http://bit.ly/2ZXNc2y">a 30 page preview on Google books</a>.  
