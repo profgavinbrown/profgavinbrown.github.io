@@ -20,7 +20,7 @@ I have applied all this, in e.g. bioinformatics, clinical trials, and predictive
 Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all the technical jargon</a>.<br>
 </div>
 
-<img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg" style="width:20%; min-width:2.5cm; align:center; vertical-align:middle; float:right; padding-left:10px; padding-bottom:10px;" />
+<img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg" style="width:20%; min-width:2.5cm; align:center; vertical-align:middle; float:right; padding-left:20px; padding-bottom:10px;" />
 
 <p style="vertical-align: top; text-align: justify;">
 I also enjoy thinking about pedagogy, especially the nature of PhD training.
