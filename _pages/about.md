@@ -32,7 +32,7 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
   <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>.
 </p>
 
-
+<br>
 Contact me : <b>firstname.secondname AT manchester.ac.uk</b>
 <br>
 <br>
@@ -41,7 +41,7 @@ Contact me : <b>firstname.secondname AT manchester.ac.uk</b>
 News
 ===
 
-See my <a href="{{ base_path }}/newsarchive">archived news page</a> for older work, but some recent activities have been...
+See my <a href="{{ base_path }}/newsarchive">archived news</a> for older work, but recent activities have been...
 
 <hr>
 
