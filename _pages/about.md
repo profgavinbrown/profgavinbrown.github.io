@@ -17,13 +17,12 @@ I enjoy working on foundational and methodological aspects of Machine Learning.
 I have contributed to the understanding of "feature selection" algorithms, with nice results on information theoretic methods, hypothesis testing, and the stability of algorithms.
 I have also contributed to "ensemble" learning, in particular the study of diversity, and cost-sensitivity.
 I have applied all this, in e.g. bioinformatics, clinical trials, and predictive policing.
-Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all the technical jargon</a>.<br>
+Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all the technical jargon</a>.<br><br>
 </div>
 
-<img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg" style="width:20%; min-width:2.5cm; align:center; vertical-align:middle; float:right; padding-left:20px; padding-bottom:10px;" />
+<img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg" style="width:20%; min-width:2.5cm; align:center; vertical-align:top; float:right; padding-left:20px; padding-bottom:10px; padding-top:0px;" />
 
-<p style="vertical-align: top; text-align: justify;">
-I also enjoy thinking about pedagogy, especially the nature of PhD training.
+<p style="vertical-align: top; text-align: justify;">I also enjoy thinking about pedagogy, especially the nature of PhD training.
 I wrote a book - <b>a step-by-step guide to the intellectual and emotional rollercoaster of Your PhD</b>.
 Written in collaboration with twelve leading academics and industrialists, giving their unique perspectives on the PhD process, <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with <a href="http://bit.ly/2ZXNc2y">a preview on Google books</a>.  
 </p>
