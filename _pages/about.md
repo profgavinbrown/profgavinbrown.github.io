@@ -25,7 +25,7 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
      style="width:25%; min-width:3cm; align:center; vertical-align:top; float:right; padding-left:20px; padding-bottom:10px; padding-top:0px;" />
 I also enjoy thinking deeply about pedagogy, especially the nature of PhD training.
 <b>I wrote a book - a step-by-step guide to the intellectual and emotional rollercoaster of <u>Your</u> PhD</b>.
-Written in collaboration with twelve leading academics and industrialists, giving their unique perspectives on the PhD process, <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with <a href="http://bit.ly/2ZXNc2y">a preview on Google books</a>.  
+Written in collaboration with twelve leading academics and industrialists, giving their unique perspectives on the PhD process, <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>.  
 </p>
 
 <br>
