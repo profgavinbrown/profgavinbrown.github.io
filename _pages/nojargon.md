@@ -5,25 +5,34 @@ excerpt: "An explanation without all the technical jargon."
 author_profile: true
 ---
 
-
 Feature Selection. What's that?
 -----
 
 Imagine you're trying to guess the price of a car.
-You are provided with various pieces of information, like the make and model, year of manufacture, etc.
-In solving any given problem like this, some pieces of information are relevant, some are irrelevant, and some are redundant in the context of others.
-Figuring out which is which, <i>automatically</i> is the task of
-<b>feature selection</b> algorithms, also known as "variable selection", among other names.
-The number of miles on the car clearly matters, while the colour of the wheel trim probably does not.
-The age of the car is probably redundant if you know the mileage.
+You are provided with various pieces of information: the manufacturer, age, colour, mileage, etc.
+In solving any given problem like this, some information is relevant, some is irrelevant, and some is redundant in the context of others.
+Figuring out which is which, <i>automatically</i> is the task of <b>feature selection</b> algorithms,
+also known as "variable selection", among other names.
+The mileage clearly matters, while the colour probably matters less.
+The age is probably redundant if you know the mileage.
 You know this because you (probably) know something about cars.
 But what about predicting whether someone will have a relapse of a particular cancer?
 What things matter? Genetics? Lifestyle? Metabolism?
-We developed statistical methods for this task, in particular we work on information theory and probabilistic methods.
+Statistical methodologies can help in this problem -- in particular we worked on <b>information theory and probabilistic methods</b>.
+
+Ensemble Learning. What's that?
+-----
+
+How tall is the Eiffel Tower? If I had to guess, I might say 700 metres.  If you guessed, you might say 800.
+It's a well known idea that <i>averaging</i> our guesses is more likely to be closer to the correct answer than either of us individually.
+This is known as "Wisdom of the Crowds" in popular science, but there is a formal mathematical basis for this, studied under the name
+"ensemble learning", or "multiple classifier systems".  The guesses are of course not coming from people like you and me, but from algorithms - we study how to combine the predictions of several Machine Learning algorithms, in order to get the best overall result. A major focus has been the study of "diversity" --- we don't want the individual guesses to be identical (otherwise what's the point of an ensemble), but we don't want them to be too different just for the sake of it.  The 'sweet spot' in between is the right amount of 'diversity'. The problem has been -- <i>how do you measure diversity?</i>.
+
 
 What did we do?
 -----
 When I get a chance, I'll flesh this out with further details of what we did... or you could just ask me directly....
+
 
 <!--
 There is one type of algorithm that has been quite popular --- based on "mutual information".
