@@ -32,8 +32,10 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
   <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>.
 </p>
 
+
+Contact me : <b>firstname.secondname AT manchester.ac.uk</b>
 <br>
-Contact me : <b>firstname.secondname AT manchester.ac.uk</b><br>
+<br>
 <br>
 
 News
