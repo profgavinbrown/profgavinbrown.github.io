@@ -17,10 +17,10 @@ I enjoy working on foundational and methodological aspects of Machine Learning.
 I have contributed to the understanding of "feature selection" algorithms, with nice results on information theoretic methods, hypothesis testing, and the stability of algorithms.
 I have also contributed to "ensemble" learning, in particular the study of diversity, and cost-sensitivity.
 I have applied all this, in e.g. bioinformatics, clinical trials, and predictive policing.
-Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all the technical jargon</a>.<br><br>
+Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all the technical jargon</a>.<br>
 </div>
 
-<img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg" style="width:20%; min-width:2cm; align:center; vertical-align:middle; min-width:2cm; float:right; padding-left:10px; padding-bottom:10px;" />
+<img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg" style="width:20%; min-width:2.5cm; align:center; vertical-align:middle; float:right; padding-left:10px; padding-bottom:10px;" />
 
 <p style="vertical-align: top; text-align: justify;">
 I also enjoy thinking about pedagogy, especially the nature of PhD training.
