@@ -21,7 +21,7 @@ Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all
 </div>
 
 <p style="padding-top: 0px; vertical-align: top; text-align: justify;">
-  <a href="<a href="https://www.amazon.co.uk/dp/0198866925/">
+  <a href="https://www.amazon.co.uk/dp/0198866925/">
     <img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg"
          style="width:25%; min-width:3cm; align:center; vertical-align:top; float:right; padding-left:20px; padding-bottom:10px; padding-top:0px;" />
   </a>
