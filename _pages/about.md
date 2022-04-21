@@ -27,7 +27,7 @@ I wrote a book - <b>a step-by-step guide to the intellectual and emotional rolle
 Written in collaboration with twelve leading academics and industrialists, giving their unique perspectives on the PhD process, <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with <a href="http://bit.ly/2ZXNc2y">a preview on Google books</a>.  
 </p>
 
-<br>Contact me : <b>firstname.secondname AT manchester.ac.uk</b><br>
+Contact me : <b>firstname.secondname AT manchester.ac.uk</b><br>
 
 News
 ===
