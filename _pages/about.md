@@ -55,3 +55,5 @@ See my <a href="{{ base_path }}/archivednews">archived news</a> for older work, 
   <img width=100px src="//www.clustrmaps.com/map_v2.png?d=3Zlt0peoQN6NYFbwQbkDh9TnsM6OXl0rAFqoYZe9c9I&cl=ffffff">
 </a>
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3Zlt0peoQN6NYFbwQbkDh9TnsM6OXl0rAFqoYZe9c9I"></script>
+
