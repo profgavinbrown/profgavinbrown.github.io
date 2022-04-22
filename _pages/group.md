@@ -20,7 +20,7 @@ We've been sponsored in all this work by generous public sector organisations - 
 ## Current & affiliated members
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-   <img width=120px src="{{ base_path }}/images/DannyWood.JPG">
+   <img width=120px src="/images/DannyWood.JPG">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Dr Danny Wood</b><br>Postdoc, working on ensemble learning theory. Danny holds degrees in mathematics and computer science, and a PhD specialising in echo state networks. His current work is directed toward finding a statistical foundation for the concept of 'diversity' in ensemble learning.
@@ -39,7 +39,7 @@ We've been sponsored in all this work by generous public sector organisations - 
 <br>
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-   <img width=120px src="{{ base_path }}/images/KostasSechidis.jpg">
+   <img width=120px src="/images/KostasSechidis.jpg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Dr Kostas Sechidis</b><br>
@@ -51,18 +51,6 @@ We've been sponsored in all this work by generous public sector organisations - 
 ## Alumni 
 
 If you'd like to contact anyone below, just let me know and I'll do my best to put you in touch.
-
-### Awards/prizes for the group
-
-| Who?              | Prize |
-|:----              |:------|
-| Henry Reeve       | <i>ESANN Best Student Paper Award 2017</i> |
-| Nikos Nikolaou    | <i> ACM Best of Computing, Notable Article of 2016 </i> |
-| Nikos Nikolaou    | <i> AERFAI Summer School 2015 Best Poster Award </i> |
-| Kostas Sechidis   | <i> ECML Best Student Paper award 2014 </i> |
-| Adam Pocock       | <i> BCS Distinguished Dissertation Award 2013 </i> |
-| Gavin Brown       | <i> BCS Distinguished Dissertation Award 2004 </i> |
-|====================================|
 
 ### Completed PhDs
 
@@ -80,6 +68,19 @@ If you'd like to contact anyone below, just let me know and I'll do my best to p
 | Manuela Zanda     | 2010 | <a href="https://www.research.manchester.ac.uk/portal/files/54595867/FULL_TEXT.PDF">A Probabilistic Perspective on Ensemble Diversity</a>           | Data Scientist, Arm Ltd.            |
 | Amir Ahmad        | 2009 | <a href="https://profgavinbrown.github.io/files/ahmadPhDthesis.pdf">Data Transformation for Decision Tree Ensembles</a>           | Associate Professor, United Arab Emirates University  |
 |======================================================================================|
+
+
+### Awards/prizes
+
+| Who?              | Prize |
+|:----              |:------|
+| Henry Reeve       | <i>ESANN Best Student Paper Award 2017</i> |
+| Nikos Nikolaou    | <i> ACM Best of Computing, Notable Article of 2016 </i> |
+| Nikos Nikolaou    | <i> AERFAI Summer School 2015 Best Poster Award </i> |
+| Kostas Sechidis   | <i> ECML Best Student Paper award 2014 </i> |
+| Adam Pocock       | <i> BCS Distinguished Dissertation Award 2013 </i> |
+| Gavin Brown       | <i> BCS Distinguished Dissertation Award 2004 </i> |
+|====================================|
 
 
 ### Former Research Staff
