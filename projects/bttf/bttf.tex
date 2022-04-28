@@ -1,0 +1,122 @@
+\documentclass[a4paper,10pt]{article}
+
+\pretolerance=10000
+\usepackage[margin=4cm]{geometry}
+\title{What year is it?\\
+\em A Bayes' Theorem Tribute to Back to the Future}
+
+\date{October 21st, 2015}
+\begin{document}
+\vspace{-1cm}
+\maketitle
+
+
+\noindent Today is {\bf Back to the Future Day}.  As a tribute to this great event in history, my class today is taught with this in mind.
+\noindent This article is brought to you by {\bf Doc Brown} -- yes, seriously.\\
+
+
+
+ You get in your time machine, and accelerate to 88mph... and zzzzzaaappp!  You have travelled through time.  Trouble is, as
+we all know, time travel ain't all that reliable.  So, which year have you ended up in? Well, due to previous experience with this time machine,
+perhaps you know it has dropped you in one of four possibilities: 1885, 1955, 1985, or 2015, with equal chance.  Let's figure out which it is.\\
+
+You look out the window of your time machine, and see a train, and it's a {\bf steam train}.  What are the chances of this, in the year 2015? Pretty slim.  Let's quantify this. For simplicity, let us suppose that there are only two types of train in the world -- steam and electric.
+
+\[
+P({\bf train}=steam~|~{\bf year}=\textit{2015})~~=~~ 0.01\\
+\]
+
+%Correspondingly, since if a train is not steam, it must be electric, so we have:
+%
+%\[
+%P({\bf train}=electric~|~{\bf year}=2015)~~=~~ 0.99\\
+%\]
+
+Note that this is {\em not} the probability of observing a steam train when you look out of your time machine window.
+It is the probability that the train that you observe, is in fact a {\bf steam} train.
+This is a subtle difference in wording, but subtle wording can make all the difference when dealing with probabilities.\\
+
+\noindent What are the chances of that train being a steam train if you were in a different year? Higher you may believe? Well let's incorporate that belief. 
+\begin{eqnarray*}
+P({\bf train}=\textit{steam}~|~{\bf year}=\textit{1885})~~&=&~~ 1.0\\
+P({\bf train}=\textit{steam}~|~{\bf year}=\textit{1955} )~~&=&~~ 0.5\\
+P({\bf train}=\textit{steam}~|~{\bf year}=\textit{1985})~~&=&~~ 0.05\\
+\end{eqnarray*}
+
+Here we can read that in 1885, all trains were steam trains.  By 1955, there were a lot less, and by 1985, even fewer.
+So, before we looked out the window, we believed that $P({\bf year}=2015)=0.25$, i.e. there is equal chance of
+being in each of 1885, 1955, 1985, or 2015. Now we see the (steam) train, what should we believe?  {\bf Bayes' Theorem} has the answer.
+\begin{eqnarray*}
+P({\bf year}=\textit{2015}~|~{\bf train}=\textit{steam})= \frac{P({\bf train}=\textit{steam}~|~{\bf year}=\textit{2015})  P({\bf year}=\textit{2015})}
+{P({\bf train}=\textit{steam})}
+\end{eqnarray*}
+
+\noindent Now, this seems to require an additional term, the $P({\bf train}=\textit{steam})$.  Luckily, a simple rule of probability theory, called the {\em sum rule}, allows us to calculate it.
+\begin{eqnarray*}
+P({\bf train}=\textit{steam})~=~\sum_{y} P({\bf train}=\textit{steam}~|~{\bf year}=\textit{y}) P({\bf year}=\textit{y})~~=~~0.39
+\end{eqnarray*}
+
+\noindent Now, we know all our terms, so we can calculate....
+\begin{eqnarray*}
+P({\bf year}=\textit{2015}~|~{\bf train}=\textit{steam})~~&=& \frac{0.01\times 0.25}{0.39}~~=~0.00641026
+\end{eqnarray*}
+i.e. a chance of about 1 in 156. Pretty small. Working through the same numbers for other years, we find\\
+\begin{eqnarray*}
+P({\bf year}=\textit{1885}~|~{\bf train}=\textit{steam})~~&=& \frac{1.0\times 0.25}{0.39}~~\approx~0.64\\~\\
+P({\bf year}=\textit{1955}~|~{\bf train}=\textit{steam})~~&=& \frac{0.5\times 0.25}{0.39}~~\approx~0.32\\~\\
+P({\bf year}=\textit{1985}~|~{\bf train}=\textit{steam})~~&=& \frac{0.05\times 0.25}{0.39}~~\approx~0.032\\
+\end{eqnarray*}
+
+\noindent So, we're pretty confident we're in the year 1885, right? Well, quite confident, not completely. So let's collect more evidence. Look out of your time machine window again....\\
+
+\noindent All of a sudden you see someone walk by, and they are wearing {\em Nike} shoes.  Now, you know (well I know anyway, with the help of Wikipedia)
+that Nike shoes were not first marketed until 1971.  You also know that the shoes were  more common in 1985 than they are in 2015, since everyone in 1985 was a bit of a fashion victim.
+\begin{eqnarray*}
+P({\bf shoes}=\textit{nike}~|~{\bf year}=\textit{1885})~~&=&~~ 0.0\\
+P({\bf shoes}=\textit{nike}~|~{\bf year}=\textit{1955} )~~&=&~~ 0.0\\
+P({\bf shoes}=\textit{nike}~|~{\bf year}=\textit{1985})~~&=&~~ 0.7\\
+P({\bf shoes}=\textit{nike}~|~{\bf year}=\textit{2015})~~&=&~~ 0.2\\
+\end{eqnarray*}
+%
+So, let's incorporate that information. Now of course, we're starting from a different perspective than earlier -- we thought originally there was an equal chance of being in 1885/1955/1985/2015, but then saw the steam train, so our {\em prior belief} over the years has changed. Now it is:
+\begin{eqnarray*}
+P({\bf year}=\textit{1885}) &\approx& 0.64\\
+P({\bf year}=\textit{1955}) &\approx& 0.32 \\
+P({\bf year}=\textit{1985}) &\approx& 0.032 \\
+P({\bf year}=\textit{2015}) &\approx& 0.0064 
+\end{eqnarray*}
+Note that I've used the $\approx$ symbol just to avoid writing out loads of decimal points. These probabilities {\bf add up to one},
+since we are sure we have to be in one of these four years. So now, let's apply Bayes' Theorem again...
+
+\begin{eqnarray*}
+P({\bf year}=\textit{2015}~|~{\bf shoes}=\textit{nike})= \frac{P({\bf shoes}=\textit{nike}~|~{\bf year}=\textit{2015})  P({\bf year}=\textit{2015})}
+{P({\bf shoes}=\textit{nike})}
+\end{eqnarray*}
+Let's use the sum rule again to calculate the denominator here:
+\begin{eqnarray*}
+P({\bf shoes}=\textit{nike})~=~\sum_{y} P({\bf shoes}=\textit{nike}~|~{\bf year}=\textit{y}) P({\bf year}=\textit{y})~~\approx~~0.02371...
+\end{eqnarray*}
+
+\noindent And plug these numbers into Bayes' Theorem again...
+\begin{eqnarray*}
+P({\bf year}=\textit{1885}~|~{\bf shoes}=\textit{nike})~~&=& \frac{0\times 0.64...}{0.02371...}~~=~0\\~\\
+P({\bf year}=\textit{1955}~|~{\bf shoes}=\textit{nike})~~&=& \frac{0\times 0.32...}{0.02371...}~~=~0\\~\\
+P({\bf year}=\textit{1985}~|~{\bf shoes}=\textit{nike})~~&=& \frac{0.7\times 0.032...}{0.02371....}~~\approx~0.945...\\~\\
+P({\bf year}=\textit{2015}~|~{\bf shoes}=\textit{nike})~~&=& \frac{0.2\times 0.0064...}{0.02371...}~~\approx~0.054...\\
+\end{eqnarray*}
+
+\noindent So, after observing the steam train, and the Nike shoes, we realise we have travelled through time, and
+are in the year 1985, with probability $0.945$.\\
+
+\noindent We {\em updated} our belief in the year, via observation of evidence -- and used Bayes' Theorem to do so.
+If we had not observed the steam train, but only the Nikes, we would only have $P({\bf year}=\textit{1985}~|~{\bf shoes}=\textit{nike}) = 0.777...$, but because we observed both, we incorporated all evidence, and became more confident in where our time machine has taken us.\\
+
+\noindent \em Welcome to the future, Marty.
+
+
+
+%\noindent If you're curious, the exact time is 4.29pm, Wednesday October 21st 2015.
+
+\end{document}
+
+
