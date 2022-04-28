@@ -9,35 +9,6 @@
 
 <body>
 
-<?php
-
-function getUserIP() {
-    if( array_key_exists('HTTP_X_FORWARDED_FOR', $_SERVER) && !empty($_SERVER['HTTP_X_FORWARDED_FOR']) ) {
-        if (strpos($_SERVER['HTTP_X_FORWARDED_FOR'], ',')>0) {
-            $addr = explode(",",$_SERVER['HTTP_X_FORWARDED_FOR']);
-            return trim($addr[0]);
-        } else {
-            return $_SERVER['HTTP_X_FORWARDED_FOR'];
-        }
-    }
-    else {
-        return $_SERVER['REMOTE_ADDR'];
-    }
-}
-
-$ip = getUserIP();
-$info = file_get_contents("http://ipinfo.io/{$ip}/json");
-
-//$details = json_decode(file_get_contents("http://ipinfo.io/{$ip}/json"));
-
-//$city = $details->city;
-//$host = $details->hostname;
-//$msg = "$ip -- $host -- $city";
-
-//mail("gavin.brown@manchester.ac.uk","Visit to Stability Site",$info);
-
-
-?>
 
 
 <div style="width:80%;  margin: 0 auto; margin-top: 1.5cm;">
