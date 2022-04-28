@@ -1,0 +1,44 @@
+a { color: blue; }
+a:hover { background-color:blue; color:yellow; }
+
+body {
+    font-family: Arial, Lucida, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: blue;
+    font-size: 85%;
+    margin: 0;
+    padding: 0;
+}
+
+.titlebar {
+    left: 50px;
+    position: absolute;
+    top: 50px;
+    width: 90%;
+	border: 0px;
+	background-color:#fff;
+	padding:0em;
+}
+
+
+.bodybox {
+    left: 200px;
+    position: absolute;
+    width: 70%;
+    top: 140px;
+    height: 60%;
+	border: 1px solid silver;
+	background-color:#fff;
+	padding:1em;
+}
+
+.menubox {
+    left: 50px;
+    position: absolute;
+    top: 140px;
+    width: 114px;
+    font-size:1em;
+    border: 1px solid silver;
+    background-color:#fff8dc;
+    padding:1em;
+}

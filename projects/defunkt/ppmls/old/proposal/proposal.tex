@@ -1,0 +1,126 @@
+\documentclass[a4]{article}
+\usepackage{epsfig}
+\usepackage[polish,english]{babel}
+
+\textwidth=7in \textheight=9.3in \oddsidemargin=-0.35in
+\headheight=-1in
+
+
+% begin Ela -------------------------------------------------
+% this is to print a Polish letter correctly in LaTeX
+\newdimen\plWleft
+\newdimen\plWdown
+\newdimen\plWright
+\newdimen\plWtemp
+\def\sob#1#2#3#4#5{%parameters: letter and fractions hl,ho,vl,vo
+  \setbox0\hbox{#1}\setbox1\hbox{$_\mathchar'454$}\setbox2\hbox{p}%
+  \plWright=#2\wd0 \advance\plWright by-#3\wd1
+  \plWdown=#5\ht1 \advance\plWdown by-#4\ht0
+  \plWleft=\plWright \advance\plWleft by\wd1
+  \plWtemp=-\plWdown \advance\plWtemp by\dp2 \dp1=\plWtemp
+  \leavevmode
+  \kern\plWright\lower\plWdown\box1\kern-\plWleft #1}
+\DeclareTextCommand{\e}{OT1}{\sob e{.50}{.35}{0}{.93}}
+% end Ela -------------------------------------------------
+
+
+
+\title{A Workshop Proposal for ECML 2007:\\
+\bf Principles and Practice of Multiple Learning Systems}
+\author{Dr Gavin Brown, Dr El\.zbieta P\e{}kalska\\University of Manchester, UK}
+\date{}
+
+\begin{document}
+\maketitle
+
+\noindent{\bf A brief technical description of the specific
+technical issues that the workshop will address.}\\
+The workshop aims to be representative of the current
+state-of-the-art in Multiple Learning Systems.  This encompasses not
+only the well-known classifier ensembles idea, but also the broader
+concept of combining learning {\em methodologies}.  We aim to attract papers
+addressing theory/practice in particularly challenging domains such
+as non-stationarity domains and massive online stream mining, and
+the latest theoretical questions including discriminative/generative
+learning, probabilistic/information-theoretic learning, and kernel
+combining methods.\\
+\\
+{\bf The reasons why the workshop is of interest this time.}\\
+The combining paradigm has had a profound impact on pattern
+recognition over the last decade, of interest to a wide community
+from theorists in Machine Learning to practitioners in Data Mining.
+This will be the first ECML workshop to address the issue
+explicitly, incorporating applications of current methods, open
+theoretical questions, priorities for different application domains,
+and advanced aspects of the \emph{combining principle} such as the
+compatability of different
+learning \emph{algorithms}.\\
+\\
+\noindent{\bf The names, postal and email addresses, phone and fax
+numbers of
+the Workshop Chairs.}\\
+Gavin Brown and El\.zbieta P\e{}kalska,\\[1mm]
+\emph{gbrown@cs.man.ac.uk, pekalska@cs.man.ac.uk}\\
+School of Computer Science\\
+University of Manchester\\
+Oxford Road\\
+Manchester M13 9PL, UK\\
+Tel. (Brown): +44 (0)161 275 6190\\
+Tel. (P\e{}kalska): +44 (0)161 275 6194\\
+Fax (Both): 0161 275 6204\\
+\\
+{\bf The names, affiliations and email addresses of the Workshop
+Program Committee}
+\begin{itemize}
+\setlength{\itemsep}{-1mm}
+\item{  Robert Duin (Delft, Netherlands), r.duin@ieee.org}
+\item{  Giorgio Fumera (Calgiari, Sardinia), fumera@diee.unica.it}
+\item{  Tin Kam Ho (Bell Labs, USA), tkh@research.bell-labs.com}
+\item{  Tim Kovacs (Bristol, UK), kovacs@cs.bris.ac.uk}
+\item{  Natalio Krasnogor (Nottingham, UK), natalio.krasnogor@nottingham.ac.uk}
+\item{  Ludmila Kuncheva (Bangor, Wales), l.i.kuncheva@bangor.ac.uk}
+\item{  Nikunj Oza (NASA Ames, USA), oza@email.arc.nasa.gov}
+\item{  Fabio Roli (Calgiari, Sardinia), roli@diee.unica.it}
+\item{  Amanda Sharkey (Sheffield, UK), sharkey@dcs.shef.ac.uk}
+\item{  Marina Skurichina (Delft, Netherlands), m.skurichina@tudelft.nl}
+\item{  Terry Windeatt (Surrey, UK), t.windeatt@surrey.ac.uk}
+\item{  Jeremy Wyatt (Birmingham, UK), jlw@cs.bham.ac.uk}
+\end{itemize}
+(We have contacted all of the above and all have agreed to serve.)\\
+\\
+\\
+\noindent{\bf A list of previously-organized related workshops by any of the
+Workshop Chairs.}\\
+{\em Brown}: Workshop on Ensemble Theory and Practice, University of Birmingham,
+November 2004\\
+\\
+{\bf How the workshop will be publicized.}\\
+Emails will be sent to the Connectionists mailing list, the Multiple Classifier Systems mailing list, and 
+several individual research groups at the institutions of the programme committee members.\\
+\\
+{\bf A summary of the intended workshop Call for Participation.}\\
+Attached to this application, see also the preliminary workshop website at:\\
+
+{\tt http://www.cs.man.ac.uk/\~{}gbrown/ppmls/}\\
+\\
+We have secured Dr Ludmila Kuncheva as invited speaker for the workshop.  Dr Kuncheva is widely recognised
+as a leading figure in the field, having authored over 70 publications on the topic,
+including the central textbook, "Combining Pattern Classifiers".  We will also organise a poster session, 
+encouraging unfinished or contraversial work that may invite debate. {\em \bf We also intend to propose
+a tutorial on this topic if the workshop is of interest to the ECML chairs.}\\
+\\
+\noindent{\bf Plans to document the workshop results (beyond ECML/PKDDS publication).}\\
+Proceedings with be published online and provided to participants.\\
+Oza (on our program committee) is an associate editor with the Journal of 
+Information Fusion, and has confirmed that given sufficient submissions, a special issue on this topic is
+of interest at this time.\\
+\\
+\noindent{\bf Ideal duration of the workshop (three/ four sessions).}\\
+Three sessions.\\
+\\
+\noindent{\bf A list of audio-visual or technical requirements and any special room requirements.}\\
+A data projector and sufficent space/equipment to organise a poster session if it is of interest to the ECML 
+chairs.
+
+
+\end{document}

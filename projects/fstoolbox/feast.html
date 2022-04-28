@@ -1,0 +1,102 @@
+FEAST provides implementations of common mutual information based filter
+feature selection algorithms, and an implementation of RELIEF. All
+functions expect discrete inputs (except RELIEF, which does not depend
+on the MIToolbox), and they return the selected feature indices. These
+implementations were developed to help our research into the similarities
+between these algorithms, and our results are presented in the following paper:
+<br>
+<blockquote>
+<i><a href="http://jmlr.csail.mit.edu/papers/v13/brown12a.html">Conditional Likelihood Maximisation: A Unifying Framework for
+Information Theoretic Feature Selection</a><br>
+ G.Brown, A.Pocock, M.Lujan, M.-J.Zhao<br>
+ Journal of Machine Learning Research, vol 13, pages 27-66 (2012)</i>
+</blockquote>
+
+If you're interested in the datasets we used for that paper, you can <a href="./brown12a-datasets.zip">download them here</a> (28MB).<br><br>
+
+All FEAST code is licensed under the BSD 3-Clause License.<br>
+
+If you use these implementations for academic research please cite the paper above.
+<br>
+<br>
+FEAST toolbox: <a href="http://mloss.org/software/view/386/"><big>Download at MLOSS.org</big></a><br><br>
+
+<hr>
+<br><br>
+
+Contains implementations of:<br>
+<blockquote>
+   mim, mrmr, mifs, cmim, jmi, disr, cife, icap, condred, cmi, relief, fcbf, betagamma
+</blockquote>
+
+<br>
+
+References for these algorithms are provided in the accompanying feast.bib file (in BibTeX format).
+<br />
+<br />
+
+MATLAB Example (using "data" as our feature matrix, and "labels" as the class label vector):<br><br>
+
+<code>
+>> size(data)<br />
+ans = <br />
+     (569,30)                                     %% denoting 569 examples, and 30 features<br />
+<br />
+>> selectedIndices = feast('jmi',5,data,labels) %% selecting the top 5 features using the jmi algorithm<br />
+selectedIndices =<br />
+<br />
+    28<br />
+    21<br />
+     8<br />
+    27<br />
+    23<br />
+<br />
+>> selectedIndices = feast('mrmr',10,data,labels) %% selecting the top 10 features using the mrmr algorithm<br />
+selectedIndices =<br />
+<br />
+    28<br />
+    24<br />
+    22<br />
+     8<br />
+    27<br />
+    21<br />
+    29<br />
+     4<br />
+     7<br />
+    25<br />
+<br />
+>> selectedIndices = feast('mifs',5,data,labels,0.7) %% selecting the top 5 features using the mifs algorithm with beta = 0.7<br />
+selectedIndices =<br />
+<br />
+    28<br />
+    24<br />
+    22<br />
+    20<br />
+    29<br />
+</code>
+
+<p>
+The library is written in ANSI C for compatibility with the MATLAB mex compiler,
+except for MIM, FCBF and RELIEF, which are written in MATLAB/OCTAVE script.<br>
+<br>
+If you wish to use MIM in a C program you can use the BetaGamma function with
+Beta = 0, Gamma = 0, as this is equivalent to MIM (but slower than the other implementation).
+MIToolbox is required to compile these algorithms, and these implementations
+supercede the example implementations given in that package (they have more robust behaviour 
+when used with unexpected inputs).
+</p>
+
+<big>
+MIToolbox can be found at: <a href="http://mloss.org/software/view/325/">this site</a><br>
+and v1.03 is included in the ZIP for the FEAST package.<br><br>
+</big>
+
+Compilation instructions:<br>
+ MATLAB/OCTAVE - run CompileFEAST.m,<br>
+ Linux C shared library - use the included makefile<br><br>
+
+
+Update History<br>
+08/11/2011 - v1.0 - Public Release to complement the JMLR publication.
+
+

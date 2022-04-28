@@ -1,0 +1,129 @@
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-24256346-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<body bgcolor=cornsilk> 
+<br><br> 
+
+<center> 
+<table width=80% border=1 style="border-collapse:collapse" bgcolor=white> 
+<tr>
+<td> 
+<br> 
+<blockquote> 
+ 
+<table border=0 width=100%> 
+<tr> 
+<td width=70%> 
+
+<big><big>
+<b>Statistical Hypothesis Testing in Positive Unlabelled Data<br></b>
+</big>
+</big>
+
+<a href="http://www.cs.man.ac.uk/~sechidik">Konstantinos Sechidis</a>,
+<a href="http://www.sc.ehu.es/ccwbayes/isg/index.php?option=com_jresearch&view=member&task=show&id=4&Itemid=76">Borja Calvo</a>, and
+<a href="http://www.cs.man.ac.uk/~gbrown">Gavin Brown</a><br>
+<i>European Conference on Machine Learning, Nancy, France 2014.</i><br><br>
+</big>
+
+<font color=red><b>
+** Best Student Paper Prize **
+</b>
+</font><br><br>
+
+<a href="http://www.cs.man.ac.uk/~gbrown/publications/ecml2014pu.pdf">Paper (PDF)</a>
+&nbsp;&nbsp;<i>/</i>&nbsp;&nbsp;
+<a href="http://www.cs.man.ac.uk/~gbrown/posunlabelled/SupplementaryMaterial.pdf">Supplementary material (PDF)</a>
+&nbsp;&nbsp;<i>/</i>&nbsp;&nbsp;
+<a href="http://www.cs.man.ac.uk/~gbrown/posunlabelled/ecml2014pu.bib">Bibtex</a>
+
+<br>
+
+<a href="http://www.cs.man.ac.uk/~gbrown/posunlabelled/Matlab.zip">Matlab code (ZIP)</a>
+&nbsp;&nbsp;<i>/</i>&nbsp;&nbsp;
+
+<a href="http://www.cs.man.ac.uk/~gbrown/posunlabelled/sechidis2014ecmlslides.pdf">Slides (PDF)</a>
+</small>
+
+</big>
+
+</td> 
+<td align=right valign=top> 
+<img src="http://www.cs.man.ac.uk/~gbrown/posunlabelled/manlogo.jpeg" width=150> 
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+
+</td> 
+ 
+</tr> 
+</table> 
+
+
+
+<hr>
+
+<blockquote> 
+
+ 
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --> 
+ 
+<i>Positive-unlabelled</i> data is a special case of semi-supervised learning.  In PU data, we have a smaller number of "positive" examples, and a large number
+of <i>unlabelled</i> examples, which could be <b>either positive or negative</b>.  This type of scenario occurs surprisingly often in data, being of interest to text mining, bioinformatics, and many other areas.
+
+<center><a href="./puexample.png"><img src="./puexample.png" width=400em></a><br><br></center>
+
+In this paper we presented an analysis of statistical hypothesis testing methodology in this scenario. We focus specifically the G-test, a generalised likelihood ratio test, but <b></u>the results have wider implications
+in the use of mutual information, for example to build Bayesian Networks, decision trees, or to select features.</b></u>
+
+<br>
+
+<h2>Properties of Hypothesis Testing in PU environments</h2>
+One very common heuristic is to <i>assume all unlabelled examples are negatives</i></u>.  Our first result is to show that performing a G-test with this heuristic:<br>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- is guaranteed to have the same false positive rate<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- will have a higher false negative rate<br>
+<br>
+
+We proceed to prove a <b><u>correction factor</u></b>, kappa, that allows a test with <b>identical behaviour</b> to the original, as if you had observed the full data.<br><br>
+
+The correction factor enables <a href="http://en.wikipedia.org/wiki/Sample_size_determination">sample size determination</a> in PU data</u></b>, and additionally provides a new capability - <b><u>supervision determination</u></b> - that is <i>automatically determining the number of labelled examples needed</i> to obtain a specified statistical test.
+
+<br>
+<h2>Supervision Determination: How many labels do I need?</h2>
+Suppose we have N=3000 <u>unlabelled</u> examples. 
+We would ideally like to label all examples, and then conduct a hypothesis test, that will have a false positive rate of 1%.
+However, suppose that we cannot label all of these, perhaps because labelling is expensive.
+If we can provide the prior knowledge that p(y=1) = 0.2, <u>we only need to label a very small fraction of the examples, but we can still recover
+the same statistical test with specified FP/FN rates</u>.<br>
+
+<center><img src="./table2.png"></center>
+<br>
+To detect a ''medium'' effect, with power 0.99 (i.e. FNR of 1%) then we only need to find 66 positive examples from the approximate total of 600.
+The small, medium and large effect sizes correspond to Cohen's standardized interpretations of effect sizes, found in any statistical textbook.
+
+<br><br>
+
+<!--
+<h2>Sample Size Determination: How many examples do I need?</h2>
+See paper for examples.
+-->
+
+<!-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx --> 
+ 
+ 
+</blockquote> 
+</blockquote> 
+ 
+ 
+ 
+</td></tr></table> 
+<br><br><br> 
+<br><br><br> 
