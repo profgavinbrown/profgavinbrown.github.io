@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>On the Stability of Feature Selection Algorithms</title>
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+
+</head>
+
+<body>
+
+<?php
+
+function getUserIP() {
+    if( array_key_exists('HTTP_X_FORWARDED_FOR', $_SERVER) && !empty($_SERVER['HTTP_X_FORWARDED_FOR']) ) {
+        if (strpos($_SERVER['HTTP_X_FORWARDED_FOR'], ',')>0) {
+            $addr = explode(",",$_SERVER['HTTP_X_FORWARDED_FOR']);
+            return trim($addr[0]);
+        } else {
+            return $_SERVER['HTTP_X_FORWARDED_FOR'];
+        }
+    }
+    else {
+        return $_SERVER['REMOTE_ADDR'];
+    }
+}
+
+$ip = getUserIP();
+$info = file_get_contents("http://ipinfo.io/{$ip}/json");
+
+//$details = json_decode(file_get_contents("http://ipinfo.io/{$ip}/json"));
+
+//$city = $details->city;
+//$host = $details->hostname;
+//$msg = "$ip -- $host -- $city";
+
+//mail("gavin.brown@manchester.ac.uk","Visit to Stability Site",$info);
+
+
+?>
+
+
+<div style="width:80%;  margin: 0 auto; margin-top: 1.5cm;">
+
+<table width=100% >
+<tr>
+<td>
+
+	<h1><b>How to Measure the Stability of Feature Selection</b></h1>
+	
+	<blockquote>
+	<small>
+	<i>"On the Stability of Feature Selection Algorithms''</i> &nbsp;  [<a href="http://www.jmlr.org/papers/volume18/17-514/17-514.pdf">PDF</a>]<br>
+	<a href="http://www.cs.man.ac.uk/~nogueirs">Sarah Nogueira</a>,
+	<a href="http://www.cs.man.ac.uk/~sechidik">Konstantinos Sechidis</a>, and
+	<a href="http://www.cs.man.ac.uk/~gbrown">Gavin Brown</a><bR>
+	<i>Journal of Machine Learning Research</i>, (vol 18, page 1-54, 2018).<br>
+	<br></small>
+		
+	<small><i>"Quantifying the Stability of Feature Selection"</i> &nbsp; [<a href="http://www.cs.man.ac.uk/~nogueirs/files/thesis_nogueira_2018.pdf">PDF</a>]<br>
+	Sarah Nogueira, PhD thesis, School of Computer Science, University of Manchester 2018<br><br></small>
+	</blockquote>
+
+</td>
+<td>
+	<img src="./images/sevenpebbles.jpg" align=right width=200px>
+</td>
+</tr>
+</table>
+
+
+<div style="width:100%;  margin: 0 auto;">
+	<fieldset style="padding: 40px;">
+	
+	<b>***** If you use any of the work below, please cite our JMLR paper above. ***** </b><br><br> 
+	Feature selection algorithms are central to modern data science, from exploratory analysis to predictive model building.
+	The <b>‘stability’</b> of an FS algorithm is the variation of its feature preferences with respect to small variations in the original data — in effect, the <b>reliability</b> of the procedure.<br><br>
+
+	We have developed statistical tools to understand stability, and provide a solid statistical foundation. The novel measure we propose has a number of desirable properties not held by any previous measure.
+		
+	This allows you to reliably estimate stability for a feature selection algorithm, independently of which algorithm you use. You can calculate a <b>point estimate</b> of stability, or if you want, <b>confidence intervals</b> and do <b>hypothesis testing</b> too.<br>
+	<br>
+		
+	<table><tr>
+	<td valign=center>
+		<img src="./images/github.jpg" width=50><br>
+	</td>
+	<td valign=center>
+		<blockquote>
+		You can get the full source code, including experiments from our paper, at:<br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/nogueirs/JMLR2018">https://github.com/nogueirs/JMLR2018</a>
+		</blockquote>
+	</td></tr></table><br>
+
+	But, it's <b>really</b> simple to calculate.<br><br>
+	
+	The input to the calculation is simply a matrix <i>Z</i> with <i>M</i> rows, where each row represents one run of a feature selection algorithm - each one from a different bootstrap (or some other random perturbation) of the original data.
+	Each row should be of length <i>d</i>, the total number of features, with a 1 indicating the feature was chosen on that run, and 0 not chosen.<br><br>
+	
+	For the point estimate, you can do it in <tt><b><big><big>Matlab</big></big></b></tt> like this...<br>
+	
+	<table><tr>
+	<td valign=center>
+
+		<img src="./images/matlab.png" width=50><br>
+	</td>
+	<td>
+	<blockquote>
+		<tt><big>
+		Z = [...];    % Mxd binary matrix<br>
+		d = size(Z,2);<br>
+		kbar = mean(sum(Z,2));<br>
+		stability =  1 - mean(var(Z)) / (kbar/d*(1-kbar/d))
+		</big></tt>
+	</blockquote>
+	</td></tr></table>
+		
+
+	Or you can do it in <tt><b><big><big>Python</big></big></b></tt> like this...<br>
+	
+	<table><tr>
+	<td valign=center>
+		<img src="./images/python.jpg" width=50><br>
+	</td>
+	<td>
+	<blockquote>
+
+		<tt><big>
+		Z = [...]   # Mxd numpy array<br>
+		d = Z.shape[1]<br>
+		kbar = Z.sum(1).mean();<br>
+		stability = 1 - Z.var(0, ddof=1).mean() / ((kbar/d)*(1-kbar/d))
+
+		<!--
+		import numpy as np 
+		Z = np.random.choice([0, 1], size=(10,5), p=[.3, .7]);
+		-->
+		
+		</big></tt>
+	</blockquote>
+	</td></tr></table>
+
+	For more complex operarations, use either the full source code linked above, or our <b>drag n drop</b> interface....<br>
+
+	<table><tr>
+	<td valign=center>
+		<img src="./images/Drag_Drop.png" width=50><br>
+	</td>
+	<td><br>
+		<blockquote>		
+		<b>You do not have to upload your original features/data to us.</b><br>
+		<b>You do not have to upload the names of the features, or any other confidential information.</b>
+		</blockquote>
+		<br>
+	</td></tr></table>
+	
+	
+	As with the Matlab/Python above, the only requirement is a matrix, delivered as a text file with <i>M</i> rows, where each row represents one run of a feature selection algorithm.  Each row should be a binary string of length <i>d</i>, the total number of features, with a 1 indicating the feature was chosen, and 0 not chosen. 
+	Your file can contain tabs, spaces or commas if you wish, but they will be stripped out.  You can use the <a href="./stab.txt">example file</a> if you want - download it, then drag it in.<br>
+	<br>
+	
+	<b>Drop a file</b> into either of the boxes below, and the response will be your estimated stability, along with confidence intervals.<br><br>
+
+	<b>Drop two files</b>, and if the dimensions <i>M</i> and <i>d</i> are the same, a hypothesis test of equality will be performed.
+	</fieldset>
+	<br>
+
+</div>
+
+
+<form id="upload" method="POST" enctype="multipart/form-data">
+
+<fieldset>
+<input type="hidden" id="MAX_FILE_SIZE" name="MAX_FILE_SIZE" value="300000" />
+
+<table width=100%>
+<tr><td style="width:50%; vertical-align:top;">
+
+
+		<input type="file" id="fileselect" name="fileselect[]" multiple="multiple" />
+		<input type="hidden" id="fileselect" name="fileselect[]">
+		<div id="leftfiledrag">drop a file here</div>
+		
+		<div id="leftmessages"></div>
+</td>
+<td style="width:50%; vertical-align:top;">
+
+		<input type="file" id="fileselect2" name="fileselect2[]" multiple="multiple" />
+		<input type="hidden" id="fileselect2" name="fileselect2[]">
+		<div id="rightfiledrag">drop a file here</div>
+		
+		<div id="rightmessages"></div>
+</td></tr>
+</table>
+
+<div id="globalmsg" style="padding: 1em 0;"></div>
+
+</fieldset>
+
+
+</form>
+
+</div>
+
+<script src="filedrag.js"></script>
+
+
+<br><Br><br>
+<br><Br><br>
+<br><Br><br>
+<br><Br><br>
+
+<a href='https://clustrmaps.com/site/1a3hd'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=10&t=n&d=O9nzYrbRGQz9QB3Ivw4uE02YGjlCNtW1cEw4sqiKrsg'/></a>
+
+
+</body>
+</html>

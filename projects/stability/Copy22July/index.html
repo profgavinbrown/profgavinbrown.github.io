@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>On the Stability of Feature Selection</title>
+<link rel="stylesheet" type="text/css" media="all" href="styles.css" />
+</head>
+
+<body>
+
+<div style="width:85%;  margin: 0 auto; margin-top: 1.3cm;">
+<h1>On the Stability of Feature Selection Algorithms</h1>
+<h5>Sarah Nogueira, Konstantinos Sechidis, Gavin Brown</h5>
+
+<div style="width:100%;  margin: 0 auto;">
+
+	<fieldset>
+	<!-- <legend>Background</legend> --><br>
+	We have developed statistical tools to understand the concept of <b>stability</b> in feature selection algorithms.
+	This page allows you to estimate stability for a sequence of feature selection runs, independently of the algorithm 	used to select.<br>	
+	<br>	
+	<b>You do not have to upload your original features/data to us.</b><br>
+	<b>You do not have to upload the names of the features, or any other confidential information.</b><br>
+	<br>
+	The only requirement is a text file with <i>M</i> rows, where each row represents one run of a feature selection algorithm.
+	Each row should be a binary string of length <i>d</i>, the total number of features, with a 1 indicating the feature was chosen, and 0 not chosen. 
+	Your file can contain tabs, spaces or commas if you wish, but they will be stripped out.  You can use the <a href="./stab.txt">example file</a> if you want, and upload it.<br>
+	<br>
+	
+	<b>Drop a file</b> into either of the boxes below, and the response will be your estimated stability, along with confidence intervals.<br><br>
+
+	If the dimensions <i>M</i> and <i>d</i> are the same, a hypothesis test of equality will be performed. <b>THIS IS WORK IN PROGRESS</b>
+	</fieldset>
+
+</div>
+
+<br>
+
+<form id="upload" method="POST" enctype="multipart/form-data">
+
+<fieldset>
+<input type="hidden" id="MAX_FILE_SIZE" name="MAX_FILE_SIZE" value="300000" />
+
+<table width=100%>
+<tr><td style="width:50%; vertical-align:top;">
+
+		<input type="hidden" id="fileselect" name="fileselect[]">
+		<div id="leftfiledrag">drop a file here</div>
+		
+		<div id="leftmessages"></div>
+</td>
+<td style="width:50%; vertical-align:top;">
+
+		<input type="hidden" id="fileselect2" name="fileselect2[]">
+		<div id="rightfiledrag">drop a file here</div>
+		
+		<div id="rightmessages"></div>
+</td></tr>
+</table>
+
+<div id="globalmsg" style="padding: 1em 0;"></div>
+
+</fieldset>
+
+</form>
+
+
+
+</div>
+
+<script src="filedrag.js"></script>
+
+</body>
+</html>
