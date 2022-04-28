@@ -10,7 +10,7 @@ I find this gives me paths to create new methods, as well as deeply understandin
 I've done this with several topics, focusing on feature selection and ensemble learning.
 As the Nobel Prize winner Sir William Henry Bragg once said...
 
-> "The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them."
+> "The important thing in science is not so much to obtain new facts, as to discover new ways of thinking about them."
 
 Feature Selection. What's that?
 -----
