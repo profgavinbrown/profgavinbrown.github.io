@@ -8,9 +8,9 @@ author_profile: true
 I enjoy looking for <b>connections</b> and <b>equivalencies</b> between algorithms and methods in the jungle of statistical Machine Learning.
 I find this gives me paths to create new methods, as well as deeply understanding existing ones.
 I've done this with several topics, focusing on feature selection and ensemble learning.
-As William Bragg said once....
+As the Nobel Prize winner Sir William Henry Bragg once said...
 
-> The most important thing in science is not to discover new facts, but new ways of thinking about them.
+> "The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them."
 
 Feature Selection. What's that?
 -----
