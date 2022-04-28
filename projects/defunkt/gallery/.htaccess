@@ -1,7 +1,0 @@
-AuthUserFile
-/home/gbrown/public_html/gallery/.htpasswd
-AuthName ExampleMultipleUsers
-AuthType Basic
-<Limit GET>
-require valid-user
-</Limit>

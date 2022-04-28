@@ -1,4 +1,0 @@
-I am Reader in Machine Learning&nbsp;... (Reader?!&nbsp;<a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">what's that?</a>).<div><br></div>
-
-<div>
-I'm based in the <a href="http://mlo.cs.manchester.ac.uk/">Machine Learning and Optimization Group</a>&nbsp;and my research interests vary between many topics, e.g. feature selection/extraction with information theoretic methods, ensembles (e.g. Boosting, Random Forests), and recently I am looking at efficient deep neural networks. &nbsp; Primarily I work on the theory behind these algorithms, so my applications are highly varied, not constrained to a single domain<b>.... or, in less technical jargon,&nbsp;</b><a href="./whatdoido.php">click here</a>.&nbsp;</div><div><b><br></b></div><div><b>Tel: </b>0161 275 6190<b> &nbsp; &nbsp; <i>/</i> &nbsp; &nbsp; </b>&nbsp;firstname.secondname <b>AT</b> manchester.ac.uk</div>
