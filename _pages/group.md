@@ -33,7 +33,7 @@ We've been sponsored in all this work by generous public sector organisations - 
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Sara Summerton</b><br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>.
-   Sara holds degrees in physics & mathematics, and is currently working statistical modeling for healthcare applications.
+   Sara holds degrees in physics & mathematics, and is currently working on ML for healthcare applications.
 </div>
 
 <br>
