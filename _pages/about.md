@@ -33,7 +33,7 @@ You may prefer some details <a href="{{ base_path }}/nojargon">without all the t
 </p>
 
 <br>
-Contact me : <b>firstname.secondname AT manchester.ac.uk</b>
+Contact me :<br><b>firstname.secondname AT manchester.ac.uk</b>
 <br>
 <br>
 <br>
