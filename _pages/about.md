@@ -14,8 +14,8 @@ What do I do?
 ======
 <div style="text-align: justify;">
 I enjoy working on foundational and methodological aspects of Machine Learning.
-I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of ML, primarily with tools from <b>statistics</b> and <b>information theory.</b> 
-I find this gives me paths to create new methods, as well as deeply understanding existing ones.
+I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of ML, primarily with tools from statistics and information theory. 
+I find this gives me paths to create new methods, as well as <b>deeper understanding</b> of existing ones.
 I have also applied work, in e.g. bioinformatics, clinical trials, and predictive policing.
 You may prefer some details <a href="{{ base_path }}/nojargon">without all the technical jargon</a>.<br><br>
 </div>
