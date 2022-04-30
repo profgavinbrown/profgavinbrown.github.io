@@ -14,10 +14,14 @@ What do I do?
 ======
 <div style="text-align: justify;">
 I enjoy working on foundational and methodological aspects of Machine Learning.
-I have contributed to the understanding of "feature selection" algorithms, with nice results on information theoretic methods, hypothesis testing, and the stability of algorithms.
-I have also contributed to "ensemble" learning, in particular the study of diversity, and cost-sensitivity.
-I have applied all this, in e.g. bioinformatics, clinical trials, and predictive policing.
-Or, you may prefer <a href="{{ base_path }}/nojargon">an explanation without all the technical jargon</a>.<br><br>
+I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of statistical Machine Learning.
+I find this gives me paths to create new methods, as well as deeply understanding existing ones.
+As the Nobel Prize winner Sir William Henry Bragg once said...
+
+> "The important thing in science is not so much to obtain new facts, as to discover new ways of thinking about them."
+
+I also have applied work, in e.g. bioinformatics, clinical trials, and predictive policing.
+Or, you may prefer some details <a href="{{ base_path }}/nojargon">without all the technical jargon</a>.<br><br>
 </div>
 
 <p style="padding-top: 0px; vertical-align: top; text-align: justify;">
