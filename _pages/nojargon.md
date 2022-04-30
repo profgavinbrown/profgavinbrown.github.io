@@ -7,6 +7,7 @@ author_profile: true
 
 I have contributed to the understanding of "feature selection" algorithms, with nice results on information theoretic methods, hypothesis testing, and the stability of algorithms.
 I have also contributed to "ensemble" learning, in particular the study of diversity, and cost-sensitivity.
+But what does all that mean, without the technical jargon?
 
 Feature Selection. What's that?
 -----
