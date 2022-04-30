@@ -13,7 +13,7 @@ I am Professor of Machine Learning, in the Department of Computer Science.<br>
 What do I do?
 ======
 <div style="text-align: justify;">
-I enjoy working on foundational and methodological aspects of Machine Learning.
+I work on foundational and methodological aspects of Machine Learning.
 I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of ML, primarily with tools from statistics and information theory. 
 I find this gives me paths to create new methods, as well as <b>deep understanding</b> of existing ones.
 I have also applied work, in e.g. bioinformatics, clinical trials, and predictive policing.
