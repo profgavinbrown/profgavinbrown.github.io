@@ -16,10 +16,6 @@ What do I do?
 I enjoy working on foundational and methodological aspects of Machine Learning.
 I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of statistical Machine Learning.
 I find this gives me paths to create new methods, as well as deeply understanding existing ones.
-As the Nobel Prize winner Sir William Henry Bragg once said...
-
-> "The important thing in science is not so much to obtain new facts, as to discover new ways of thinking about them."
-
 I also have applied work, in e.g. bioinformatics, clinical trials, and predictive policing.
 Or, you may prefer some details <a href="{{ base_path }}/nojargon">without all the technical jargon</a>.<br><br>
 </div>
