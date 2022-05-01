@@ -15,7 +15,7 @@ What do I do?
 <div style="text-align: justify;">
 I work on foundational and methodological aspects of Machine Learning.
 I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of ML, primarily with tools from statistics and information theory. 
-I find this leads to <b>deeper understanding</b>, greater insights, and new methods when appropriate.
+I find this leads to <b>deep understanding</b>, new insights, and novel methods when appropriate.
 I have also applied work, in e.g. bioinformatics, clinical trials, and predictive policing.
 You may like to read some details, <a href="{{ base_path }}/nojargon">without all the technical jargon</a>.<br><br>
 </div>
