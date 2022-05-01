@@ -25,7 +25,7 @@ You may prefer some details <a href="{{ base_path }}/nojargon">without all the t
     <img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg"
          style="width:25%; min-width:3cm; align:center; vertical-align:top; float:right; margin-left:20px;  margin-bottom:10px; margin-top:0px;" />
   </a>
-  I enjoy thinking deeply about pedagogy, especially the nature of PhD training.
+  I also enjoy thinking deeply about pedagogy, especially the nature of PhD training.
   <b>I wrote a book - a step-by-step guide to the intellectual and emotional rollercoaster of <u>Your</u> PhD</b>.
   Written in collaboration with twelve leading academics and industrialists, giving their unique perspectives on the PhD process,
   <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with
