@@ -5,7 +5,7 @@ excerpt: "An explanation without all the technical jargon."
 author_profile: true
 ---
 
-As the Nobel Prize winner Sir William Henry Bragg once said...
+As the Nobel Prize winner Sir William Lawrence Bragg once said...
 
 > "The important thing in science is not so much to obtain new facts, as to discover new ways of thinking about them."
 
