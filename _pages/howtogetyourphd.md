@@ -17,6 +17,7 @@ Publisher's summary
 
 CONTENTS
 ===
+
 Part 1: How to get your PhD
 ---
 - Chapter 1: What is a PhD?
