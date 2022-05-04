@@ -5,7 +5,12 @@ author_profile: true
 ---
 
 I wrote a book. Published with Oxford University Press,
-<a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with
+<a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a>
+covers the highs and lows of the PhD journey. Part 1 is a step-by-step guide to the challenges — both emotional and intellectual — authored by me.
+Part 2 features contributions from twelve diverse and distinguished minds, from across the globe, from industry and academia.
+
+
+The book is now available, with
 <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>, and some sample chapters linked below.
 
 Publisher's summary 
@@ -13,7 +18,6 @@ Publisher's summary
 > A unique take on how to survive and thrive in the process your PhD, this is a book that stands out from the crowd of traditional PhD guides. Compiled by a leading UK researcher, and written in a highly personal one-to-one manner, How to Get Your PhD showcases the thoughts of diverse and distinguished minds hailing from across the world, spanning both academia and industry.
 >
 > With over 150 bitesize nuggets of actionable advice, it offers more detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research. How to Get Your PhD is as readable for people considering a PhD as it is for those in the middle of one: aiming to clarify the highs and lows that come when training in the profession of research, while providing tips & tricks for the journey. This concise yet complete guide allows students to “dip in” and read just what they need, rather than adding to the mountain of reading material they already have.
-
 
 CONTENTS
 ===
