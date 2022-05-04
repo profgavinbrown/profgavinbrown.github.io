@@ -8,7 +8,7 @@ I wrote a book. Published with Oxford University Press,
 <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with
 <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>, and some sample chapters linked below.
 
-Publisher summary 
+Oxford University Press summary 
 ---
 > A unique take on how to survive and thrive in the process your PhD, this is a book that stands out from the crowd of traditional PhD guides. Compiled by a leading UK researcher, and written in a highly personal one-to-one manner, How to Get Your PhD showcases the thoughts of diverse and distinguished minds hailing from across the world, spanning both academia and industry.
 >
