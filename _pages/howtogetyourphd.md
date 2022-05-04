@@ -17,10 +17,8 @@ Publisher summary
 
 CONTENTS
 ===
-
 Part 1: How to get your PhD
 ---
-
 - Chapter 1: What is a PhD?
 - Chapter 2: Things you need to know
 - Chapter 3: Things that will happen
