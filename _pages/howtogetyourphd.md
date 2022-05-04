@@ -4,7 +4,21 @@ title: "How to get Your PhD."
 author_profile: true
 ---
 
-<b>I wrote a book - a step-by-step guide to the intellectual and emotional rollercoaster of <u>Your</u> PhD</b>.
+How to get your PhD: A Handbook for the Journey is a unique take on the highs and lows of the PhD journey. Part 1 is a step-by-step guide to the challenges — both emotional and intellectual — authored by Professor Gavin Brown. Part 2 features contributions from twelve diverse and distinguished minds, from across the globe:
+
+- Professor Dame Nancy Rothwell, DBE, FRS (Manchester)
+- Professor Steve Furber, CBE, FRS, FREng (Manchester)
+- Professor Victoria Burns (Birmingham)
+- Dr Lucy Kissick (Oxford)
+- Professor Hiranya Peiris (UCL / Oskar Klein Stockholm)
+- Professor Melanie Leng, MBE (Nottingham)
+- Professor Jeremy Wyatt (Amazon Research, Germany)
+- Professor David Hand, OBE, FBA, MMC (Imperial College London)
+- Dr Carolyn Virca (British Columbia)
+- Dr Shakir Mohamed (DeepMind)
+- Dr Jonny Brooks-Bartlett (Deliveroo)
+- Dr Jennifer Polk (FromPhDtoLife.com)
+
 
 Unique contributions from 12 leading academics and industrialists.
 
