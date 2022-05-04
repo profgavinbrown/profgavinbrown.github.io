@@ -33,3 +33,19 @@ Part 1: How to get your PhD
 - Chapter 10: What happens in a viva?
 - Chapter 11: Your post-PhD life
 - Chapter 12: Skills you will have gained
+
+Part 2: Top Tips from Leading Minds
+---
+
+- I. Choosing a career in science (Professor Dame Nancy Rothwell, DBE, FRS)
+- II. Becoming a reflective professional (Professor Victoria Burns)
+- III. Doing your PhD as part of a team (Professor Steve Furber CBE, FRS, FREng)
+- IV. Saying yes to opportunity—and no (Dr Lucy Kissick)
+- V. The rewards of risk in research (Professor Hiranya Peiris)
+- VI. Top writing tips (Professor Melanie Leng, MBE)
+- VII. Mistakes your supervisor will make (Professor Jeremy Wyatt)
+- VIII. A PhD in statistics and data science (Professor David J. Hand, OBE, FBA, MMC)
+- IX. Building a strong support network (Dr Carolyn Virca)
+- X. Inventing ourselves: Responsibility and diversity in research (Dr Shakir Mohamed)
+- XI. Public engagement in research (Dr Jonny Brooks-Bartlett)
+- XII. Your career is up to you (Dr Jennifer Polk)
