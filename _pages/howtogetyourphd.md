@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 I wrote a book. Published with Oxford University Press,
-<a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a>
-is designed to hold your hand on the rollercoaster of the PhD journey. Part 1 is a step-by-step guide to the challenges of a PhD — both emotional and intellectual — authored by me.
-Part 2 features contributions from twelve diverse and distinguished minds, from across the globe, from industry and academia.
+<a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
+is designed to be your guide on the rollercoaster of the PhD journey. Part 1, authored by me, leads you step-by-step through the challenges of a PhD, both emotional and intellectual.
+Part 2 features contributions from 12 diverse and distinguished minds, from industry and academia.
 
 
 The book is now available, with
