@@ -4,7 +4,7 @@ title: "How to get Your PhD."
 author_profile: true
 ---
 
-I wrote a book, published with Oxford University Press,
+Published with Oxford University Press,
 <a href="https://www.amazon.co.uk/dp/0198866925/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available, with
 <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>, and some sample chapters linked below.
 
