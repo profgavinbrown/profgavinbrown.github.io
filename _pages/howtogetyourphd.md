@@ -15,17 +15,21 @@ A unique take on how to survive and thrive in the process your PhD, this is a bo
 With over 150 bitesize nuggets of actionable advice, it offers more detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research. How to Get Your PhD is as readable for people considering a PhD as it is for those in the middle of one: aiming to clarify the highs and lows that come when training in the profession of research, while providing tips & tricks for the journey. This concise yet complete guide allows students to “dip in” and read just what they need, rather than adding to the mountain of reading material they already have.
 
 
-Written in collaboration with 12 distinguished scholars: 
+CONTENTS
+===
 
-- Professor Dame Nancy Rothwell, DBE, FRS (Manchester)
-- Professor Steve Furber, CBE, FRS, FREng (Manchester)
-- Professor Victoria Burns (Birmingham)
-- Dr Lucy Kissick (Oxford)
-- Professor Hiranya Peiris (UCL / Oskar Klein Stockholm)
-- Professor Melanie Leng, MBE (Nottingham)
-- Professor Jeremy Wyatt (Amazon Research, Germany)
-- Professor David Hand, OBE, FBA, MMC (Imperial College London)
-- Dr Carolyn Virca (British Columbia)
-- Dr Shakir Mohamed (DeepMind)
-- Dr Jonny Brooks-Bartlett (Deliveroo)
-- Dr Jennifer Polk (FromPhDtoLife.com)
+Part 1: How to get your PhD
+---
+
+- Chapter 1: What is a PhD?
+- Chapter 2: Things you need to know
+- Chapter 3: Things that will happen
+- Chapter 4: How to find your new idea
+- Chapter 5: How to work with a supervisor
+- Chapter 6: Work on yourself
+- Chapter 7: How to read
+- Chapter 8: How to write
+- Chapter 9: How to give presentations
+- Chapter 10: What happens in a viva?
+- Chapter 11: Your post-PhD life
+- Chapter 12: Skills you will have gained
