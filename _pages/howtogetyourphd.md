@@ -74,4 +74,4 @@ Part 2: Top Tips from Leading Minds
 - <b>XI. Public engagement in research</b>
   * <i>By Dr Jonny Brooks-Bartlett (University of Oxford)</i>
 - <b>XII. Your career is up to you</b>
-  * <i>By Dr Jennifer Polk ()</i>
+  * <i>By Dr Jennifer Polk (FromPhDtoLife.com)</i>
