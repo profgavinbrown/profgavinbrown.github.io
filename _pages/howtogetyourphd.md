@@ -9,9 +9,7 @@ author_profile: true
 I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
 is your guide to the intellectual and emotional rollercoaster of the PhD journey.
-Part 1 is by me, advice for the challenges ahead, step-by-step.
-Part 2 contains unique contributions from 12 diverse and distinguished minds, from industry and academia.
-You can <b>access some some selected chapters for free below.</b>
+<b>You can read some selected chapters for free below.</b>
 </div>
 
 <br>
@@ -42,23 +40,23 @@ Part 1: How to get your PhD
 ---
 - <b>Chapter 1:</b> What is a PhD?
 - <b>Chapter 2:</b> Things you need to know
-- <a href="{{ base_path }}/booksamples/Chapter3things.pdf"><b>Chapter 3:</b> Things that will happen</a>
+- <a href="{{ base_path }}/booksamples/Chapter3things.pdf"><b>Chapter 3:</b> Things that will happen</a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
 - <b>Chapter 4:</b> How to find your new idea
 - <b>Chapter 5:</b> How to work with a supervisor
 - <b>Chapter 6:</b> Work on yourself
-- <a href=""><b>Chapter 7:</b> How to read</a>
+- <a href=""><b>Chapter 7:</b> How to read</a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
 - <b>Chapter 8:</b> How to write
 - <b>Chapter 9:</b> How to give presentations
 - <b>Chapter 10:</b> What happens in a viva?
 - <b>Chapter 11:</b> Your post-PhD life
-- <a href=""><b>Chapter 12:</b> Skills you will have gained</a>
+- <a href=""><b>Chapter 12:</b> Skills you will have gained</a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
 
 Part 2: Top Tips from Leading Minds
 ---
 
 - <b>I. Choosing a career in science</b>
   * <i>By Professor Dame Nancy Rothwell, DBE, FRS (University of Manchester)</i>
-- <a href=""><b>II. Becoming a reflective professional</b></a>
+- <a href=""><b>II. Becoming a reflective professional</b></a> <img width=30px src="{{ base_path }}/images/free.png">
   * <i>By Professor Victoria Burns (University of Birmingham)</i>
 - <b>III. Doing your PhD as part of a team</b>
   * <i>By Professor Steve Furber CBE, FRS, FREng (University of Manchester)</i>
