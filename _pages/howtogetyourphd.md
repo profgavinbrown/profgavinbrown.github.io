@@ -58,24 +58,24 @@ Part 2: Top Tips from Leading Minds
 - <b>I. Choosing a career in science</b>
   * <i><small>By Professor Dame Nancy Rothwell, DBE, FRS (University of Manchester)</small></i>
 - <a href=""><b>II. Becoming a reflective professional</b></a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
-  * <i>By Professor Victoria Burns (University of Birmingham)</i>
+  * <i><small>By Professor Victoria Burns (University of Birmingham)</small></i>
 - <b>III. Doing your PhD as part of a team</b>
-  * <i>By Professor Steve Furber CBE, FRS, FREng (University of Manchester)</i>
+  * <i><small>By Professor Steve Furber CBE, FRS, FREng (University of Manchester)</small></i>
 - <b>IV. Saying yes to opportunity—and no</b>
-  * <i>By Dr Lucy Kissick (University of Oxford)</i>
+  * <i><small>By Dr Lucy Kissick (University of Oxford)</small></i>
 - <b>V. The rewards of risk in research</b>
-  * <i>By Professor Hiranya Peiris (University College London)</i>
+  * <i><small>By Professor Hiranya Peiris (University College London)</small></i>
 - <b>VI. Top writing tips</b>
-  * <i>By Professor Melanie Leng, MBE (University of Nottingham)</i>
+  * <i><small>By Professor Melanie Leng, MBE (University of Nottingham)</small></i>
 - <b>VII. Mistakes your supervisor will make</b>
-  * <i>By Professor Jeremy Wyatt (Amazon Research)</i>
+  * <i><small>By Professor Jeremy Wyatt (Amazon Research)</small></i>
 - <b>VIII. A PhD in statistics and data science</b>
-  * <i>By Professor David J. Hand, OBE, FBA, MMC (Imperial College)</i>
+  * <i><small>By Professor David J. Hand, OBE, FBA, MMC (Imperial College)</small></i>
 - <b>IX. Building a strong support network</b>
-  * <i>By Dr Carolyn Virca (Oregon State University, USA)</i>
+  * <i><small>By Dr Carolyn Virca (Oregon State University, USA)</small></i>
 - <b>X. Inventing ourselves: Responsibility and diversity in research</b>
-  * <i>By Dr Shakir Mohamed (DeepMind London)</i>
+  * <i><small>By Dr Shakir Mohamed (DeepMind London)</small></i>
 - <b>XI. Public engagement in research</b>
-  * <i>By Dr Jonny Brooks-Bartlett (University of Oxford)</i>
+  * <i><small>By Dr Jonny Brooks-Bartlett (University of Oxford)</small></i>
 - <b>XII. Your career is up to you</b>
-  * <i>By Dr Jennifer Polk (FromPhDtoLife.com)</i>
+  * <i><small>By Dr Jennifer Polk (FromPhDtoLife.com)</small></i>
