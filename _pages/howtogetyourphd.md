@@ -8,7 +8,7 @@ author_profile: true
 
 I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
-  is your personal guide to the <i>intellectual and emotional rollercoaster</i> of the PhD journey.
+  is your personal guide to the <i>intellectual and emotional rollercoaster</i> of the PhD journey, written in collaboration with 12 leading minds from industry and academia.
 <b>You can read some teaser chapters for free below.</b>
 </div>
 
