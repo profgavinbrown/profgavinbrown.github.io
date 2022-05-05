@@ -37,18 +37,18 @@ CONTENTS
 
 Part 1: How to get your PhD
 ---
-- Chapter 1: What is a PhD?
-- Chapter 2: Things you need to know
-- Chapter 3: Things that will happen
-- Chapter 4: How to find your new idea
-- Chapter 5: How to work with a supervisor
-- Chapter 6: Work on yourself
-- Chapter 7: How to read
-- Chapter 8: How to write
-- Chapter 9: How to give presentations
-- Chapter 10: What happens in a viva?
-- Chapter 11: Your post-PhD life
-- Chapter 12: Skills you will have gained
+- <b>Chapter 1:</b> What is a PhD?
+- <b>Chapter 2:</b> Things you need to know
+- <b>Chapter 3:</b> Things that will happen
+- <b>Chapter 4:</b> How to find your new idea
+- <b>Chapter 5:</b> How to work with a supervisor
+- <b>Chapter 6:</b> Work on yourself
+- <a href=""><b>Chapter 7:</b> How to read</a>
+- <b>Chapter 8:</b> How to write
+- <b>Chapter 9:</b> How to give presentations
+- <b>Chapter 10:</b> What happens in a viva?
+- <b>Chapter 11:</b> Your post-PhD life
+- <b>Chapter 12:</b> Skills you will have gained
 
 Part 2: Top Tips from Leading Minds
 ---
