@@ -12,11 +12,13 @@ author_profile: true
   </a>
 </p>
 
-<div style="text-align: justify;">
+<div style="text-align: justify; vertical-align: top;">
 I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
 is your personal guide to the <i>intellectual and emotional rollercoaster</i> of the PhD journey, written in collaboration with 12 leading minds from industry and academia.   With over 150 bitesize nuggets of actionable advice, it also offers detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research. 
 </div>
+
+<br>
 
 The book is now available, from <a href="https://www.amazon.co.uk/dp/0198866925/">Amazon</a>,
 from <a href="https://blackwells.co.uk/bookshop/product/How-to-Get-Your-Phd-by-Gavin-Brown-editor/9780198866923">Blackwells</a>, 
