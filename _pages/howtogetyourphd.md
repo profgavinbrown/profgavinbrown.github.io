@@ -54,15 +54,24 @@ Part 2: Top Tips from Leading Minds
 ---
 
 - <b>I. Choosing a career in science</b>
-  * (Professor Dame Nancy Rothwell, DBE, FRS)
-- II. Becoming a reflective professional (Professor Victoria Burns)
-- III. Doing your PhD as part of a team (Professor Steve Furber CBE, FRS, FREng)
-- IV. Saying yes to opportunity—and no (Dr Lucy Kissick)
-- V. The rewards of risk in research (Professor Hiranya Peiris)
-- VI. Top writing tips (Professor Melanie Leng, MBE)
-- VII. Mistakes your supervisor will make (Professor Jeremy Wyatt)
-- VIII. A PhD in statistics and data science (Professor David J. Hand, OBE, FBA, MMC)
-- IX. Building a strong support network (Dr Carolyn Virca)
-- X. Inventing ourselves: Responsibility and diversity in research (Dr Shakir Mohamed)
-- XI. Public engagement in research (Dr Jonny Brooks-Bartlett)
-- XII. Your career is up to you (Dr Jennifer Polk)
+  * <i>By Professor Dame Nancy Rothwell, DBE, FRS</i>
+- <b>II. Becoming a reflective professional</b>
+  * Professor Victoria Burns
+- <b>III. Doing your PhD as part of a team</b>
+  * Professor Steve Furber CBE, FRS, FREng
+- <b>IV. Saying yes to opportunity—and no</b>
+  * Dr Lucy Kissick
+- <b>V. The rewards of risk in research</b>
+  * Professor Hiranya Peiris
+- <b>VI. Top writing tips</b>
+  * Professor Melanie Leng, MBE
+- <b>VII. Mistakes your supervisor will make</b>
+  * Professor Jeremy Wyatt
+- <b>VIII. A PhD in statistics and data science</b>
+  * Professor David J. Hand, OBE, FBA, MMC
+- <b>IX. Building a strong support network</b>
+  * Dr Carolyn Virca
+- <b>X. Inventing ourselves: Responsibility and diversity in research</b>
+  * Dr Shakir Mohamed
+- <b>XI. Public engagement in research</b> (Dr Jonny Brooks-Bartlett)
+- <b>XII. Your career is up to you</b> (Dr Jennifer Polk)
