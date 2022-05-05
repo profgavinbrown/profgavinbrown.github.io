@@ -9,7 +9,7 @@ author_profile: true
 I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
 is your guide to the intellectual and emotional rollercoaster of the PhD journey.
-Part 1 is by me, covering the challenges ahead, step-by-step, with actionable advice.
+Part 1 is by me, advice for the challenges ahead, step-by-step.
 Part 2 contains unique contributions from 12 diverse and distinguished minds, from industry and academia.
 </div>
 
@@ -54,21 +54,21 @@ Part 2: Top Tips from Leading Minds
 - <b>I. Choosing a career in science</b>
   * <i>By Professor Dame Nancy Rothwell, DBE, FRS (University of Manchester)</i>
 - <a href=""><b>II. Becoming a reflective professional</b></a>
-  * <i>By Professor Victoria Burns</i>
+  * <i>By Professor Victoria Burns (University of Birmingham)</i>
 - <b>III. Doing your PhD as part of a team</b>
-  * <i>By Professor Steve Furber CBE, FRS, FREng</i>
+  * <i>By Professor Steve Furber CBE, FRS, FREng (University of Manchester)</i>
 - <b>IV. Saying yes to opportunity—and no</b>
-  * <i>By Dr Lucy Kissick</i>
+  * <i>By Dr Lucy Kissick (University of Oxford)</i>
 - <b>V. The rewards of risk in research</b>
-  * <i>By Professor Hiranya Peiris</i>
+  * <i>By Professor Hiranya Peiris (University College London)</i>
 - <b>VI. Top writing tips</b>
-  * <i>By Professor Melanie Leng, MBE</i>
+  * <i>By Professor Melanie Leng, MBE (University of Nottingham)</i>
 - <b>VII. Mistakes your supervisor will make</b>
-  * <i>By Professor Jeremy Wyatt</i>
+  * <i>By Professor Jeremy Wyatt (Amazon Research)</i>
 - <b>VIII. A PhD in statistics and data science</b>
-  * <i>By Professor David J. Hand, OBE, FBA, MMC</i>
+  * <i>By Professor David J. Hand, OBE, FBA, MMC (Imperial College)</i>
 - <b>IX. Building a strong support network</b>
-  * <i>By Dr Carolyn Virca</i>
+  * <i>By Dr Carolyn Virca (University of British Columbia)</i>
 - <b>X. Inventing ourselves: Responsibility and diversity in research</b>
   * <i>By Dr Shakir Mohamed</i>
 - <b>XI. Public engagement in research</b>
