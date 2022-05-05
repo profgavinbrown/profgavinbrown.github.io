@@ -53,8 +53,8 @@ Part 2: Top Tips from Leading Minds
 
 - <b>I. Choosing a career in science</b>
   * <i>By Professor Dame Nancy Rothwell, DBE, FRS (University of Manchester)</i>
-- <a href=""><b>II. Becoming a reflective professional</b>
-  * <i>By Professor Victoria Burns</i></a>
+- <a href=""><b>II. Becoming a reflective professional</b></a>
+  * <i>By Professor Victoria Burns</i>
 - <b>III. Doing your PhD as part of a team</b>
   * <i>By Professor Steve Furber CBE, FRS, FREng</i>
 - <b>IV. Saying yes to opportunity—and no</b>
