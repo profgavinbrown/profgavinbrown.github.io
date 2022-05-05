@@ -14,7 +14,7 @@ I wrote a book.
 
 
 
-<p style="padding-top: 0px; vertical-align: top; text-align: justify;">
+<p style="padding-top: 0px; text-align: justify;">
   
   <a href="https://www.amazon.co.uk/dp/0198866925/">
     <img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg"
