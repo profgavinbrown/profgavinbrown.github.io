@@ -12,7 +12,7 @@ I wrote a book.
 <b>You can read some teaser chapters for free below.</b>
 </div>
 
-<br>
+
 
 <p style="padding-top: 0px; vertical-align: top; text-align: justify;">
   <a href="https://www.amazon.co.uk/dp/0198866925/">
