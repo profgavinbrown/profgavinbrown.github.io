@@ -5,14 +5,14 @@ author_profile: true
 ---
 
 
-<p style="padding-top: 0px; margin: 0px; text-align: justify;">
+<p style="padding-top: 0px; text-align: justify;">
   <a href="https://www.amazon.co.uk/dp/0198866925/">
     <img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg"
          style="width:25%; min-width:3cm; align:center; vertical-align:top; float:right; margin-left:20px;  margin-bottom:10px; margin-top:0px;" />
   </a>
 </p>
 
-<div style="padding-top: 0px; text-align: justify; vertical-align: top;">
+<div style="margin: 0px; padding-top: 0px; text-align: justify; vertical-align: top;">
 I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
 is your personal guide to the <b>intellectual and emotional rollercoaster</b> of the PhD journey, written in collaboration with 12 leading minds from industry and academia.   With over <b>150 bitesize nuggets of actionable advice</b>, it also offers detailed contributions covering topics such as career planning, diversity and inclusion in science, and the nature of risk in research.<br><br>
