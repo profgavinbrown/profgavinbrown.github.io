@@ -8,10 +8,11 @@ author_profile: true
 
 I wrote a book... published with Oxford University Press,
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
-is designed to be your guide on the rollercoaster PhD journey. Part 1, authored by me, leads you step-by-step through the challenges of a PhD, both emotional and intellectual.
-Part 2 features contributions from 12 diverse and distinguished minds, from industry and academia.
-
+  is designed to be your guide on the rollercoaster PhD journey. <b>Part 1</b>, authored by me, leads you step-by-step through the challenges of a PhD, both <b>emotional and intellectual</b>.
+  <b>Part 2</b> features contributions from 12 diverse and distinguished minds, from industry and academia.
 </div>
+
+<br><br>
 
 <p style="padding-top: 0px; vertical-align: top; text-align: justify;">
   <a href="https://www.amazon.co.uk/dp/0198866925/">
@@ -19,7 +20,8 @@ Part 2 features contributions from 12 diverse and distinguished minds, from indu
          style="width:25%; min-width:3cm; align:center; vertical-align:top; float:right; margin-left:20px;  margin-bottom:10px; margin-top:0px;" />
   </a>
   
-<blockquote> A unique take on how to survive and thrive in the process your PhD, this is a book that stands out from the crowd of traditional PhD guides. Compiled by a leading UK researcher, and written in a highly personal one-to-one manner, How to Get Your PhD showcases the thoughts of diverse and distinguished minds hailing from across the world, spanning both academia and industry.
+<blockquote>
+A unique take on how to survive and thrive in the process your PhD, this is a book that stands out from the crowd of traditional PhD guides. Compiled by a leading UK researcher, and written in a highly personal one-to-one manner, How to Get Your PhD showcases the thoughts of diverse and distinguished minds hailing from across the world, spanning both academia and industry.
 
 With over 150 bitesize nuggets of actionable advice, it offers more detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research. How to Get Your PhD is as readable for people considering a PhD as it is for those in the middle of one: aiming to clarify the highs and lows that come when training in the profession of research, while providing tips & tricks for the journey. This concise yet complete guide allows students to “dip in” and read just what they need, rather than adding to the mountain of reading material they already have.
 </blockquote>
