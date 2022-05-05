@@ -9,20 +9,14 @@ author_profile: true
 I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
   is your personal guide to the <i>intellectual and emotional rollercoaster</i> of the PhD journey, written in collaboration with 12 leading minds from industry and academia.
-<b>You can read some teaser chapters for free below.</b>
 </div>
 
 
-
 <p style="padding-top: 0px; text-align: justify;">
-  
   <a href="https://www.amazon.co.uk/dp/0198866925/">
     <img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg"
          style="width:25%; min-width:3cm; align:center; vertical-align:top; float:right; margin-left:20px;  margin-bottom:10px; margin-top:0px;" />
   </a>
-
-
-
 </p>
 
 The book is now available, from <a href="https://www.amazon.co.uk/dp/0198866925/">Amazon</a>,
