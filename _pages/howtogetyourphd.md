@@ -37,7 +37,7 @@ Part 1: How to get your PhD
 ---
 - <b>Chapter 1:</b> What is a PhD?
 - <b>Chapter 2:</b> Things you need to know
-- <a href=""><b>Chapter 3:</b> Things that will happen</a>
+- <a href="booksamples/Chapter3things.pdf"><b>Chapter 3:</b> Things that will happen</a>
 - <b>Chapter 4:</b> How to find your new idea
 - <b>Chapter 5:</b> How to work with a supervisor
 - <b>Chapter 6:</b> Work on yourself
