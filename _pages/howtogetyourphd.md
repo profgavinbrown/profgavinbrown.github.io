@@ -40,11 +40,11 @@ Part 1: How to get your PhD
 ---
 - <b>Chapter 1:</b> What is a PhD?
 - <b>Chapter 2:</b> Things you need to know
-- <a href="{{ base_path }}/booksamples/Chapter3things.pdf"><b>Chapter 3:</b> Things that will happen</a>&nbsp;&nbsp;<img width=70px src="{{ base_path }}/images/freechapter.png">
+- <a href="{{ base_path }}/booksamples/Chapter3things.pdf"><b>Chapter 3:</b> Things that will happen</a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
 - <b>Chapter 4:</b> How to find your new idea
 - <b>Chapter 5:</b> How to work with a supervisor
 - <b>Chapter 6:</b> Work on yourself
-- <a href=""><b>Chapter 7:</b> How to read</a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/freechapter.png">
+- <a href=""><b>Chapter 7:</b> How to read</a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
 - <b>Chapter 8:</b> How to write
 - <b>Chapter 9:</b> How to give presentations
 - <b>Chapter 10:</b> What happens in a viva?
