@@ -68,10 +68,10 @@ Part 2: Top Tips from Leading Minds
 - <b>VIII. A PhD in statistics and data science</b>
   * <i>By Professor David J. Hand, OBE, FBA, MMC (Imperial College)</i>
 - <b>IX. Building a strong support network</b>
-  * <i>By Dr Carolyn Virca (University of British Columbia)</i>
+  * <i>By Dr Carolyn Virca (Oregon State University, USA)</i>
 - <b>X. Inventing ourselves: Responsibility and diversity in research</b>
-  * <i>By Dr Shakir Mohamed</i>
+  * <i>By Dr Shakir Mohamed (DeepMind London)</i>
 - <b>XI. Public engagement in research</b>
-  * <i>By Dr Jonny Brooks-Bartlett</i>
+  * <i>By Dr Jonny Brooks-Bartlett (University of Oxford)</i>
 - <b>XII. Your career is up to you</b>
-  * <i>By Dr Jennifer Polk</i>
+  * <i>By Dr Jennifer Polk ()</i>
