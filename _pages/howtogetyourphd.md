@@ -11,6 +11,7 @@ I wrote a book.
 is your guide to the intellectual and emotional rollercoaster of the PhD journey.
 Part 1 is by me, advice for the challenges ahead, step-by-step.
 Part 2 contains unique contributions from 12 diverse and distinguished minds, from industry and academia.
+You can <b>read some (full) free sample chapters below.</b>
 </div>
 
 <br>
