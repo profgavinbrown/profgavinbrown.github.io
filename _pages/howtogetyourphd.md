@@ -15,7 +15,7 @@ author_profile: true
 <div style="padding-top: 0px; text-align: justify; vertical-align: top;">
 I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
-is your personal guide to the <b>intellectual and emotional rollercoaster</b> of the PhD journey, written in collaboration with 12 leading minds from industry and academia.   With over <b>150 bitesize nuggets of actionable advice</b>, it also offers detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research.<br><br>
+is your personal guide to the <b>intellectual and emotional rollercoaster</b> of the PhD journey, written in collaboration with 12 leading minds from industry and academia.   With over <b>150 bitesize nuggets of actionable advice</b>, it also offers detailed contributions covering topics such as career planning, diversity and inclusion in science, and the nature of risk in research.<br><br>
 
 The book is now available, from <a href="https://www.amazon.co.uk/dp/0198866925/">Amazon</a>,
 from <a href="https://blackwells.co.uk/bookshop/product/How-to-Get-Your-Phd-by-Gavin-Brown-editor/9780198866923">Blackwells</a>, 
