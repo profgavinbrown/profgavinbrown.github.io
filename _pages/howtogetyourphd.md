@@ -10,7 +10,7 @@ I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
 is your guide on the rollercoaster PhD journey.
 Part 1 is by me, covering the challenges of the <i>emotional and intellectual</i> journey that you are on.
-Part 2 is a set of unique contributions by 12 diverse and distinguished minds, from industry and academia.
+Part 2 contains unique contributions from 12 diverse and distinguished minds, from industry and academia.
 </div>
 
 <br>
