@@ -32,12 +32,6 @@ With over 150 bitesize nuggets of actionable advice, it offers more detailed con
 The book is now available, with
 <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>, and some sample chapters linked below.
 
-Publisher's summary 
----
-
-
-CONTENTS
-===
 
 Part 1: How to get your PhD
 ---
