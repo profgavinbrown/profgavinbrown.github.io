@@ -21,9 +21,7 @@ I wrote a book.
          style="width:25%; min-width:3cm; align:center; vertical-align:top; float:right; margin-left:20px;  margin-bottom:10px; margin-top:0px;" />
   </a>
 
-<blockquote style="text-align: justify; vertical-align:top; padding-top:0px;"><b>Oxford University Press description:</b><br> <small>
-A unique take on how to survive and thrive in the process your PhD, this is a book that stands out from the crowd of traditional PhD guides. Compiled by a leading UK researcher, and written in a highly personal one-to-one manner, <b>How to Get Your PhD</b> showcases the thoughts of diverse and distinguished minds hailing from across the world, spanning both academia and industry.
-  </small></blockquote>
+
 
 </p>
 
