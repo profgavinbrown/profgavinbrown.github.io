@@ -13,7 +13,7 @@ Part 1 is by me, covering the challenges of the <i>emotional and intellectual</i
 Part 2 is a set of unique contributions by 12 diverse and distinguished minds, from industry and academia.
 </div>
 
-<br>
+
 
 <p style="padding-top: 0px; vertical-align: top; text-align: justify;">
   <a href="https://www.amazon.co.uk/dp/0198866925/">
