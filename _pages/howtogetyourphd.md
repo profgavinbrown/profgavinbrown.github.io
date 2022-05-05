@@ -4,13 +4,6 @@ title: "How to get Your PhD."
 author_profile: true
 ---
 
-<div style="text-align: justify;">
-
-I wrote a book.
-<a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
-is your personal guide to the <i>intellectual and emotional rollercoaster</i> of the PhD journey, written in collaboration with 12 leading minds from industry and academia.   With over 150 bitesize nuggets of actionable advice, it also offers detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research. 
-</div>
-
 
 <p style="padding-top: 0px; text-align: justify;">
   <a href="https://www.amazon.co.uk/dp/0198866925/">
@@ -18,6 +11,12 @@ is your personal guide to the <i>intellectual and emotional rollercoaster</i> of
          style="width:25%; min-width:3cm; align:center; vertical-align:top; float:right; margin-left:20px;  margin-bottom:10px; margin-top:0px;" />
   </a>
 </p>
+
+<div style="text-align: justify;">
+I wrote a book.
+<a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
+is your personal guide to the <i>intellectual and emotional rollercoaster</i> of the PhD journey, written in collaboration with 12 leading minds from industry and academia.   With over 150 bitesize nuggets of actionable advice, it also offers detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research. 
+</div>
 
 The book is now available, from <a href="https://www.amazon.co.uk/dp/0198866925/">Amazon</a>,
 from <a href="https://blackwells.co.uk/bookshop/product/How-to-Get-Your-Phd-by-Gavin-Brown-editor/9780198866923">Blackwells</a>, 
