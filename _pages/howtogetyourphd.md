@@ -56,22 +56,24 @@ Part 2: Top Tips from Leading Minds
 - <b>I. Choosing a career in science</b>
   * <i>By Professor Dame Nancy Rothwell, DBE, FRS</i>
 - <b>II. Becoming a reflective professional</b>
-  * Professor Victoria Burns
+  * <i>By Professor Victoria Burns
 - <b>III. Doing your PhD as part of a team</b>
-  * Professor Steve Furber CBE, FRS, FREng
+  * <i>By Professor Steve Furber CBE, FRS, FREng
 - <b>IV. Saying yes to opportunity—and no</b>
-  * Dr Lucy Kissick
+  * <i>By Dr Lucy Kissick
 - <b>V. The rewards of risk in research</b>
-  * Professor Hiranya Peiris
+  * <i>By Professor Hiranya Peiris
 - <b>VI. Top writing tips</b>
-  * Professor Melanie Leng, MBE
+  * <i>By Professor Melanie Leng, MBE
 - <b>VII. Mistakes your supervisor will make</b>
-  * Professor Jeremy Wyatt
+  * <i>By Professor Jeremy Wyatt
 - <b>VIII. A PhD in statistics and data science</b>
-  * Professor David J. Hand, OBE, FBA, MMC
+  * <i>By Professor David J. Hand, OBE, FBA, MMC
 - <b>IX. Building a strong support network</b>
-  * Dr Carolyn Virca
+  * <i>By Dr Carolyn Virca
 - <b>X. Inventing ourselves: Responsibility and diversity in research</b>
-  * Dr Shakir Mohamed
-- <b>XI. Public engagement in research</b> (Dr Jonny Brooks-Bartlett)
-- <b>XII. Your career is up to you</b> (Dr Jennifer Polk)
+  * <i>By Dr Shakir Mohamed
+- <b>XI. Public engagement in research</b>
+  * <i>By Dr Jonny Brooks-Bartlett
+- <b>XII. Your career is up to you</b>
+  <i>By Dr Jennifer Polk
