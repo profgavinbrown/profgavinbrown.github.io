@@ -53,7 +53,8 @@ Part 1: How to get your PhD
 Part 2: Top Tips from Leading Minds
 ---
 
-- I. Choosing a career in science (Professor Dame Nancy Rothwell, DBE, FRS)
+- I. Choosing a career in science
+- - (Professor Dame Nancy Rothwell, DBE, FRS)
 - II. Becoming a reflective professional (Professor Victoria Burns)
 - III. Doing your PhD as part of a team (Professor Steve Furber CBE, FRS, FREng)
 - IV. Saying yes to opportunity—and no (Dr Lucy Kissick)
