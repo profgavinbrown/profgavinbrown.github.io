@@ -12,7 +12,7 @@ I wrote a book... published with Oxford University Press,
   <b>Part 2</b> features contributions from 12 diverse and distinguished minds, from industry and academia.
 </div>
 
-<br><br>
+<br>
 
 <p style="padding-top: 0px; vertical-align: top; text-align: justify;">
   <a href="https://www.amazon.co.uk/dp/0198866925/">
