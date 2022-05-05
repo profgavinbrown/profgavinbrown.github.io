@@ -33,7 +33,7 @@ from <a href="https://blackwells.co.uk/bookshop/product/How-to-Get-Your-Phd-by-G
 from <a href="https://www.waterstones.com/book/how-to-get-your-phd/gavin-brown/9780198866923">Waterstones</a>,
 and direct from <a href="https://global.oup.com/academic/product/how-to-get-your-phd-9780198866923?cc=gb&lang=en&#:~:text=How%20to%20Get%20Your%20PhD%3A%20A%20Handbook%20for%20the%20Journey,tips%20%26%20tricks%20for%20the%20journey.">Oxford University Press</a>, among many other outlets.
 
-You can also see <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>, and some selected full chapters linked as a teaser below.
+You can also see <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>, and selected chapters as a teaser below.
 
 
 Part 1: How to get your PhD
