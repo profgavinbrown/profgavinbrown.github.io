@@ -42,23 +42,23 @@ Part 1: How to get your PhD
 ---
 - <b>Chapter 1:</b> What is a PhD?
 - <b>Chapter 2:</b> Things you need to know
-- <a href="{{ base_path }}/booksamples/Chapter3things.pdf"><b>Chapter 3:</b> Things that will happen</a>
+- <a href="{{ base_path }}/booksamples/Chapter3things.pdf"><b>Chapter 3:</b> Things that will happen</a>&nbsp;&nbsp;<img src="images/freechapter.png">
 - <b>Chapter 4:</b> How to find your new idea
 - <b>Chapter 5:</b> How to work with a supervisor
 - <b>Chapter 6:</b> Work on yourself
-- <a href=""><b>Chapter 7:</b> How to read</a>
+- <a href=""><b>Chapter 7:</b> How to read</a>&nbsp;&nbsp;<img src="images/freechapter.png">
 - <b>Chapter 8:</b> How to write
 - <b>Chapter 9:</b> How to give presentations
 - <b>Chapter 10:</b> What happens in a viva?
 - <b>Chapter 11:</b> Your post-PhD life
-- <a href=""><b>Chapter 12:</b> Skills you will have gained</a>
+- <a href=""><b>Chapter 12:</b> Skills you will have gained</a>&nbsp;&nbsp;<img src="images/freechapter.png">
 
 Part 2: Top Tips from Leading Minds
 ---
 
 - <b>I. Choosing a career in science</b>
   * <i>By Professor Dame Nancy Rothwell, DBE, FRS (University of Manchester)</i>
-- <a href=""><b>II. Becoming a reflective professional</b></a>
+- <a href=""><b>II. Becoming a reflective professional</b></a> <img src="images/freechapter.png">
   * <i>By Professor Victoria Burns (University of Birmingham)</i>
 - <b>III. Doing your PhD as part of a team</b>
   * <i>By Professor Steve Furber CBE, FRS, FREng (University of Manchester)</i>
