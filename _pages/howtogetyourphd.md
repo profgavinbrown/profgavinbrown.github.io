@@ -21,9 +21,9 @@ I wrote a book.
   </a>
 
 <blockquote style="padding-top:0px;"><b>Summary by Oxford University Press:</b><br> <small>
-A unique take on how to survive and thrive in the process your PhD, this is a book that stands out from the crowd of traditional PhD guides. Compiled by a leading UK researcher, and written in a highly personal one-to-one manner, How to Get Your PhD showcases the thoughts of diverse and distinguished minds hailing from across the world, spanning both academia and industry.<br><br>
+A unique take on how to survive and thrive in the process your PhD, this is a book that stands out from the crowd of traditional PhD guides. Compiled by a leading UK researcher, and written in a highly personal one-to-one manner, <b>How to Get Your PhD</b> showcases the thoughts of diverse and distinguished minds hailing from across the world, spanning both academia and industry.<br><br>
 
-With over 150 bitesize nuggets of actionable advice, it offers more detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research. How to Get Your PhD is as readable for people considering a PhD as it is for those in the middle of one: aiming to clarify the highs and lows that come when training in the profession of research, while providing tips & tricks for the journey. This concise yet complete guide allows students to “dip in” and read just what they need, rather than adding to the mountain of reading material they already have.
+With over 150 bitesize nuggets of actionable advice, it offers more detailed contributions covering topics such as career planning, professional development, diversity and inclusion in science, and the nature of risk in research. <b>How to Get Your PhD</b> is as readable for people considering a PhD as it is for those in the middle of one: aiming to clarify the highs and lows that come when training in the profession of research, while providing tips & tricks for the journey. This concise yet complete guide allows students to “dip in” and read just what they need, rather than adding to the mountain of reading material they already have.
   </small></blockquote>
 
 </p>
