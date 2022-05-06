@@ -47,7 +47,7 @@ Part 2: Top Tips from Leading Minds
 
 - <b>I. Choosing a career in science</b>
   * <i><small>By Professor Dame Nancy Rothwell, DBE, FRS (University of Manchester)</small></i>
-- <a href= "{{ base_path }}/booksamples/ChapterBurns.pdf" ><b>II. Becoming a reflective professional</b></a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
+- <a href= "{{ base_path }}/booksamples/ChapterBurnsReflective.pdf" ><b>II. Becoming a reflective professional</b></a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
   * <i><small>By Professor Victoria Burns (University of Birmingham)</small></i>
 - <b>III. Doing your PhD as part of a team</b>
   * <i><small>By Professor Steve Furber CBE, FRS, FREng (University of Manchester)</small></i>
