@@ -27,6 +27,8 @@ or direct from <a href="https://global.oup.com/academic/product/how-to-get-your-
 
 Part 1: How to get your PhD
 ---
+- <a href="{{ base_path }}/booksamples/Preface.pdf"> <b>Preface</b>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png"><br>
+
 - <b>Chapter 1:</b> What is a PhD?
 - <b>Chapter 2:</b> Things you need to know
 - <a href="{{ base_path }}/booksamples/Chapter3things.pdf"><b>Chapter 3:</b> Things that will happen</a>&nbsp;&nbsp;<img width=30px src="{{ base_path }}/images/free.png">
