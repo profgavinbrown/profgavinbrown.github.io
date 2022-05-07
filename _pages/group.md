@@ -57,7 +57,7 @@ If you'd like to contact anyone below, just let me know and I'll do my best to p
 | Who?              | Year | PhD             | Where are they now?                 |
 |:----              |:-----|:----------------|:------------------------------------|
 | Tudor Morar       | 2021 | <a href="https://www.research.manchester.ac.uk/portal/files/194689010/FULL_TEXT.PDF">Bayesian Optimisation over Mixed Parameter Spaces</a>           | Data Scientist, Dublin.             |
-| Kostas Papangelou | 2020 | <a href="https://www.research.manchester.ac.uk/portal/files/205626621/FULL_TEXT.PDF"> Assessing Treatment Effect Heterogeneity: Predictive Covariate Selection and Subgroup Identification</a>           | Data Scientist, Greece              |
+| Kostas Papangelou | 2020 | <a href="https://www.research.manchester.ac.uk/portal/files/205626621/FULL_TEXT.PDF"> Assessing Treatment Effect Heterogeneity: Predictive Covariate Selection and Subgroup Identification</a>           | Data Scientist, ASML, Netherlands              |
 | Georgiana Neculae | 2020 | <a href="https://www.research.manchester.ac.uk/portal/files/197032368/FULL_TEXT.PDF">Ensemble Learning with Spiking Neural Networks</a>           | Research Scientist, BenevolentAI, London   |
 | Henry Reeve       | 2018 | <a href="https://www.research.manchester.ac.uk/portal/files/85713292/FULL_TEXT.PDF">Learning in High Dimensions with Asymmetric Costs</a> <br><b>Winner, UoM CS Best Thesis award.</b>            | Lecturer, University of Bristol     |
 | Sarah Nogueira    | 2017 | <a href="https://www.research.manchester.ac.uk/portal/files/66045529/FULL_TEXT.PDF">Quantifying the Stability of Feature Selection</a> <br><b>Winner, UoM CS Best Thesis award.</b>          | Staff ML Engineer Lead, Criteo, Paris      |
