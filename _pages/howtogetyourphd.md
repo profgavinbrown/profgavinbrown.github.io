@@ -2,7 +2,7 @@
 permalink: /howtogetyourphd/
 title: "How to get Your PhD."
 author_profile: true
-ogimage: 510CBE96-EA3D-4F34-B75F-80FC4A106936.jpeg
+ogimage: howtogetyourphd-ogimage.jpeg
 ---
 
 
