@@ -71,7 +71,10 @@ Part 2: Top Tips from Leading Minds
 - <b>XII. Your career is up to you</b>
   * <i><small>By Dr Jennifer Polk (FromPhDtoLife.com)</small></i>
 
-<br><br<<br><br>
+<br>
+<br>
+<br>
+<br>
 
 <a href="https://clustrmaps.com/site/1boay"  title="Visit tracker">
   <img width=5px src="//www.clustrmaps.com/map_v2.png?d=MsJYgIT7ZfIX7wxTXf8UdVAWXVitGNREbKfn0-7rklY&cl=ffffff" />
