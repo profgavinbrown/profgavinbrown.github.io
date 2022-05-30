@@ -21,6 +21,13 @@
 <meta property="og:title" content="Hello.">
 <meta property="og:description" content="Professor Gavin Brown">
 
+
+
+{% if page.ogtitle %}
+  <meta property="og:title" content="{{ page.ogtitle }}">
+{% endif %}
+
+
 {% if page.ogimage %}
   <meta property="og:image" content="https://profgavinbrown.github.io/images/{{ page.ogimage }}">
   <meta name="twitter:image" content="https://profgavinbrown.github.io/images/{{ page.ogimage }}">
