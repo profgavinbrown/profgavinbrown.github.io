@@ -28,8 +28,8 @@ or direct from <a href="https://global.oup.com/academic/product/how-to-get-your-
 <i>
 ''What is it about Brown’s book of advice for current and aspiring PhD students that struck such a chord?
 He gets it. Brown gets how hard working toward a PhD is. He understands the self-doubt PhD students experience…''
-<\i> --- <b>The College Mathematics Journal<\b>
-<\blockquote>
+</i> --- <b>The College Mathematics Journal</b>
+</blockquote>
 
 </div>
 
