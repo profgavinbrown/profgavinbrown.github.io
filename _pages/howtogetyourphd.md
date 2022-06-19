@@ -24,7 +24,12 @@ The book is now available, from <a href="https://www.amazon.co.uk/dp/0198866925/
 <a href="https://www.waterstones.com/book/how-to-get-your-phd/gavin-brown/9780198866923">Waterstones</a>,
 or direct from <a href="https://global.oup.com/academic/product/how-to-get-your-phd-9780198866923?cc=gb&lang=en&#:~:text=How%20to%20Get%20Your%20PhD%3A%20A%20Handbook%20for%20the%20Journey,tips%20%26%20tricks%20for%20the%20journey.">Oxford University Press</a>, among many other outlets.   You can also see <a href="https://www.google.co.uk/books/edition/How_to_Get_Your_PhD/nX4fEAAAQBAJ?hl=en&gbpv=0">a preview on Google books</a>, and <b>read selected teaser chapters below.</b>
 
->> this is a quote
+<blockquote>
+<i>
+''What is it about Brown’s book of advice for current and aspiring PhD students that struck such a chord?
+He gets it. Brown gets how hard working toward a PhD is. He understands the self-doubt PhD students experience…''
+<\i> --- <b>The College Mathematics Journal<\b>
+<\blockquote>
 
 </div>
 
