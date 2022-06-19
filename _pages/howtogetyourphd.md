@@ -17,7 +17,7 @@ ogimage: howtogetyourphd-ogimage.jpeg
 <div style="margin: 0px; padding-top: 0px; text-align: justify; vertical-align: top;">
 I wrote a book.
 <a href="https://www.amazon.co.uk/dp/0198866925/">How to get Your PhD: A Handbook for the Journey</a>
-is a guide to the <b>intellectual and emotional rollercoaster</b> of your PhD, with over <b>150 bitesize nuggets of advice</b>.  Written in collaboration with 12 leading minds, from industry and academia, it presents their unique perspectives on topics such as career planning, diversity and inclusion in science, and the nature of risk in research.<br><br>
+is a guide to the <b>intellectual and emotional rollercoaster</b> of your PhD, with over <b>150 bitesize nuggets of advice</b>.  Written in collaboration with 12 leading minds, from industry and academia, it presents their unique perspectives on topics such as career planning, diversity and inclusion in science, and the nature of risk in research.
 
 <blockquote>
 <i>
