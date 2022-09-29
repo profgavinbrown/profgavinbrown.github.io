@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am Professor of Machine Learning, in the Department of Computer Science.<br>
+If you need to find me, I'm in office G11, Kilburn Building.<br>
 
 What do I do?
 ======
