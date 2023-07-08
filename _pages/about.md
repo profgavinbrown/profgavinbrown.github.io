@@ -16,7 +16,7 @@ What do I do?
 <div style="text-align: justify;">
 I like to work on foundational and methodological aspects of Machine Learning.
 I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of ML, primarily with tools from statistics and information theory. 
-<i>Everything in ML is, ultimately, a special case of something else</i>.
+<i>Everything in ML is, ultimately, a special case of something else</i>.<br>
 
 <!--
 I find this strategy leads to both beautiful insights, and novel methods.
@@ -41,8 +41,7 @@ Contact me :<br><b>firstname.secondname AT manchester.ac.uk</b>
 <br>
 <br>
 
-News
-===
+<h2>News</h2>
 
 See my <a href="{{ base_path }}/archivednews">archived news</a> for older work, but recent activities have been...
 
