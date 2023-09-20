@@ -15,16 +15,10 @@ What do I do?
 ======
 <div style="text-align: justify;">
 I like to work on foundational and methodological aspects of Machine Learning.
-I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of ML, primarily with tools from statistics and information theory. <i>Everything in ML is, ultimately, a special case of something else</i>.<br><br>
+I find this leads to novel methods with strong foundations: e.g. we have contributed methods for assessing the <i>stability</i> (reproducibility) of variable selection algorithms; methods for hypothesis testing in challenging non-standard scenarios; and applications in areas such as predictive policiing, clinical trials, and design of efficient ML algorithms for plastic electronics.<br><br>
 
-I find this strategy leads to novel methods with strong foundations: e.g. we have contributed methods for assessing the <i>stability</i> (reproducibility) of variable selection algorithms; methods for hypothesis testing in challenging non-standard scenarios; and applications in areas such as predictive policiing, clinical trials, and design of efficient ML algorithms for plastic electronics.<br><br>
+I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of ML, primarily with tools from statistics and information theory, and lately I've been exploring information geometry.  <i>Everything in ML is, ultimately, a special case of something else</i>.<br><br>
 
-<!--
-I find this strategy leads to both beautiful insights, and novel methods.
-I have also applied work, in e.g. bioinformatics, clinical trials, and predictive policing.
-You may like to read some details, <a href="{{ base_path }}/nojargon">without all the technical jargon</a>.<br><br>
-</div>
--->
 
 <p style="padding-top: 0px; vertical-align: top; text-align: justify;">
   <a href="{{ base_path }}/howtogetyourphd/">
