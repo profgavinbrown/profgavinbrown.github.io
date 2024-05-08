@@ -31,13 +31,12 @@ I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known me
   <a href="{{ base_path }}/howtogetyourphd/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available.
 </p>
 
-Contact me :<br><b>firstname.secondname AT manchester.ac.uk</b>
-<font id="email" style="display:inline;">
+<b>Contact me: </b> <font id="email" style="display:inline;">
       <noscript><i>Please enable Javascript to view.</i></noscript>
 </font>
 <script>
     emailScramble = new scrambledString(document.getElementById('email'),
-        'emailScramble', 'gavin.brown@manchester.ac.uk',
+        'emailScramble', 'kt@.cagsnvu.bma.ceanewhnrior',
         [17,25,3,9,8,12,14,6,21,24,2,22,5,23,16,4,27,11,28,13,18,15,10,1,26,7,19,20]);
 </script>
 <br>
