@@ -10,7 +10,7 @@ redirect_from:
 
 I am Professor of Machine Learning, in the Department of Computer Science.
 
-<b>Contact me: </b><font id="email" style="display:inline;"><noscript><i>Please enable Javascript to view.</i></noscript></font>
+<b>Contact me: </b><font id="email" style="display:inline;"><noscript><i>Please enable Javascript to view.</i></noscript></font><br>
 <b>Office: </b>G11, Kilburn Building.
 
 <script>
