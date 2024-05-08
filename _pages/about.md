@@ -36,7 +36,7 @@ I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known me
 </font>
 <script>
     emailScramble = new scrambledString(document.getElementById('email'),
-        'emailScramble', 'kt@.cagsnvu.bma.ceanewhnrior',
+        'emailScramble', 'nu@.bsic.heangwakeorn.mvtrca',
         [17,25,3,9,8,12,14,6,21,24,2,22,5,23,16,4,27,11,28,13,18,15,10,1,26,7,19,20]);
 </script>
 <br>
