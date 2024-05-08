@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor of Machine Learning, in the Department of Computer Science.<br>
-If you need to find me, I'm in office G11, Kilburn Building.
+I am Professor of Machine Learning, in the Department of Computer Science.
 
 <b>Contact me: </b><font id="email" style="display:inline;"><noscript><i>Please enable Javascript to view.</i></noscript></font>
+<b>Office: </b>G11, Kilburn Building.
 
 <script>
     emailScramble = new scrambledString(document.getElementById('email'),
