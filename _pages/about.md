@@ -9,7 +9,17 @@ redirect_from:
 ---
 
 I am Professor of Machine Learning, in the Department of Computer Science.<br>
-If you need to find me, I'm in office G11, Kilburn Building.<br>
+If you need to find me, I'm in office G11, Kilburn Building.<br><br>
+
+<b>Contact me: </b>
+<font id="email" style="display:inline;">
+      <noscript><i>Please enable Javascript to view.</i></noscript>
+</font>
+<script>
+    emailScramble = new scrambledString(document.getElementById('email'),
+        'emailScramble', '.se.beanwnuna.@rvchtrkoiagcm',
+        [5, 18, 17, 22, 6, 20, 1, 10, 9, 14, 26, 4, 23, 25, 11, 7, 2, 15, 16, 19, 21, 27, 8, 3, 13, 0, 24, 12]);
+</script>
 
 What do I do?
 ======
@@ -31,14 +41,6 @@ I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known me
   <a href="{{ base_path }}/howtogetyourphd/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available.
 </p>
 
-<b>Contact me: </b> <font id="email" style="display:inline;">
-      <noscript><i>Please enable Javascript to view.</i></noscript>
-</font>
-<script>
-    emailScramble = new scrambledString(document.getElementById('email'),
-        'emailScramble', 'nu@.bsic.heangwakeorn.mvtrca',
-        [17,25,3,9,8,12,14,6,21,24,2,22,5,23,16,4,27,11,28,13,18,15,10,1,26,7,19,20]);
-</script>
 <br>
 <br>
 <br>
