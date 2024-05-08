@@ -30,7 +30,7 @@ function rescramble() {
 }
 
 function initAnimatedBubbleSort() {
-	this.interval = setInterval(this.objName + '.bubbleSortStep()', 3);
+	this.interval = setInterval(this.objName + '.bubbleSortStep()', 6);  // final arg here is the delay
 }
 
 function bubbleSortStep() {		
