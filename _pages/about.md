@@ -38,7 +38,7 @@ Contact me :<br><b>firstname.secondname AT manchester.ac.uk</b>
 <script>
     emailScramble = new scrambledString(document.getElementById('email'),
         'emailScramble', 'gavin.brown@manchester.ac.uk',
-        [17,25,3,9,8,12,14,6,21,24,2,22,5,23,16,4,27,11,28,13,18,15,10,1,26,7,19,20,]);
+        [17,25,3,9,8,12,14,6,21,24,2,22,5,23,16,4,27,11,28,13,18,15,10,1,26,7,19,20]);
 </script>
 <br>
 <br>
