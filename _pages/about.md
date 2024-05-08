@@ -32,6 +32,14 @@ I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known me
 </p>
 
 Contact me :<br><b>firstname.secondname AT manchester.ac.uk</b>
+<font id="email" style="display:inline;">
+      <noscript><i>Please enable Javascript to view.</i></noscript>
+</font>
+<script>
+    emailScramble = new scrambledString(document.getElementById('email'),
+        'emailScramble', 'gavin.brown@manchester.ac.uk',
+        [17,25,3,9,8,12,14,6,21,24,2,22,5,23,16,4,27,11,28,13,18,15,10,1,26,7,19,20,]);
+</script>
 <br>
 <br>
 <br>
