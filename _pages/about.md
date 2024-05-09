@@ -45,7 +45,9 @@ I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known me
 
 <h2>News</h2>
 
-See my <a href="{{ base_path }}/archivednews">archived news</a> for older work, but recent activities have been...
+See my <a href="{{ base_path }}/archivednews">archived news</a> for older work.
+
+The main highlights of my recent activities are...
 
 <hr>
 
