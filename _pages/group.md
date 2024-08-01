@@ -8,13 +8,13 @@ author_profile: true
 
 My group is an amazing little family of friendly, generous, smart people. We used to be all in the same place (Manchester) but we are now spread over the world.
 
+<!--
 We have worked on aspects of ensemble learning, feature selection/extraction, and information theoretic / probabilistic models for each of these.
 We have applied these to domains as diverse as bio-health informatics, adaptive compilers, and humanitarian issues around disaster scenarios.
 We've been sponsored in all this work by generous public sector organisations - including EPSRC, ESRC, and the EU, as well as private organisations including Arm Ltd and AstraZeneca.
+-->
 
 <b>I welcome applications for new PhDs</b> - I strongly encourage you to read (fully) at least one of my publications before you even think of applying. I'm unlikely to return your email unless you demonstrate curiosity like this.<br>
-
-<b>I also welcome Manchester UG/MSc project students</b> into our group, should your project be aligned with our research interests - let's chat.
 
 
 ## Current & affiliated members
