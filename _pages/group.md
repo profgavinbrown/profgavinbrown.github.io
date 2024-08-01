@@ -41,7 +41,7 @@ We've been sponsored in all this work by generous public sector organisations - 
    <img width=120px src="/images/gokula.jpeg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b>Gokula Karthik</b><br>Incoming PhD student (starting Sept 2024) working on uncertainty quantification in biomarker identification, co-supervised with <a href="https://sechidis.netlify.app/">Kostas Sechidis</a> from Novartis, and <a href="https://michelecaprio.wixsite.com/caprio">Michele Caprio<a> from UoM.
+   <b>Gokula Karthik</b><br>Incoming PhD student (starting Sept 2024) working on uncertainty quantification in biomarker identification, co-supervised with <a href="https://sechidis.netlify.app/">Kostas Sechidis</a> from Novartis, and <a href="https://michelecaprio.wixsite.com/caprio">Michele Caprio</a> from UoM.
 </div>
 <br>
 
