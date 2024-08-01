@@ -32,7 +32,7 @@ We've been sponsored in all this work by generous public sector organisations - 
    <img width=120px src="/images/yusuf.jpeg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b>Yusuf Suleman</b><br>Research Assistant, working on statistical learning theory.
+   <b>Yusuf Sulehman</b><br>Research Assistant, working on statistical learning theory.
 </div>
 
 <br>
