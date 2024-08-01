@@ -20,10 +20,19 @@ We've been sponsored in all this work by generous public sector organisations - 
 ## Current & affiliated members
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-   <img width=120px src="/images/DannyWood.JPG">
+   <img width=120px src="/images/x.JPG">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b>Dr Danny Wood</b><br>Postdoc, working on ensemble learning theory. Danny holds degrees in mathematics and computer science, and a PhD specialising in echo state networks. His current work is directed toward finding a statistical foundation for the concept of 'diversity' in ensemble learning.
+   <b>Raghad Alamri</b><br>PhD student, studying ensemble diversity metrics and their relation to bias/variance decompositions and uncertainty quantification.
+</div>
+
+<br>
+
+<div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
+   <img width=120px src="/images/x.JPG">
+</div>
+<div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
+   <b>Yusuf Suleman</b><br>Research Assistant, working on statistical learning theory around uncertainty quantification.
 </div>
 
 <br>
@@ -87,6 +96,7 @@ If you'd like to contact anyone below, just let me know and I'll do my best to p
 
 | Who?             | When?     | Role                        | Where are they now?                     |
 |:-----------------|:----------|:----------------------------|:----------------------------------------|
+| Danny Wood       | 2020-2023 | EPSRC LAMBDA project        | Senior MLOps Engineer, Fuzzy Labs Ltd   |
 | Kostas Sechidis  | 2015-2018 | AstraZeneca Fellowship      | Principal Data Scientist, Novartis, Switzerland     |
 | Nikos Nikolaou   | 2016-2018 | EPSRC Doctoral Prize Fellow | Lecturer, University College London     |
 | Andrew Webb      | 2017-2019 | EPSRC LAMBDA project        | ML Engineer, vTime Ltd                  |
