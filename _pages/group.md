@@ -20,7 +20,7 @@ We've been sponsored in all this work by generous public sector organisations - 
 ## Current & affiliated members
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-   <img width=120px src="/images/x.JPG">
+   <img width=120px src="/images/raghad.jpeg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
    <b>Raghad Alamri</b><br>PhD student, studying ensemble diversity metrics and their relation to bias/variance decompositions and uncertainty quantification.
@@ -29,22 +29,20 @@ We've been sponsored in all this work by generous public sector organisations - 
 <br>
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-   <img width=120px src="/images/x.JPG">
+   <img width=120px src="/images/yusuf.jpeg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b>Yusuf Suleman</b><br>Research Assistant, working on statistical learning theory around uncertainty quantification.
+   <b>Yusuf Suleman</b><br>Research Assistant, working on statistical learning theory.
 </div>
 
 <br>
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
-   <img width=120px src="https://avatars.githubusercontent.com/u/29922728">
+   <img width=120px src="/images/bio-photo.jpeg">
 </div>
 <div style="padding-left:25px;width:70%;display:inline-block;vertical-align: top;text-align: justify;">
-   <b>Sara Summerton</b><br>PhD student, co-supervised with <a href="https://personalpages.manchester.ac.uk/staff/david.wong/">Dr David Wong</a>.
-   Sara holds degrees in physics & mathematics, and is currently working on ML for healthcare applications.
+   <b>Gokula Karthik</b><br>Incoming PhD student (starting Sept 2024) working on uncertainty quantification in biomarker identification, co-supervised with <a href="https://sechidis.netlify.app/">Kostas Sechidis</a> from Novartis, and <a href="https://michelecaprio.wixsite.com/caprio">Michele Caprio<a> from UoM.
 </div>
-
 <br>
 
 <div style="width:30%;display:inline-block; min-width:2.2cm; align: center;vertical-align: middle;" >
