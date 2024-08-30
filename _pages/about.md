@@ -23,7 +23,9 @@ What do I do?
 ======
 <div style="text-align: justify;">
 I like to work on methodological aspects of Machine Learning.
-I find this leads to novel methods with strong foundations: e.g. we have contributed methods for assessing the <i>stability</i> (reproducibility) of variable selection algorithms; methods for hypothesis testing in challenging non-standard scenarios; and, a new theory of ensemble diversity. This has led to applications in areas such as predictive policiing, clinical trials, and design of efficient ML algorithms for plastic electronics.<br><br>
+I find this leads to novel methods with strong foundations: e.g. we have contributed methods for assessing the <i>stability</i> (reproducibility) of variable selection algorithms; methods for hypothesis testing in challenging non-standard scenarios; and, a new theory of ensemble diversity. <b>New methods go out of date. New understanding does not.<\b>
+
+This has led to applications in areas such as predictive policiing, clinical trials, and design of efficient ML algorithms for plastic electronics.<br><br>
 
 I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known methods in the jungle of ML, primarily with tools from statistics and information theory, and lately I've been exploring information geometry.  <i>Everything in ML is, ultimately, a special case of something else</i>.<br><br>
 
