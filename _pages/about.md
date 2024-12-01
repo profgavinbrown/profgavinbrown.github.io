@@ -23,7 +23,7 @@ I am Professor of Machine Learning, in the Department of Computer Science.
 /* customizable snowflake styling */
 .snowflake {
   color: #fff;
-  font-size: 1em;
+  font-size: 5em;
   font-family: Arial, sans-serif;
   text-shadow: 0 0 5px #000;
 }
