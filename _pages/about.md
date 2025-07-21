@@ -54,7 +54,6 @@ I enjoy looking for <b>connections</b> and <b>equivalencies</b> between known me
 See my <a href="{{ base_path }}/archivednews">archived news</a> for older work.
 
 The main highlights of my recent activities are...
-
 <hr>
 
 {% for post in site.news reversed %}
