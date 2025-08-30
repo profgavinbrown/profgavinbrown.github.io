@@ -27,7 +27,7 @@ What do I do?
 ======
 <div style="text-align: justify;">
 I like to work on methodological aspects of Machine Learning.
-I find this leads to novel methods with strong foundations: e.g. we have contributed methods for assessing the <i>stability</i> (reproducibility) of variable selection algorithms; methods for hypothesis testing in challenging non-standard scenarios; and, a new theory of ensemble diversity.
+I find this leads to novel methods with strong foundations: e.g. we have contributed methods for assessing the <a href="https://www.jmlr.org/papers/volume18/17-514/17-514.pdf"><i>stability</i> (reproducibility) of variable selection algorithms</a>; methods for hypothesis testing in challenging non-standard scenarios; and, a new theory of ensemble diversity.
 This has led to applications in areas such as predictive policiing, clinical trials, and design of efficient ML algorithms for plastic electronics.<br><br>
 
 
