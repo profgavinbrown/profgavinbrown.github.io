@@ -26,8 +26,8 @@ I am Professor of Machine Learning, and Deputy Head, in the Department of Comput
 What do I do?
 ======
 <div style="text-align: justify;">
-I work on methodological aspects of Machine Learning.
-I enjoy looking for <b>connections</b> and <b>equivalencies</b> between methods in the jungle of modern ML, with tools from statistics, information theory, and information geometry.  <i>Everything in ML is, ultimately, a special case of something else</i>.<br><br>
+I like to work on methodological aspects of Machine Learning.
+I enjoy finding <b>connections</b> and <b>equivalencies</b> between methods in the jungle of modern ML, with tools from statistics, information theory, and information geometry.  <i>Everything in ML is, ultimately, a special case of something else</i>.<br><br>
 
 I find this strategy can lead to new methods, with strong foundations: e.g. quantifying the <a href="https://www.jmlr.org/papers/volume18/17-514/17-514.pdf">stability (reproducibility) of feature selection algorithms</a>; methods for <a href="https://profgavinbrown.github.io/files/sechidis2014hypothesis.pdf">hypothesis testing in non-standard scenarios</a>; and, a <a href="https://jmlr.org/papers/volume24/23-0041/23-0041.pdf">new theory of ensemble diversity</a>.
 Our work has been applied in areas such as predictive policing, clinical trials, and design of efficient ML algorithms for plastic electronics.<br><br>
