@@ -40,7 +40,7 @@ Our work has been applied in areas such as predictive policing, clinical trials,
     <img src="https://cdn.waterstones.com/bookjackets/large/9780/1988/9780198866923.jpg"
          style="width:20%; min-width:1cm; align:center; vertical-align:top; float:right; margin-left:20px;  margin-bottom:10px; margin-top:0px;" />
   </a>
-  I also enjoy thinking deeply about pedagogy, especially the nature of PhD training.
+  I also enjoy thinking about pedagogy, especially the nature of PhD training.
   <b>I wrote a book - a step-by-step guide to the intellectual and emotional rollercoaster of <u>Your</u> PhD</b>.
   Written in collaboration with twelve leading academics and industrialists, giving their unique perspectives on the PhD process,
   <a href="{{ base_path }}/howtogetyourphd/"><b>How to get Your PhD</b>: A Handbook for the Journey</a> is now available.
