@@ -81,7 +81,8 @@ tracking_id        :
 # Site Author
 author:
   name             : "Gavin Brown"
-  avatar           : "profile.jpeg"
+  avatar           : "SciFiGavin.png"
+#avatar           : "profile.jpeg"
   bio              : "Professor of Machine Learning"
   location         :
   employer         :
