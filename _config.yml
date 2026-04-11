@@ -81,8 +81,9 @@ tracking_id        :
 # Site Author
 author:
   name             : "Gavin Brown"
-  avatar           : "F90EBB9E-0CAC-4CA4-B57A-F1A32314F448.png"
-#avatar           : "profile.jpeg"
+  # avatar           : "F90EBB9E-0CAC-4CA4-B57A-F1A32314F448.png"
+  # avatar           : "profile.jpeg"
+  avatar           : "IMG_8897.jpeg
   bio              : "Professor of Machine Learning"
   location         :
   employer         :
