@@ -64,8 +64,6 @@ The main highlights of my recent activities are...
 
 <br><br><br>
 
-<a href="https://github.com/profgavinbrown.github.io/edit/main/{{ page.path }}">
-Edit this page</a>
 
 <a href="https://clustrmaps.com/site/1bo05" title="Visit tracker">
   <img width=5px src="//www.clustrmaps.com/map_v2.png?d=3Zlt0peoQN6NYFbwQbkDh9TnsM6OXl0rAFqoYZe9c9I&cl=ffffff">
